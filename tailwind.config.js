@@ -27,7 +27,7 @@ module.exports = {
         'velocite-yellow-2': '#F8E45C',
         'velocite-yellow-3': '#F6D32D',
         'velocite-yellow-4': '#F5C211',
-        'velocite-yellow-5': '#E5A50A',
+        'velocite-yellow-5': '#429ada',
         'velocite-orange-1': '#FFBE6F',
         'velocite-orange-2': '#FFA348',
         'velocite-orange-3': '#FF7800',

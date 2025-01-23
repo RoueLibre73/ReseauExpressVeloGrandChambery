@@ -64,7 +64,7 @@
                       Plan officiel
                     </NuxtLink>
                     <NuxtLink
-                      to="https://barometre.parlons-velo.fr/2021/carte/#11.88/43.61007/3.87324"
+                      to="https://barometre.parlons-velo.fr/2021/carte/#12.21/45.56818/5.91894"
                       target="_blank"
                       class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
@@ -89,7 +89,7 @@
 
           <Popover v-slot="{ open }" class="relative">
             <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-velocite-yellow-5 focus:outline-none focus:ring-2 focus:ring-velocite-yellow-5 focus:ring-offset-2']">
-              <span>Vélolignes</span>
+              <span>Lignes</span>
               <Icon name="mdi:chevron-down" :class="[open ? 'text-gray-600' : 'text-gray-400', 'ml-2 h-5 w-5 group-hover:text-gray-500']" aria-hidden="true" />
             </PopoverButton>
             <transition
@@ -255,7 +255,7 @@
           </div>
           <div class="py-6 px-5 space-y-6 bg-gray-50">
             <div class="ml-3 text-base font-medium text-gray-900">
-              Toutes les Vélolignes
+              Toutes les Lignes
             </div>
             <div class="grid grid-cols-4 gap-y-4 gap-x-8">
               <NuxtLink v-for="voie in voies" :key="voie.line" :to="getVoieCyclablePath(voie.line)" class="-m-3 flex items-start rounded-lg p-3 hover:bg-gray-50" @click="close()">

@@ -19,10 +19,10 @@
             <dl class="rounded-lg bg-white shadow-lg sm:grid sm:grid-cols-3">
               <div class="flex flex-col border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r">
                 <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                  Vélolignes
+                  Lignes
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  {{ getNbVoiesCyclables() }}
+                  11
                 </dd>
               </div>
               <div class="flex flex-col border-t border-b border-gray-100 p-6 text-center sm:border-0 sm:border-l sm:border-r">
