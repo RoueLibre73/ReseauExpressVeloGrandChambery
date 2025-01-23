@@ -158,7 +158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": 1,
+        "line": "1",
         "name": "Voie Verte Belle Via",
         "quality": "good",
         "doneAt": "31\/12\/1997",
