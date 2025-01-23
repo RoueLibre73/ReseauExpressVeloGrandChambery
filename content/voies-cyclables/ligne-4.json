@@ -286,7 +286,7 @@
         "properties": {
           "line": "4",
           "name": "Variante RD1006 Nord",
-          "quality": "",
+          "quality": "fair",
           "status": "variante-postponed",
           "text": "variante Piste 4",
           "type": "bidirectionnelle",
@@ -305,7 +305,7 @@
         "properties": {
           "line": "4",
           "name": "Variante RD1006 Sud",
-          "quality": "",
+          "quality": "fair",
           "status": "variante",
           "text": "variante Piste 4",
           "type": "voie-verte",
@@ -323,6 +323,7 @@
         "properties": {
           "line": "4",
           "name": "Barby",
+          "quality": "bad",
           "status": "postponed",
           "type": "aucun",
           "link": "/rev-4#barby"

@@ -80,7 +80,7 @@
     "properties": {
       "line": "7",
       "name": "Quai de la Rize",
-      "quality": "",
+      "quality": "fair",
       "status": "postponed",
       "type": "bandes-cyclables",
       "link": "/rev-7#quai-de-la-rize"
@@ -106,7 +106,7 @@
         "properties": {
           "line": "7",
           "name": "Rue de Serbie",
-          "quality": "",
+          "quality": "bad",
           "status": "postponed",
           "type": "aucun",
           "link": "/rev-7#rue-de-serbie"
@@ -213,7 +213,7 @@
         "properties": {
           "line": 7,
           "name": "Voie Verte Belle Via Sud",
-          "quality": "",
+          "quality": "bad",
           "status": "postponed",
           "type": "aucun",
           "link": "/rev-7#avenue-verte-sud"

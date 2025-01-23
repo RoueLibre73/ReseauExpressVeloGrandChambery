@@ -97,7 +97,7 @@
         "line": "9",
         "name": "Avenue Jean Jaures",
         "doneAt": "01\/01\/2006",
-        "quality": "",
+        "quality": "fair",
         "status": "postponed",
         "type": "bidirectionnelle",
         "link": "/rev-9#avenue-jean-jaures"
@@ -118,7 +118,7 @@
       "properties": {
         "line": "9",
         "name": "Avenue du Comte Vert",
-        "quality": "good",
+        "quality": "fair",
         "doneAt": "01\/06\/2019",
         "status": "done",
         "type": "bilaterale",
@@ -171,7 +171,7 @@
       "properties": {
         "line": "9",
         "name": "Avenue de la Motte Servolex Sud",
-        "quality": "",
+        "quality": "fair",
         "status": "postponed",
         "type": "bandes-cyclables",
         "link": "/rev-9#avenue-de-la-motte-servolex-sud"
@@ -219,7 +219,7 @@
       "properties": {
         "line": "9",
         "name": "Avenue Costa de Beauregard Sud",
-        "quality": "",
+        "quality": "bad",
         "status": "postponed",
         "type": "aucun",
         "link": "/rev-9#avenue-costa-de-beauregard"
@@ -238,7 +238,7 @@
       "properties": {
         "line": "9",
         "name": "Avenue Costa de Beauregard centre",
-        "quality": "",
+        "quality": "bad",
         "status": "postponed",
         "type": "aucun",
         "link": "/rev-9#avenue-costa-de-beauregard"
