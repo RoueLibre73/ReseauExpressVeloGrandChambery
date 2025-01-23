@@ -70,21 +70,21 @@
               <div>Qualité</div>
               <br>
               <div class="my-auto rounded-md border-gray-500 border">
-                <div class="h-1 bg-blue" />
+                <div class="h-1 bg-velocite-green-5" />
               </div>
               <div>
                 satisfaisant
               </div>
 
               <div class="my-auto rounded-md border-gray-500 border">
-                <div class="h-1 bg-red" />
+                <div class="h-1 bg-velocite-orange-5" />
               </div>
               <div>
                 à améliorer
               </div>
 
               <div class="my-auto rounded-md border-gray-500 border">
-                <div class="h-1 bg-black" />
+                <div class="h-1 bg-velocite-red-5" />
               </div>
               <div>
                 non satisfaisant
