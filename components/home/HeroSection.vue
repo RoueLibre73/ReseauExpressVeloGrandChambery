@@ -64,9 +64,6 @@
                 <NuxtLink to="/plan-officiel" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
                   Plan officiel
                 </NuxtLink>
-                <NuxtLink to="#ou-on-en-est" class="flex items-center justify-center px-4 py-3 text-base font-medium rounded-md shadow-sm text-velocite-yellow-5 border border-velocite-yellow-5 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
-                  Avancement global
-                </NuxtLink>
               </div>
             </div>
           </div>
