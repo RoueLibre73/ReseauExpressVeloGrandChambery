@@ -575,9 +575,9 @@ function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
 
     if (displayedLayer == DisplayedLayer.Quality) {
       map.setPaintProperty(l, "line-color", ["case",
-        ["==", ['get', 'quality'], "bad"], "#ff6961",
-        ["==", ['get', 'quality'], "fair"], "#F3F32A",
-        ["==", ['get', 'quality'], "good"], "#77dd77",
+        ["==", ['get', 'quality'], "bad"], " #0e0d0d",
+        ["==", ['get', 'quality'], "fair"], " #e81916",
+        ["==", ['get', 'quality'], "good"], " #429ada",
         ["==", ['get', 'status'], "done"], "#000000",
         "white"
       ]);
@@ -585,12 +585,12 @@ function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
       map.setPaintProperty(l, "line-color", ["to-color", ['get', 'color']]);
     } else if (displayedLayer == DisplayedLayer.Type) {
       map.setPaintProperty(l, "line-color", ["case",
-        ["==", ['get', 'type'], "bidirectionnelle"], "#b3c6ff", // bleu
-        ["==", ['get', 'type'], "bilaterale"], "#b3fbff", // cyan
-        ["==", ['get', 'type'], "bandes-cyclables"], "#c1b3ff", // bleu-violet
-        ["==", ['get', 'type'], "voie-bus"], "#fbb3ff", // violet
-        ["==", ['get', 'type'], "voie-bus-elargie"], "#e1b3ff", // violet
-        ["==", ['get', 'type'], "velorue"], "#fffbb3", // jaune
+        ["==", ['get', 'type'], "bidirectionnelle"], " #b3c6ff", // bleu
+        ["==", ['get', 'type'], "bilaterale"], " #b3fbff", // cyan
+        ["==", ['get', 'type'], "bandes-cyclables"], " #c1b3ff", // bleu-violet
+        ["==", ['get', 'type'], "voie-bus"], " #fbb3ff", // violet
+        ["==", ['get', 'type'], "voie-bus-elargie"], " #e1b3ff", // violet
+        ["==", ['get', 'type'], "velorue"], " #fffbb3", // jaune
         ["==", ['get', 'type'], "voie-verte"], "#b3ffb6", // vert
         ["==", ['get', 'type'], "zone-de-rencontre"], "#daffb3", // vert clair
         ["==", ['get', 'type'], "chaucidou"], "#ffeab3", // orange
