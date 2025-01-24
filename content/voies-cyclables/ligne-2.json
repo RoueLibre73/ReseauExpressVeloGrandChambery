@@ -17,7 +17,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "pump",
+        "type": "danger",
         "name": "Giratoire Chamnord",
         "line": "2",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4023.jpg"
@@ -132,7 +132,7 @@
         "line": "2",
         "name": "Avenue des landiers - Passage à niveau",
         "quality": "fair",
-        "status": "postponed",
+        "status": "unknown",
         "type": "bandes-cyclables",
         "link": "/rev-2#passage-à-niveau"
       },
