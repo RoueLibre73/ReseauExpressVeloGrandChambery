@@ -112,7 +112,7 @@ export const useStats = () => {
 
     return {
       alreadyExisting: {
-        name: 'Avant mandat',
+        name: 'Avant 2020',
         distance: alreadyExistingDistance,
         percent: getPercent(alreadyExistingDistance),
         class: 'text-velocite-dark-5 font-semibold'
@@ -121,7 +121,7 @@ export const useStats = () => {
         name: 'Réalisés',
         distance: doneDistance - alreadyExistingDistance,
         percent: getPercent(doneDistance) - getPercent(alreadyExistingDistance),
-        class: 'text-velocite-yellow-5 font-semibold'
+        class: 'text-lvv-blue-600 font-semibold'
       },
       wip: {
         name: 'En travaux',
