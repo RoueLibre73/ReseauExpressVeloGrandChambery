@@ -4,13 +4,13 @@ description: Présentation et ressources
 imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/rev.jpg
 ---
 
-Un <strong>Réseau Cyclable à Haut Niveau de Service (RCHNS)</strong>  ou <strong>Réseau Express Velo (REV)</strong> est un réseau de pistes cyclables continus et sécurisés qui permet à toutes et tous de se déplacer à vélo de manière efficace à travers votre ville. Loin de l’image de pistes pour vélotaffeurs pressés, ce Réseau rend accessible le vélo au plus grand nombre, à tous les âges de la vie.
+Un <strong>Réseau Cyclable à Haut Niveau de Service (RCHNS)</strong>  ou <strong>Réseau Express Velo (REV)</strong> est un réseau de pistes cyclables continues et sécurisées qui permet à toutes et tous de se déplacer à vélo de manière efficace à travers un territoire. Loin de l’image de pistes pour vélotaffeurs pressés, ce Réseau rend accessible les trajets à vélo au plus grand nombre, à tous les âges de la vie.
 
-Nommé "Pistes Bleues" à Grand Chambéry, ce réseau constitue une partie du réseau cyclable d'une agglomération, mais supporte la majorité des flux de cyclistes. À l’instar d’un tramway ou d’un bus à haut niveau de service, les lignes d’un RCHNS ou REV relient les points principaux d’un territoire, en offrant sécurité et confort aux cyclistes. 
+Nommé "Pistes Bleues" à Grand Chambéry, ce réseau constitue une partie du réseau cyclable d'une agglomération, mais supporte la majorité des flux de cyclistes. À l’instar d’un tramway ou d’un bus à haut niveau de service, les lignes d’un RCHNS ou REV relient les points principaux d’un territoire et en facilitent la traversée, en offrant sécurité et confort aux usagers. 
 
-Ce réseau cyclable structurant "principal" est complémentaire du réseau cyclable "secondaire" et du réseau de "desserte locale" pour ainsi offrir une agglomération cyclable pour toutes et tous.
+Ce réseau cyclable structurant "principal" est complété par un réseau cyclable "secondaire" et d'un réseau de "desserte locale" offrant ainsi une agglomération cyclable pour toutes et tous.
 
-Cet observatoire suit et évalue seulement le développement du réseau des Pistes Bleues sur le territoire de Grand Chambéry, l'association Roue Libre se mobilise également pour la mise en place d'un système vélo complet sur ce territoire : services aux usagers, stationnements, aménagements cyclables adaptés, ville apaisée...
+Cet observatoire suit et évalue le développement du réseau des Pistes Bleues sur le territoire de Grand Chambéry, l'association Roue Libre se mobilise également pour la mise en place d'un système vélo complet sur ce territoire : services aux usagers, stationnements, aménagements cyclables adaptés, ville apaisée...
 Suivez l'actualité de l'association sur https://rouelibre.net
 
 Pour nous rejoindre <a href="https://rouelibre.net/#anchor-contact" target="_blank"> contactez nous</a>
