@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "perspective",
+        "type": "danger",
         "name": "Traversée du passage à niveau à améliorer",
         "line": "2",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4011.jpg"
@@ -17,7 +17,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "perspective",
+        "type": "pump",
         "name": "Giratoire Chamnord",
         "line": "2",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4023.jpg"
