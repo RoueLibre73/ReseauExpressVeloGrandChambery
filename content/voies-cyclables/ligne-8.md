@@ -80,7 +80,7 @@ credit: Roue Libre
 ::
 
 ### Cognin
-<span style="color:red;font-weight:bold">A améliorer</span> Piste cyclable chemin des vieux capucins puis aucun aménagement dans le centre ville de Cognin
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Puis aucun aménagement dans le centre ville de Cognin
 
 ## Fil d'actu
 
