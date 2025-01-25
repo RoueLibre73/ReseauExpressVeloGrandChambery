@@ -115,7 +115,7 @@ export const useStats = () => {
         name: 'Avant 2020',
         distance: alreadyExistingDistance,
         percent: getPercent(alreadyExistingDistance),
-        class: 'text-velocite-dark-5 font-semibold'
+        class: 'text-lvv-blue-800 font-semibold'
       },
       done: {
         name: 'Réalisés',
