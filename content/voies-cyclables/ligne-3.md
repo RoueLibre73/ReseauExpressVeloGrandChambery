@@ -29,7 +29,17 @@ credit: Roue Libre
 ::
 
 ### Boulevard de la Colonne
-<span style="color:red;font-weight:bold">A améliorer</span> Le tracé actuel de cette piste via la place des Éléphants et le Boulevard de la colonne engendre des conflits avec les piétons, non compatible avec un réseau cyclable à Haut Niveau de Service.
+*Rue de Boigne - Boulevard de la Colonne*
+
+ <span style="color:red;font-weight:bold">A améliorer</span> Le tracé actuel de cette piste via le bas de la rue piétonne de Boigne et la place des Éléphants engendre des conflits avec les piétons, non compatible avec un réseau cyclable à Haut Niveau de Service. Des bandes cyclables ont été récemment tracées sur le Boulevard de la Colonne. 
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/REV3-IMG_1019.jpg
+caption: Boulevard de la Colonne
+credit: Roue Libre
+---
+::
 
 ### Rue Favre
 <span style="color:black;font-weight:bold">Non satisfaisant</span> Variante proposée par l'association Roue Libre pour créer une liaison cyclable continue et sécurisée séparée de la zone pietonne de la partie haute de la rue de Boigne et de la place des Eléphants.

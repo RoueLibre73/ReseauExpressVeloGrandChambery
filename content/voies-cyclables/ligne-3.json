@@ -5,6 +5,19 @@
       {
         "type": "Feature",
         "properties": {
+          "type": "danger",
+          "name": "Carrefour de la Sasson",
+          "line": "2",
+          "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/01/REV3-IMG_8904.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.921412557236351, 45.5683772569177]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "line": "3",
           "name": "Rue de Boigne",
           "quality": "bad",

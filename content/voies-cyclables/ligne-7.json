@@ -5,7 +5,7 @@
       {
         "type": "Feature",
         "properties": {
-          "type": "perspective",
+          "type": "danger",
           "name": "Carrefour de la Libération",
           "line": "7",
           "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4257.jpg"
@@ -18,7 +18,7 @@
       {
             "type": "Feature",
             "properties": {
-              "type": "perspective",
+              "type": "danger",
               "name": "Giratoire Paul Chevallier non sécurisé",
               "line": "7",
               "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4206.jpg"
@@ -31,7 +31,7 @@
           {
         "type": "Feature",
         "properties": {
-          "type": "perspective",
+          "type": "danger",
           "name": "Traversée quai Borrel",
           "line": "7",
           "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4269.jpg"
@@ -44,7 +44,7 @@
       {
         "type": "Feature",
         "properties": {
-          "type": "perspective",
+          "type": "danger",
           "name": "Pont des Carmes",
           "line": "7",
           "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4271.jpg"

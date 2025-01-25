@@ -12,14 +12,27 @@ cover: https://rouelibre.net/wp-content/uploads/2024/10/Avenue-de-Lyon-liaison-C
 
 ## Les tronçons (du Sud au Nord)
 
-### Chambéry Buisson Rond à la Médiathèque Jean-Jacques Rousseau
-<span style="color:red;font-weight:bold">A améliorer</span> Bandes cyclables, pistes sur trottoir puis aucun aménagement Rue de la République (Manège).
-Tronçon direct mais discontinu, peu capacitaire et peu lisible
+### Avenue Marius Berroir
+*Avenue Marius Berroir et Rue Costa de Beauregard*
+
+<span style="color:red;font-weight:bold">A améliorer</span> Bandes cyclables, pistes sur trottoir.
+Tronçon direct mais discontinu et peu capacitaire.
 
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2024/06/IMG_1252.jpg
 caption: Avenue Marius Berroir
+credit: Roue Libre
+---
+::
+
+### Rue de la République Sud
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Aucun aménagement Rue de la République Sud (Manège).
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_0163.jpg
+caption: Avenue de la République
 credit: Roue Libre
 ---
 ::
@@ -33,13 +46,38 @@ En attente de la pérennisation et de la mise en place de continuités cyclables
 ::
 
 ### Avenue de Lyon
-<span style="color:red;font-weight:bold">A améliorer</span> Bandes cyclables incompatibles avec un trafic automobile de près de 8000 véhicules jours
+<span style="color:red;font-weight:bold">A améliorer</span> Bandes cyclables incompatibles avec un trafic automobile de près de 8000 véhicules / jour.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_1229.jpg
+caption: Avenue de Lyon (Prefecture)
+credit: Roue Libre
+---
+::
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_0143.jpg
+caption: Avenue de Lyon
+credit: Roue Libre
+---
+::
+
 ::banner{type="info"}
 Avril 2024 Lancement d'une étude de faisabilité Cognin et Chambéry par Grand Chambéry
 ::
 
 ### Chemin des Capucins
 <span style="color:blue;font-weight:bold">Satisfaisant</span> Piste cyclable bidirectionnelle
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_0145.jpg
+caption: Chemin des Capucins
+credit: Roue Libre
+---
+::
 
 ### Cognin
 <span style="color:red;font-weight:bold">A améliorer</span> Piste cyclable chemin des vieux capucins puis aucun aménagement dans le centre ville de Cognin
