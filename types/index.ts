@@ -101,6 +101,7 @@ export type DangerFeature = {
     name: string
     description: string
     danger: string
+    imgUrl: string
   }
   geometry: {
     type: 'Point';
