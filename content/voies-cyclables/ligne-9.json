@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "perspective",
+        "type": "danger",
         "name": "Carrefour Comte Vert",
         "line": "9",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/01/REV9-IMG_4278.jpg"
@@ -20,23 +20,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "perspective",
-        "name": "Ecole Jean Jaurès",
-        "line": "9",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/01/REV9-IMG_4282.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.913014462883268,
-          45.56982722325415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "perspective",
+        "type": "danger",
         "name": "Rond Point du stade",
         "line": "9",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/06/IMG_1096-300x225.jpg"

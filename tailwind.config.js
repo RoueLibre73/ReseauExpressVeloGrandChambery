@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'lvv-blue-800': ' #0474b9',
+        'lvv-blue-800': ' #035080',
         'lvv-blue-600': ' #429ada',
         'lvv-blue-500': ' #55a4dd',
         'lvv-blue-400': ' #7fbbe6',
