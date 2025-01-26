@@ -7,6 +7,8 @@
         "properties": {
           "type": "danger",
           "name": "Carrefour de la Libération",
+          "description": "",
+          "danger": "Connexion au Pont des Amours non aménagée",
           "line": "7",
           "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4257.jpg"
         },
@@ -19,7 +21,9 @@
             "type": "Feature",
             "properties": {
               "type": "danger",
-              "name": "Giratoire Paul Chevallier non sécurisé",
+              "name": "Giratoire Paul Chevalier",
+              "description": "",
+              "danger": "Circulation des cycles sur l'anneau routier",
               "line": "7",
               "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4206.jpg"
             },
@@ -33,6 +37,8 @@
         "properties": {
           "type": "danger",
           "name": "Traversée quai Borrel",
+          "description": "",
+          "danger": "Traversée non sécurisée",
           "line": "7",
           "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4269.jpg"
         },
@@ -46,6 +52,8 @@
         "properties": {
           "type": "danger",
           "name": "Pont des Carmes",
+          "description": "",
+          "danger": "Voie cyclable non séparée de la chaussée",
           "line": "7",
           "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4271.jpg"
         },

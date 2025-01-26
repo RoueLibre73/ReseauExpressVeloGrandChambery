@@ -6,14 +6,16 @@
       "type": "Feature",
       "properties": {
         "type": "danger",
-        "name": "Giratoire Place Lucien Biset",
+        "name": "Place Lucien Biset",
+        "description": "",
+        "danger": "Circulation des cycles sur l'anneau routier",
         "line": "8",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_0141.jpg"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.908176318332551,
-        45.562913181553114]
+        "coordinates": [5.914929787366589,
+        45.56396090600333]
       }
     },
     {
