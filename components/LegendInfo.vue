@@ -49,7 +49,7 @@
                 </div>
               </div>
               <div>
-                prévu pour 2026
+                à l'étude
               </div>
 
               <div class="my-auto rounded-md border-gray-500 border relative">
