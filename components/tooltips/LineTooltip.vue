@@ -120,7 +120,7 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
       class: 'text-velocite-yellow-5 rounded-xl px-2 border border-dashed border-velocite-yellow-5'
     },
     planned: {
-      label: 'à l'étude',
+      label: 'Etude',
       class: 'text-velocite-yellow-5 rounded-xl px-2 border border-velocite-yellow-5'
     },
     tested: {
