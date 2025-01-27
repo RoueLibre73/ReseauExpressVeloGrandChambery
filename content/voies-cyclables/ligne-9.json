@@ -137,7 +137,7 @@
         "line": "9",
         "name": "Avenue du Général Cartier",
         "quality": "good",
-        "doneAt": "01\/01\/2000",
+        "doneAt": "29\/01\/2008",
         "status": "done",
         "type": "bilaterale",
         "link": "/rev-9#avenue-du-general-cartier"
@@ -182,7 +182,7 @@
         "line": "9",
         "name": "Avenue de la Motte Servolex Nord",
         "quality": "good",
-        "doneAt": "01\/01\/2000",
+        "doneAt": "29\/01\/1999",
         "status": "done",
         "type": "bidirectionnelle",
         "link": "/rev-9#avenue-de-la-motte-servolex-nord"
@@ -252,7 +252,7 @@
         "line": "9",
         "name": "Résidence Sainte Anne ",
         "quality": "good",
-        "doneAt": "01\/01\/2000",
+        "doneAt": "29\/01\/2008",
         "status": "done",
         "type": "bidirectionnelle",
         "link": "/rev-9#residence-sainte-anne"

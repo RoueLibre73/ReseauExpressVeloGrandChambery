@@ -32,21 +32,6 @@
               "coordinates": [5.934261,45.56606]
             }
           },
-          {
-        "type": "Feature",
-        "properties": {
-          "type": "danger",
-          "name": "Traversée quai Borrel",
-          "description": "",
-          "danger": "Traversée non sécurisée",
-          "line": "7",
-          "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4269.jpg"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.927943879997457,45.56727695419508]
-        }
-      },
       {
         "type": "Feature",
         "properties": {
@@ -143,7 +128,7 @@
           "line": "7",
           "name": "Voie Verte sud - Belle Via",
           "quality": "fair",
-          "doneAt": "01\/01\/2000",
+          "doneAt": "01\/01\/1999",
           "status": "done",
           "type": "voie-verte",
           "link": "/rev-7#avenue-verte-sud"
@@ -167,7 +152,7 @@
         "properties": {
           "line": "7",
           "name": "Parc de Buisson Rond",
-          "doneAt": "01\/01\/2000",
+          "doneAt": "01\/01\/1999",
           "quality": "fair",
           "status": "done",
           "type": "voie-verte",
@@ -177,6 +162,24 @@
         "type": "LineString",
         "coordinates":[
             [5.941908,45.561179],[5.9412,45.561345],[5.94061,45.561901],[5.94075,45.562314],[5.940599,45.562892],[5.940396,45.563163],[5.940052,45.563418],[5.939612,45.563891],[5.939269,45.564169],[5.939151,45.564312],[5.939183,45.564447],[5.938936,45.564657],[5.938357,45.565048],[5.937874,45.565048],[5.937692,45.564815],[5.936581,45.565202]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "line": "7",
+          "name": "Variante Parc de Buisson Rond",
+          "quality": "bad",
+          "status": "variante-postponed",
+          "text": "variante",
+          "type": "aucun",
+          "link": "/rev-7#parc-buisson-rond"
+        },
+        "geometry":{
+        "type": "LineString",
+        "coordinates":[
+          [5.937719,45.564826],[5.938008,45.56466],[5.938057,45.564585],[5.939194,45.563763],[5.939409,45.563692],[5.93958,45.563542],[5.939666,45.563343],[5.939897,45.562889],[5.940251,45.562333],[5.940605,45.561913]
           ]
         }
       },
