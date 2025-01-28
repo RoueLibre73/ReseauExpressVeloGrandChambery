@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue 11
 line: 11
-lineName: Piste X
+lineName: Piste 11
 lineNameShort: 11
 from: Chambéry (Médiathèque)
 to: Saint Alban Leysse (Plaine des Sports)

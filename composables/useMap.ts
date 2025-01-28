@@ -664,7 +664,7 @@ function drawLanesPlanned(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'line-width': laneWidth,
       'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [0.6, 1.2],
+      'line-dasharray': [1, 1],
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
@@ -741,7 +741,7 @@ function drawLanesVariantePostponed(map: Map, lanes: DisplayedLane[]) {
       'symbol-placement': 'line',
       'symbol-spacing': 120,
       'text-font': ['Open Sans Regular'],
-      'text-field': ['coalesce', ['get', 'text'], 'variante reportée'],
+      'text-field': ['coalesce', ['get', 'text'], 'variante'],
       'text-size': 14
     }
   });
@@ -860,7 +860,7 @@ function drawLanesWIP(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'line-width': laneWidth,
       'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [0.2, 1.1],
+      'line-dasharray': [0.2, 2],
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
