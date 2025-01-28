@@ -1,7 +1,7 @@
 ---
-name: Piste 9
+name: Piste Bleue 9
 line: 9
-lineName: 9
+lineName: Piste 9
 lineNameShort: 9
 from: Chambéry (Poste du Vernay)
 to: La Motte Servolex (Pré Marquis)

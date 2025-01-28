@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue 10
 line: 10
-lineName: 10
+lineName: Piste 10
 lineNameShort: 10
 from: Chambéry (Caffe)
 to: Jacob Bellecombette (Mairie)

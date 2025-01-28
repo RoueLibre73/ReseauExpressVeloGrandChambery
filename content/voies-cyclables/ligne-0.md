@@ -1,7 +1,7 @@
 ---
 name: Piste d'apprentissage vélo
 line: 0
-lineName: 0
+lineName: Piste 0
 lineNameShort: 0
 from:
 to: Chambéry

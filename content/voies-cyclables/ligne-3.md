@@ -1,7 +1,7 @@
 ---
-name: Piste 3
+name: Piste Bleue 3
 line: 3
-lineName: 3
+lineName: Piste 3
 lineNameShort: 3
 from: Chambéry (Château des Ducs)
 to: Sonnaz (Maison Brulée)

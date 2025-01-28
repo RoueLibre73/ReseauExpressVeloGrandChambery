@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue 2
 line: 2
-lineName: 2
+lineName: Piste 2
 lineNameShort: 2
 from: Chambéry (Palais de Justice)
 to: Chambéry (Landiers)

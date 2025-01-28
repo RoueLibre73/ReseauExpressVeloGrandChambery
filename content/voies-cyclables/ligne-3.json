@@ -75,7 +75,7 @@
           "line": "3",
           "name": "Faubourg Reclus",
           "quality": "bad",
-          "status": "postponed",
+          "status": "planned",
           "type": "aucun",
           "link": "/rev-3#faubourg-reclus"
         },
@@ -92,7 +92,7 @@
           "line": "3",
           "name": "Faubourg Reclus",
           "quality": "bad",
-          "status": "postponed",
+          "status": "planned",
           "type": "aucun",
           "link": "/rev-3#faubourg-reclus"
         },
@@ -109,7 +109,7 @@
           "line": "3",
           "name": "Avenue d'Aix les Bains",
           "quality": "bad",
-          "status": "postponed",
+          "status": "planned",
           "type": "aucun",
           "link": "/rev-3#avenue-de-aix-les-bains"
         },
@@ -126,7 +126,7 @@
           "line": "3",
           "name": "Avenue d'Aix les Bains",
           "quality": "fair",
-          "status": "postponed",
+          "status": "planned",
           "type": "bandes-cyclables",
           "link": "/rev-3#avenue-de-aix-les-bains"
         },
@@ -143,7 +143,7 @@
           "line": "3",
           "name": "Avenue d'Aix les Bains",
           "quality": "fair",
-          "status": "postponed",
+          "status": "planned",
           "type": "bandes-cyclables",
           "link": "/rev-3#avenue-de-aix-les-bains"
         },
@@ -176,7 +176,7 @@
         "properties": {
           "line": "3",
           "name": "Avenue Daniel Rops Nord",
-          "quality": "good",
+          "quality": "fair",
           "doneAt": "29\/01\/2015",
           "status": "done",
           "type": "bandes-cyclables",

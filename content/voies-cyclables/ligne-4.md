@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue 4
 line: 4
-lineName: 4
+lineName: Piste 4
 lineNameShort: 4
 from: Chambéry (Quai de la Rize)
 to: Challes les Eaux (Plan d'Eau)

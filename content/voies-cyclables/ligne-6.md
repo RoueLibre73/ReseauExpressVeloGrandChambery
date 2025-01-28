@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue 6
 line: 6
-lineName: 6
+lineName: Piste 6
 lineNameShort: 6
 from: La Ravoire (Liberté)
 to: Challes les Eaux (Les Massettes)

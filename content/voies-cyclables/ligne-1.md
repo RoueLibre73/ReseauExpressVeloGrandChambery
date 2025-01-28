@@ -1,7 +1,7 @@
 ---
-name: Piste 1 -Bourget du Lac
+name: Piste Bleue 1
 line: 1
-lineName: 1
+lineName: Piste 1
 lineNameShort: 1
 from: Chambéry (Eléphants)
 to: Bourget du Lac (Plage)
