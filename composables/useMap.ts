@@ -724,7 +724,6 @@ function drawLanesVariantePostponed(map: Map, lanes: DisplayedLane[]) {
       'line-width': laneWidth,
       'line-color': ["to-color", ['get', 'color']],
       'line-dasharray': [2, 2],
-      'line-opacity': 0.5,
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
