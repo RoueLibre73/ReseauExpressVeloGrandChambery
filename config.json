@@ -15,27 +15,27 @@
   "colors": [
     {
       "line": "0",
-      "color": "#24e567"
+      "color": "#DB777B"
     },
     {
       "line": "1",
-      "color": "#60A75B"
+      "color": "#77BD17"
     },
     {
       "line": "2",
-      "color": "#AC4D35"
+      "color": "#CC2B38"
     },
     {
       "line": "3",
-      "color": "#3B7B64"
+      "color": "#1A958F"
     },
     {
       "line": "4",
-      "color": "#DC8953"
+      "color": "#A95CDD"
     },
     {
       "line": "5",
-      "color": "#AF7392"
+      "color": "#6503B2"
     },
     {
       "line": "6",
@@ -43,7 +43,7 @@
     },
     {
       "line": "7",
-      "color": "#75BCAE"
+      "color": "#0071B4"
     },
     {
       "line": "8",
@@ -51,15 +51,15 @@
     },
     {
       "line": "9",
-      "color": "#EAAB50"
+      "color": "#E7991E"
     },
     {
       "line": "10",
-      "color": "#9A8A4B"
+      "color": "#E9EB16"
     },
     {
       "line": "11",
-      "color": "#4DADC9"
+      "color": "#B46913"
     },
     {
       "line": "12",
