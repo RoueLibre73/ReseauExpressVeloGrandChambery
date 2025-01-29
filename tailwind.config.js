@@ -63,6 +63,7 @@ module.exports = {
         'velocite-bilaterale': "#b3fbff", // cyan
         'velocite-velorue': "#fffbb3", // jaune
         'velocite-voie-verte': "#b3ffb6", // vert
+        'velocite-voie-bus': "#fbb3ff", // violet
       },
       typography: {
         DEFAULT: {

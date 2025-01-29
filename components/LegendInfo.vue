@@ -118,10 +118,10 @@
               </div>
 
               <div class="my-auto rounded-md border-gray-500 border">
-                <div class="h-1 bg-velocite-velorue" />
+                <div class="h-1 bg-velocite-voie-bus" />
               </div>
               <div>
-                vélorue
+                voie bus
               </div>
             </div>
           </div>
