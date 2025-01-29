@@ -860,7 +860,7 @@ function drawLanesWIP(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'line-width': laneWidth,
       'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [0,2, 2],
+      'line-dasharray': [0.2, 2],
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
@@ -878,26 +878,8 @@ function drawLanesWIP(map: Map, lanes: DisplayedLane[]) {
   layersWithLanes.push("layer-lanes-wip")
   layersWithLanes.push("layer-lanes-wip-done")
 
-  const dashArraySequence = [
-    [0, 2, 2],
-    [0.5, 2, 1.5],
-    [1, 2, 1],
-    [1.5, 2, 0.5],
-    [2, 2, 0],
-    [0, 0.5, 2, 1.5],
-    [0, 1, 2, 1],
-    [0, 1.5, 2, 0.5]
-  ];
-  let step = 0;
-  function animateDashArray(timestamp: number) {
-    // Update line-dasharray using the next value in dashArraySequence. The
-    // divisor in the expression `timestamp / 45` controls the animation speed.
-    const newStep = Math.floor((timestamp / 45) % dashArraySequence.length);
-
-    if (newStep !== step) {
-      map.setPaintProperty('layer-lanes-wip', 'line-dasharray', dashArraySequence[step]);
-      step = newStep;
-    }
+  animateOpacity(map, 0, 1000*0.75, 'layer-lanes-wip-done', 'line-opacity', 0.5, 0.9);
+}
 
 function addListnersForHovering(map: Map) {
 
