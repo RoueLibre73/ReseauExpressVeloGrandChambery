@@ -57,7 +57,7 @@
           "line": "3",
           "name": "Variante Rue Favre",
           "quality": "bad",
-          "status": "variante-postponed",
+          "status": "variante",
           "text": "variante",
           "type": "aucun",
           "link": "/rev-3#rue-favre"
