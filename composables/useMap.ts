@@ -685,8 +685,8 @@ function drawLanesVariante(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'line-width': laneWidth,
       'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [0.4, 1.1],
-      'line-opacity': 0.5,
+      'line-dasharray': [0.3, 1.2],
+      'line-opacity': 0.7,
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
