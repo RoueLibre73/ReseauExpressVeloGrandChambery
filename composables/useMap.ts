@@ -724,7 +724,7 @@ function drawLanesVariantePostponed(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'line-width': laneWidth,
       'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [0.4, 1.1],
+      'line-dasharray': [1, 1],
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
@@ -736,11 +736,10 @@ function drawLanesVariantePostponed(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'text-halo-color': '#fff',
       'text-halo-width': 3,
-      "text-opacity": postPonedOpacity + 0.4
     },
     layout: {
       'symbol-placement': 'line',
-      'symbol-spacing': 100,
+      'symbol-spacing': 120,
       'text-font': ['Open Sans Regular'],
       'text-field': ['coalesce', ['get', 'text'], 'variante'],
       'text-size': 14
@@ -818,7 +817,7 @@ function drawLanesPostponed(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'line-width': laneWidth,
       'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [0.5, 0.5],
+      'line-dasharray': [0.4, 1.1],
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
@@ -829,11 +828,12 @@ function drawLanesPostponed(map: Map, lanes: DisplayedLane[]) {
     source: `source-all-lanes-postponed`,
     paint: {
       'text-halo-color': '#fff',
-      'text-halo-width': 4,
+      'text-halo-width': 3,
+      "text-opacity": postPonedOpacity + 0.4
     },
     layout: {
       'symbol-placement': 'line',
-      'symbol-spacing': 120,
+      'symbol-spacing': 100,
       'text-font': ['Open Sans Regular'],
       'text-field': 'reporté',
       'text-size': 14,
@@ -841,8 +841,6 @@ function drawLanesPostponed(map: Map, lanes: DisplayedLane[]) {
   });
   layersWithLanes.push("layer-lanes-postponed")
 
-  animateOpacity(map, 0, 1000*5.0, 'layer-lanes-postponed', 'line-opacity', 0.0, postPonedOpacity );
-  animateOpacity(map, 0, 1000*5.0, 'layer-lanes-postponed-symbols', 'text-opacity',postPonedOpacity, postPonedOpacity + 0.4);
 }
 
 
