@@ -425,7 +425,6 @@
       {
         "type": "Feature",
         "properties": {
-          "id": "EinsteinI-commun",
           "line": "4",
           "name": "Voie verte des Planeurs Nord",
           "quality": "good",
@@ -444,7 +443,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "EinsteinI-commun",
         "line": "4",
         "name": "Voie verte des Planeurs Sud",
         "quality": "good",
