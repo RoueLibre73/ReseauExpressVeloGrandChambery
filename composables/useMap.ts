@@ -668,6 +668,23 @@ function drawLanesPlanned(map: Map, lanes: DisplayedLane[]) {
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
+  map.addLayer({
+    id: 'layer-lanes-planned-symbols',
+    type: 'symbol',
+    source: 'source-all-lanes-planned',
+    paint: {
+      'text-halo-color': '#fff',
+      'text-halo-width': 3,
+      "text-opacity": postPonedOpacity + 0.4
+    },
+    layout: {
+      'symbol-placement': 'line',
+      'symbol-spacing': 100,
+      'text-font': ['Open Sans Regular'],
+      'text-field': ['coalesce', ['get', 'text'], 'études en cours'],
+      'text-size': 14
+    }
+  });
   layersWithLanes.push("layer-lanes-planned")
 }
 
@@ -685,7 +702,7 @@ function drawLanesVariante(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'line-width': laneWidth,
       'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [0.3, 1.2],
+      'line-dasharray': [0.3, 2.5],
       'line-opacity': 0.7,
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
