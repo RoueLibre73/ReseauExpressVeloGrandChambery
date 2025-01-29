@@ -685,7 +685,7 @@ function drawLanesVariante(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'line-width': laneWidth,
       'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [2, 2],
+      'line-dasharray': [0.4, 1.1],
       'line-opacity': 0.5,
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
@@ -696,11 +696,12 @@ function drawLanesVariante(map: Map, lanes: DisplayedLane[]) {
     source: 'source-all-lanes-variante',
     paint: {
       'text-halo-color': '#fff',
-      'text-halo-width': 4
+      'text-halo-width': 3,
+      "text-opacity": postPonedOpacity + 0.4
     },
     layout: {
       'symbol-placement': 'line',
-      'symbol-spacing': 120,
+      'symbol-spacing': 100,
       'text-font': ['Open Sans Regular'],
       'text-field': ['coalesce', ['get', 'text'], 'variante'],
       'text-size': 14
@@ -734,11 +735,12 @@ function drawLanesVariantePostponed(map: Map, lanes: DisplayedLane[]) {
     source: 'source-all-lanes-variante-postponed',
     paint: {
       'text-halo-color': '#fff',
-      'text-halo-width': 4
+      'text-halo-width': 3,
+      "text-opacity": postPonedOpacity + 0.4
     },
     layout: {
       'symbol-placement': 'line',
-      'symbol-spacing': 120,
+      'symbol-spacing': 100,
       'text-font': ['Open Sans Regular'],
       'text-field': ['coalesce', ['get', 'text'], 'variante'],
       'text-size': 14
@@ -827,12 +829,11 @@ function drawLanesPostponed(map: Map, lanes: DisplayedLane[]) {
     source: `source-all-lanes-postponed`,
     paint: {
       'text-halo-color': '#fff',
-      'text-halo-width': 3,
-      "text-opacity": postPonedOpacity + 0.4
+      'text-halo-width': 4,
     },
     layout: {
       'symbol-placement': 'line',
-      'symbol-spacing': 100,
+      'symbol-spacing': 120,
       'text-font': ['Open Sans Regular'],
       'text-field': 'reporté',
       'text-size': 14,
@@ -859,7 +860,7 @@ function drawLanesWIP(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'line-width': laneWidth,
       'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [0.2, 2],
+      'line-dasharray': [0,2, 2],
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
@@ -877,8 +878,26 @@ function drawLanesWIP(map: Map, lanes: DisplayedLane[]) {
   layersWithLanes.push("layer-lanes-wip")
   layersWithLanes.push("layer-lanes-wip-done")
 
-  animateOpacity(map, 0, 1000*0.75, 'layer-lanes-wip-done', 'line-opacity', 0.5, 0.9);
-}
+  const dashArraySequence = [
+    [0, 2, 2],
+    [0.5, 2, 1.5],
+    [1, 2, 1],
+    [1.5, 2, 0.5],
+    [2, 2, 0],
+    [0, 0.5, 2, 1.5],
+    [0, 1, 2, 1],
+    [0, 1.5, 2, 0.5]
+  ];
+  let step = 0;
+  function animateDashArray(timestamp: number) {
+    // Update line-dasharray using the next value in dashArraySequence. The
+    // divisor in the expression `timestamp / 45` controls the animation speed.
+    const newStep = Math.floor((timestamp / 45) % dashArraySequence.length);
+
+    if (newStep !== step) {
+      map.setPaintProperty('layer-lanes-wip', 'line-dasharray', dashArraySequence[step]);
+      step = newStep;
+    }
 
 function addListnersForHovering(map: Map) {
 
