@@ -1,7 +1,6 @@
 <template>
   <div class="max-w-48">
     <div class="px-3 py-2 bg-lvv-pink flex flex-col items-center">
-      <Icon name="cyclopolis:danger" class="h-6 w-6 text-white" />
       <div class="text-center text-white text-lg font-medium">
         Point noir
       </div>

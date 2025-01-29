@@ -23,6 +23,8 @@
       "properties": {
         "type": "danger",
         "name": "Carrefour du Biollay",
+        "description": "",
+        "danger": "Accidentogène pour les cyclistes",
         "line": "8",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/12/REV8-carrefour-du-biollay.jpg"
       },
