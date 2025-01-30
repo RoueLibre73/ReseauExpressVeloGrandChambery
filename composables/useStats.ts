@@ -93,10 +93,10 @@ export const useStats = () => {
     const doneFeatures = features.filter(feature => feature.properties.status === 'done');
     const wipFeatures = features.filter(feature => ['wip', 'tested'].includes(feature.properties.status));
     const plannedFeatures = features.filter(feature =>
-      ['planned', 'unknown', 'variante'].includes(feature.properties.status)
+      ['planned', 'unknown'].includes(feature.properties.status)
     );
     const postponedFeatures = features.filter(feature =>
-      ['postponed', 'variante-postponed'].includes(feature.properties.status)
+      ['postponed'].includes(feature.properties.status)
     );
 
     const totalDistance = getDistance(features);
