@@ -271,7 +271,7 @@ export const useMap = () => {
       type: 'symbol',
       layout: {
         'icon-image': 'danger-icon',
-        'icon-size': 0.7
+        'icon-size': 0.5
       }
     });
     map.setLayoutProperty('perspectives', 'visibility', 'none');
