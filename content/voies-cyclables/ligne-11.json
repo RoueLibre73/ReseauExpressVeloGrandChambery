@@ -76,7 +76,7 @@
         "line": "11",
         "name": "Variante Avenue Docteur Desfrançois",
         "quality": "fair",
-        "status": "variante",
+        "status": "variante-postponed",
         "text": "variante",
         "type": "bandes-cyclables",
         "link": "/rev-11#avenue-docteur-desfrançois"
@@ -129,7 +129,7 @@
         "line": "11",
         "name": "Variante Mairie Bassens",
         "quality": "bad",
-        "status": "variante",
+        "status": "variante-postponed",
         "text": "variante",
         "type": "aucun",
         "link": "/rev-11#"

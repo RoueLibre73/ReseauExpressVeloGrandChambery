@@ -287,8 +287,8 @@
           "line": "4",
           "name": "Variante RD1006 Nord",
           "quality": "fair",
-          "status": "variante",
-          "text": "variante Piste 4",
+          "status": "variante-postponed",
+          "text": "étude en cours variante Piste 4",
           "type": "bidirectionnelle",
           "link": "/rev-4#variante-rd1006-nord"
         },
@@ -306,7 +306,7 @@
           "line": "4",
           "name": "Variante RD1006 Sud",
           "quality": "fair",
-          "status": "variante",
+          "status": "variante-postponed",
           "text": "variante Piste 4",
           "type": "voie-verte",
           "link": "/rev-4#variante-rd1006-sud"
