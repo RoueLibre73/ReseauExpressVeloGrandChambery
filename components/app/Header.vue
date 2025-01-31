@@ -4,7 +4,7 @@
       <div class="flex justify-between items-center py-3 sm:py-6 md:justify-start md:space-x-10">
         <div class="flex justify-start items-center lg:w-0 lg:flex-1">
           <NuxtLink to="/" class="flex space-x-2">
-            <span class="sr-only">Cyclopolis</span>
+            <span class="sr-only">Observatoire Pistes Bleues</span>
             <img
               class="h-7 w-auto sm:h-8"
               src="https://rouelibre.net/wp-content/uploads/2020/05/RL_Logo_10X10.png"
@@ -13,7 +13,7 @@
             <img
               class="h-8 w-auto sm:h-10"
               src="https://rouelibre.net/wp-content/uploads/2024/11/logo-Observatoire-Pistes-Bleues-v1.jpg"
-              alt="logo cyclopolis"
+              alt="logo Observatoire"
             >
           </NuxtLink>
         </div>

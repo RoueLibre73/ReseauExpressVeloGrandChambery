@@ -5,7 +5,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "danger",
+        "type": "pump",
         "name": "Quai des Allobroges",
         "description": "",
         "danger": "Traversée non sécurisée",
