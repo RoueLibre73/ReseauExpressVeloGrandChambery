@@ -219,7 +219,7 @@ export const useMap = () => {
     map.setLayoutProperty('perspectives', 'visibility', 'none');
     map.on('zoom', () => {
       const zoomLevel = map.getZoom();
-      if (zoomLevel > 14) {
+      if (zoomLevel > 13) {
         map.setLayoutProperty('perspectives', 'visibility', 'visible');
       } else {
         map.setLayoutProperty('perspectives', 'visibility', 'none');
@@ -271,7 +271,7 @@ export const useMap = () => {
       type: 'symbol',
       layout: {
         'icon-image': 'danger-icon',
-        'icon-size': 0.5
+        'icon-size': 0.7
       }
     });
     map.setLayoutProperty('perspectives', 'visibility', 'none');
