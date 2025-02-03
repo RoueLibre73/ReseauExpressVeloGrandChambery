@@ -62,7 +62,7 @@
           "quality": "bad",
           "status": "postponed",
           "type": "aucun",
-          "link": "/rev-5#reu-de-la-concorde"
+          "link": "/rev-5#rue-de-la-concorde"
         },
         "geometry": {
           "type": "LineString",
@@ -115,7 +115,7 @@
           "doneAt": "01\/01\/1999",
           "status": "done",
           "type": "voie-verte",
-          "link": "/rev-5#liaison-voie-verte"
+          "link": "/rev-5#liaison-belle-via"
         },
         "geometry": {
           "type": "LineString",
