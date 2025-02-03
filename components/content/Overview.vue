@@ -13,7 +13,7 @@
     </div>
     <section aria-labelledby="shipping-heading" class="mt-10">
       <ClientOnly>
-        <Map :features="features" :options="mapOptions" style="height: 40vh" />
+        <Map :features="features" :options="mapOptions" style="height: 70vh" />
       </ClientOnly>
     </section>
   </div>
