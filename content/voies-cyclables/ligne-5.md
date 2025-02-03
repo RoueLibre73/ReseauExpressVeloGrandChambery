@@ -15,7 +15,7 @@ cover: https://rouelibre.net/wp-content/uploads/2025/02/REV5-IMG_5418.jpg
 Le jonction au centre ville de Challes les Eaux n'est actuellement ni jalonnée ni sécurisée.
 
 ### Voie Verte des Planeurs
-<span style="color:blue;font-weight:bold">Satisfaisant</span> La Piste Bleue 5 débute du parking de la Base de loisirs de Challes les Eaux. Elle croise la voie verte des planeur, point de départ de la :line-link{line=4}. La Piste 5 suit la Voie verte des planneurs jusqu’au Rond-Point Aviateur Joseph Thoret.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> La Piste Bleue 5 débute du parking de la Base de loisirs de Challes les Eaux. Elle croise la voie verte des planeurs, point de départ de la :line-link{line=4} . La Piste 5 suit la Voie verte des planneurs jusqu’au giratoire Aviateur Joseph Thoret.
 
 ::content-image
 ---
@@ -26,7 +26,7 @@ credit: Roue Libre
 ::
 
 ### Voie Verte de la Mère
-<span style="color:blue;font-weight:bold">Satisfaisant</span> L'itinéraire se poursuite sur la Voie Vert de la Mère
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Après la travsersée de la RD1006, avec un plateau pietons-cycles, l'itinéraire se poursuite par la Voie Verte de la Mère.
 
 ::content-image
 ---
@@ -38,7 +38,7 @@ credit: Roue Libre
 
 ### Rue du Puits d'Ordet Nord
 <span style="color:black;font-weight:bold">Non satisfaisant</span>
-Aucun aménagement cyclable sur ce tronçon.
+Elle rejoint la rue du Puits d'Ordet, où il n'y a aucun aménagement cyclable.
 
 ::content-image
 ---
@@ -50,7 +50,7 @@ credit: Roue Libre
 
 ### Rue de la Concorde
 <span style="color:black;font-weight:bold">Non satisfaisant</span>
-Aucun aménagement cyclable dans la traversée du centre ville, présence d'un trafic automobile conséquent.
+Sur toute la traversée du centre ville de la Ravoire, il n'y a ucun aménagement cyclable et la présence d'un trafic automobile conséquent à certains horaires.
 
 
 ::content-image
@@ -63,19 +63,19 @@ credit: Roue Libre
 
 ### Avenue de la Liberté
 <span style="color:black;font-weight:bold">Non satisfaisant</span>
-Aucun aménagement cyclable.
+Connexion avec le départ de la :line-link{line=6} sur l'avenue de la Liberté, rue sans aménagement cyclable.
 
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV5-IMG_5386.jpg
-caption: Voie verte de la Mère
+caption: Avenue de la Liberté
 credit: Roue Libre
 ---
 ::
 
 ### Le Crest
 <span style="color:blue;font-weight:bold">Satisfaisant</span> 
-Tronçon très court et inondable liaison entre l'avenue de la Liberté et la Rue Dugesclin.
+Tronçon sécurisé de jonction entre l'avenue de la Liberté et la Rue Dugesclin par le quartier du Crest. Liaison inondable à certaines périodes de l'année.
 
 ::content-image
 ---
@@ -87,7 +87,7 @@ credit: Roue Libre
 
 ### Rue Dugesclin
 <span style="color:red;font-weight:bold">A améliorer</span>
-Marquage au sol de zone de rencontre, mixite piétons, cycles et automobiles
+Présence d'un simple marquage au sol d'une zone de rencontre piétons, cycles et automobiles.
 
 ::content-image
 ---
