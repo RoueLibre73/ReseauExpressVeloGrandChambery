@@ -219,7 +219,7 @@ export const useMap = () => {
     map.setLayoutProperty('perspectives', 'visibility', 'none');
     map.on('zoom', () => {
       const zoomLevel = map.getZoom();
-      if (zoomLevel > 13) {
+      if (zoomLevel > 12) {
         map.setLayoutProperty('perspectives', 'visibility', 'visible');
       } else {
         map.setLayoutProperty('perspectives', 'visibility', 'none');
