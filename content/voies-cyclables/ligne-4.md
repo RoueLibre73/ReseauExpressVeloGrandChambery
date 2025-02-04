@@ -12,7 +12,7 @@ cover: https://rouelibre.net/wp-content/uploads/2024/07/IMG_2585r-930x619.jpg
 
 ## Les tronçons (du Nord au Sud)
 
-### Chambéry à Saint Alban Leysse
+### Voie Verte de la Leysse
 La Piste Bleue 4 débute à Chambéry sur le quai de la Rize, au croisement avec la :line-link{line=7}.
 
 <span style="color:red;font-weight:bold">À améliorer</span> Sa première portion est la Voie verte de la Leysse de largeur 3 mètres utilisée par les piétons et les cycles, largeur insuffisante pour gérer à la fois le trafic cycliste journalier (supérieur à 1 500 cyclistes par jour) et la présence de piétons.
@@ -49,8 +49,8 @@ credit: Roue Libre
 ---
 ::
 
-### Barby
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Ce tronçon n'est pas aménagé pour les cycles.
+### Rue du Nivolet
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Ce tronçon à Barby n'est pas aménagé pour les cycles.
 
 ::content-image
 ---
@@ -60,7 +60,7 @@ credit: Roue Libre
 ---
 ::
 
-### Voie verte des planeurs. De Barby à Challes les Eaux
+### Voie verte des Planeurs
 <span style="color:blue;font-weight:bold">Satisfaisant</span> La Voie verte historique des planeurs permet de rejoindre en toute sécurité le plan d'eau de Challes les Eaux et le départ de la :line-link{line=5}.
 
 Le jonction au centre ville de Challes les Eaux n'est actuellement ni jalonnée ni sécurisée.
