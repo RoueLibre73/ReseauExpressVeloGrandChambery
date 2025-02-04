@@ -7,7 +7,6 @@
       "properties": {
         "type": "danger",
         "name": "Quai des Allobroges",
-        "description": "",
         "danger": "Traversée non sécurisée",
         "line": "1",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV.-Quai-Allobroges.jpg"

@@ -14,10 +14,6 @@
       <hr class="px-3 h-px bg-gray-200 border-0">
     </div>
 
-    <div class="px-3 py-2 text-center leading-normal">
-      {{ feature.properties.description }}
-    </div>
-
     <div class="bg-gray-100">
       <div class="px-3 py-2 text-center italic leading-normal">
         {{ feature.properties.danger }}

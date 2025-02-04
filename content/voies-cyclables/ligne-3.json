@@ -7,7 +7,6 @@
         "properties": {
           "type": "danger",
           "name": "Carrefour de la Sasson",
-          "description": "",
           "danger": "Traversée non sécurisée",
           "line": "3",
           "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/01/REV3-IMG_8904.jpg"

@@ -6,7 +6,6 @@
       "properties": {
         "type": "danger",
         "name": "Giratoire Chamnord",
-        "description": "",
         "danger": "Anneau cyclable non sécurisé de l'anneau routier",
         "line": "2",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4023.jpg"

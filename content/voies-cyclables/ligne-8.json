@@ -7,7 +7,6 @@
       "properties": {
         "type": "danger",
         "name": "Place Lucien Biset",
-        "description": "",
         "danger": "Circulation des cycles sur l'anneau routier",
         "line": "8",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_0141.jpg"
@@ -23,7 +22,6 @@
       "properties": {
         "type": "danger",
         "name": "Carrefour du Biollay",
-        "description": "",
         "danger": "Accidentogène pour les cyclistes",
         "line": "8",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/12/REV8-carrefour-du-biollay.jpg"

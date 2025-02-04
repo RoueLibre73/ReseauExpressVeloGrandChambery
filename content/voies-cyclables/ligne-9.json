@@ -6,7 +6,6 @@
       "properties": {
         "type": "danger",
         "name": "Carrefour Comte Vert",
-        "description": "",
         "danger": "Traversée non sécurisée",
         "line": "9",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/01/REV9-IMG_4278.jpg"
@@ -24,7 +23,6 @@
       "properties": {
         "type": "danger",
         "name": "Rond Point du stade",
-        "description": "",
         "danger": "Circulation des cycles sur l'anneau routier",
         "line": "9",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/06/IMG_1096-300x225.jpg"
