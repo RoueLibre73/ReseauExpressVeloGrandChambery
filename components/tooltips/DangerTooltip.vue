@@ -5,7 +5,7 @@
         Point noir
       </div>
     </div>
-
+<img :src="feature.properties.imgUrl" class="my-0">
     <div class="px-3 py-2 text-center text-base font-medium">
       {{ feature.properties.name }}
     </div>
