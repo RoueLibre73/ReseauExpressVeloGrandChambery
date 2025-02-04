@@ -102,9 +102,6 @@ function getDoneAtText(doneAt: string): string {
   const [day, month, year] = doneAt.split('/');
   const isBeforeMandat =
     new Date(Number(year), Number(month) - 1, Number(day)).getTime() < new Date(2021, 0, 1).getTime();
-  if (isBeforeMandat) {
-    return 'avant 2021';
-  }
   return `le ${doneAt}`;
 }
 
