@@ -13,7 +13,7 @@ Ce réseau cyclable structurant "principal" est complété par un réseau cyclab
 Cet observatoire suit et évalue le développement du réseau des Pistes Bleues sur le territoire de Grand Chambéry, l'association Roue Libre se mobilise également pour la mise en place d'un système vélo complet sur ce territoire : services aux usagers, stationnements, aménagements cyclables adaptés, ville apaisée...
 Suivez l'actualité de l'association sur https://rouelibre.net
 
-Pour nous rejoindre <a href="https://rouelibre.net/#anchor-contact" target="_blank"> contactez nous</a>
+Pour nous rejoindre <a href="https://framaforms.org/observatoire-pistes-bleues-roue-libre-1738778551" target="_blank"> contactez nous via ce formulaire</a>
 
 ### Ressources :
 - <a href="https://www.fub.fr/sites/fub/files/fub_note-position_rev_241017_web.pdf" target="_blank">Note de position de la FUB? Réseau Express Vélo : réaliser le potentiel vélo de son territoire </a>

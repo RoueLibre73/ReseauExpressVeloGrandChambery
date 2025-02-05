@@ -46,7 +46,7 @@ credit: CEREMA
 ::
 
 ## En travaux sur le terrain, mais pas sur cet observatoire ?
-Vous pourrez peut-être constater que certains tronçons sont réellement en travaux, mais qu'ils n'apparaissent pas sous ce statut sur la carte interactive de notre observatoire. Malgré nos efforts pour suivre au plus près l'avancement du chantier des Pistes Bleues de Grand Chambéry, il est possible que nous n'ayons pas encore eu l'information de début des travaux. Dans ce cas, n'hésitez pas à nous le signaler sur [ce lien](https://rouelibre.net/#anchor-contact).
+Vous pourrez peut-être constater que certains tronçons sont réellement en travaux, mais qu'ils n'apparaissent pas sous ce statut sur la carte interactive de notre observatoire. Malgré nos efforts pour suivre au plus près l'avancement du chantier des Pistes Bleues de Grand Chambéry, il est possible que nous n'ayons pas encore eu l'information de début des travaux. Dans ce cas, n'hésitez pas à nous le signaler dans [ce formulaire](https://framaforms.org/observatoire-pistes-bleues-roue-libre-1738778551).
 
 En revanche, nous considérons qu'un tronçon est en travaux si et seulement si ceux-ci ont réellement lieu sur le terrain, et si ils concernent réellement l'aménagement d'une piste cyclable. Ainsi, la présence d'un "totem travaux" de l'agglo n'est pas suffisant. En outre, tous les travaux préalables ne sont pas considérés. Ainsi, le désamiantage préalable de la chaussée ou la déviation des réseaux souterrains ne sont pas retenus.
 
