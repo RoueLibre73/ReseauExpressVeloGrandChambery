@@ -73,13 +73,7 @@
                         <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
                       </div>
                     </NuxtLink>
-                    <!-- <NuxtLink
-                      to="/services"
-                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
-                      @click="close()"
-                    >
-                      Services
-                    </NuxtLink> -->
+
                   </div>
                 </div>
               </PopoverPanel>
@@ -129,15 +123,22 @@
           >
             Evolution du réseau
           </NuxtLink>
-
-        </PopoverGroup>
-        <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <NuxtLink
             to="/carte-interactive"
             class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-lvv-blue-600 hover:shadow-lg transition duration-300 transform hover:scale-105"
-          >
+            >
             Carte interactive
           </NuxtLink>
+
+        </PopoverGroup>
+        <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
+                    <!-- <NuxtLink
+                      to="/services"
+                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      @click="close()"
+                    >
+                      Services
+                    </NuxtLink> -->
         </div>
       </div>
     </div>
