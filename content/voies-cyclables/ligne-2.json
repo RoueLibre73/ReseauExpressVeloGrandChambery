@@ -6,13 +6,27 @@
       "properties": {
         "type": "danger",
         "name": "Giratoire Chamnord",
-        "danger": "Anneau cyclable non sécurisé de l'anneau routier",
+        "danger": "Anneau cyclable non sécurisé",
         "line": "2",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4023.jpg"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.906503,45.587708]
+        "coordinates": [5.898556846334429, 45.59580279279092]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Traversée Nant Bruyant",
+        "danger": "Traversée non sécurisée",
+        "line": "2",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV2-IMG_4032.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.898556846334429, 45.59580279279092]
       }
     },
     {
