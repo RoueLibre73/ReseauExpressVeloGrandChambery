@@ -6,6 +6,20 @@
         "type": "Feature",
         "properties": {
           "type": "danger",
+          "name": "Avenue d'Aix les Bains",
+          "danger": "Traversée cycles non sécurisée",
+          "line": "3",
+          "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/Piste-3-1r.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.924368091311152, 45.58279885918776]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "type": "danger",
           "name": "Carrefour de la Sasson",
           "danger": "Traversée non sécurisée",
           "line": "3",

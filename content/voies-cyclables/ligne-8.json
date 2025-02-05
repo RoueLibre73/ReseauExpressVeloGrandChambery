@@ -13,23 +13,35 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.914929787366589,
-        45.56396090600333]
+        "coordinates": [5.914929787366589, 45.56396090600333]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "type": "danger",
+        "name": "Place Caffe",
+        "danger": "Circulation des cycles sur l'anneau routier",
+        "line": "8",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV8-IMG_0128.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.928264342180967, 45.56338002980277]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
         "name": "Carrefour du Biollay",
-        "danger": "Accidentogène pour les cyclistes",
+        "danger": "Angle mort accidentogène pour les cycles",
         "line": "8",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/12/REV8-carrefour-du-biollay.jpg"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.908176318332551,
-        45.562913181553114]
+        "coordinates": [5.908176318332551, 45.562913181553114]
       }
     },
     {

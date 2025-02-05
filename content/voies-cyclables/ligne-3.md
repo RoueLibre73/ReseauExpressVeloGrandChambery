@@ -66,16 +66,6 @@ credit: Roue Libre
 ---
 ::
 
-<span style="color:red;font-weight:bold">À améliorer</span> Absence de traversée cyclable sécurisée.
-
-::content-image
----
-imageUrl: https://rouelibre.net/wp-content/uploads/2024/11/Piste-3-1r.jpg
-caption: Traversée Avenue d'Aix les Bains
-credit: Roue Libre
----
-::
-
 <span style="color:red;font-weight:bold">À améliorer</span> Les deux bandes cyclables aménagées sur la partie supérieure de l'Avenue d'Aix les Bains ne respectent pas les recommandations du CEREMA en présence d'un trafic automobile supérieur à 9000 véhicules / jour.
 
 ::content-image
@@ -86,14 +76,15 @@ credit: Roue Libre
 ---
 ::
 
-Sur la partie supérieure de l'Avenue d'Aix les Bains, une seule bande cyclable montante est présente.
+Sur la partie supérieure de l'Avenue d'Aix les Bains, seule une bande cyclable montante est présente entre "Hermitage" et l'Avenue Daniel Rops. Aucun aménagement cyclable descendant sur un tronçon à fort trafic routier.
 
 ### Avenue Daniel Rops
 
 *Hauts de Chambéry*
 
 <span style="color:red;font-weight:bold">À améliorer</span>
-A rédiger
+Présence de bandes cyclables jusqu’à Maison Brûlée, fin du jalonnement de la piste 3. Aménagement à améliorer au vu du trafic routier et de sa vitesse pour répondre aux exigences d'un réseau à Haut Niveau de Service.
+Les bandes cyclables sont prolongées vers Sonnaz et le Viviers-du-Lac sur la D991.
 
 ## Fil d'actu
 

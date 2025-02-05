@@ -45,6 +45,14 @@ Piste cyclable bidirectionnelle provisoire créée en 2021.
 En attente de la pérennisation et de la mise en place de continuités cyclables aux entrées et sorties
 ::
 
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV8-IMG_4062.jpg
+caption: Avenue de Lyon
+credit: Roue Libre
+---
+::
+
 ### Avenue de Lyon
 <span style="color:red;font-weight:bold">A améliorer</span> Bandes cyclables incompatibles avec un trafic automobile de près de 8000 véhicules / jour.
 
@@ -113,6 +121,12 @@ caption: Image Tour de France 2024
 credit: France 3
 ---
 ::
+
+### Courrier Roue Libre pour la pérennisation et continuité de l'aménagement cyclable Caffe - Monge
+novembre 2022
+
+[Courrier](https://rouelibre.net/2022/11/28/28-juin-cp-roue-libre-pour-la-realisation-dune-continuite-cyclable-securisee-entre-place-caffe-et-place-monge-des-2021/){:target="_blank"}
+
 
 ### Vélorution Cognin - Chambéry
 26 mars 2022
