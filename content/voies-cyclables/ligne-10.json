@@ -5,12 +5,12 @@
       {
       "type": "Feature",
       "properties": {
-        "line": "10",
+        "line": "A",
         "name": "Boulevard de Bellevue",
         "quality": "bad",
         "status": "postponed",
         "type": "aucun",
-        "link": "/rev-10"
+        "link": "/rev-A"
     },
     "geometry": {
       "type": "LineString",
