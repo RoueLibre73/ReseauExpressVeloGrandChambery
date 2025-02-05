@@ -103,7 +103,7 @@ credit: Roue Libre
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV5-IMG_4154.jpg
-caption: Rue Dugesclin
-credit: Carrefour de la Vilette
+caption: Carrefour de la Vilette
+credit: Roue Libre
 ---
 ::

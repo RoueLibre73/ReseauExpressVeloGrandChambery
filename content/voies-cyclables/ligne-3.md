@@ -42,7 +42,15 @@ credit: Roue Libre
 ::
 
 ### Rue Favre
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Variante proposée par l'association Roue Libre pour créer une liaison cyclable continue et sécurisée séparée de la zone pietonne de la partie haute de la rue de Boigne et de la place des Eléphants.
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Variante via la rue Favre et la rue Saint Antoine proposée par l'association Roue Libre pour libérer du trafic cyles de transit la zone pietonne de la partie haute de la rue de Boigne, de la place des Eléphants et du Boulevard de la Colonne.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV3-IMG_59471.jpg
+caption: Variante Rue Favre
+credit: Roue Libre
+---
+::
 
 ### Faubourg Reclus
 <span style="color:black;font-weight:bold">Non satisfaisant</span> La Piste traverse le carrefour du centenaire où elle croise la :line-link{line=1} puis emprunte le Faubourg Reclus, sans aménagement.
