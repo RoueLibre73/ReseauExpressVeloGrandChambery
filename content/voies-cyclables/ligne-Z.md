@@ -1,8 +1,8 @@
 ---
-name: Piste Bleue 11
-line: 11
-lineName: Piste 11
-lineNameShort: 11
+name: Piste Bleue Z
+line: Z
+lineName: Piste Z
+lineNameShort: Z
 from: Chambéry (Médiathèque)
 to: Saint Alban Leysse (Plaine des Sports)
 description: Proposition de piste additionnelle faite par l'association Roue Libre au réseau de pistes bleues déjà jalonnées par Grand Chambéry pour desservir la commune de Saint Alban Leysse vie le quartier Mérande de Chambéry et la commune de Bassens.
