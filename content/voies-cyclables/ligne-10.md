@@ -1,8 +1,8 @@
 ---
 name: Piste Bleue 10
-line: A
-lineName: Piste A
-lineNameShort: A
+line: 10
+lineName: Piste 10
+lineNameShort: 10
 from: Chambéry (Caffe)
 to: Jacob Bellecombette (Mairie)
 description: Proposition additionnelle au réseau de pistes bleues de Grand Chambéry pour desservir Jacob Bellecombette et le campus universitaire.
