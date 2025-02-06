@@ -278,7 +278,7 @@ const { getAssoName } = useConfig();
 const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive' },
   { name: 'Évolution du réseau', path: '/evolution' },
-    { name: 'Baromètre FUB Savoie', path: 'https://barometre.parlons-velo.fr/2021/carte/#12.21/45.56818/5.91894', target: '_blank' }
+  { name: 'Baromètre FUB Savoie', path: 'https://barometre.parlons-velo.fr/2021/carte/#12.21/45.56818/5.91894', target: '_blank' },
   { name: 'Plan officiel', path: '/plan-officiel' },
   { name: 'Méthodologie', path: '/blog/methodo' }
 ];
