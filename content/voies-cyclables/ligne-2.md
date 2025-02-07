@@ -63,8 +63,8 @@ credit: Roue Libre
 
 ### Avenue des Landiers
 
-<span style="color:blue;font-weight:bold">Satisfaisant</span> La voie verte est continue du passage à niveau au carrefour du Nant Bruyant.
-Les traversées des carrefours et des sorties de commerces sont matérialisées par un simple marquage au sol.
+<span style="color:red;font-weight:bold">A améliorer</span> La voie verte est continue du passage à niveau au carrefour du Nant Bruyant.
+Les traversées des carrefours et des sorties de commerces sont matérialisées par un simple marquage au sol. Des véhicules sont régulièrement stationnés sur la piste et apportent de la boue sur certaines portions.
 Une bande cyclable est également présente sur la chaussée dans le sens Sud-Nord.
 ::content-image
 ---
