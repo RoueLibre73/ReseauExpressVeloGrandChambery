@@ -233,9 +233,9 @@
       "properties": {
         "line": "9",
         "name": "Résidence Sainte Anne",
-        "quality": "good",
+        "quality": "fair",
         "doneAt": "29\/01\/2008",
-        "status": "fair",
+        "status": "done",
         "type": "bidirectionnelle",
         "link": "/rev-9#residence-sainte-anne"
       },

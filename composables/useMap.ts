@@ -854,7 +854,7 @@ function drawLanesPostponed(map: Map, lanes: DisplayedLane[]) {
       'symbol-placement': 'line',
       'symbol-spacing': 100,
       'text-font': ['Open Sans Regular'],
-      'text-field': 'manquant',
+      'text-field': ' ',
       'text-size': 14,
     }
   });
