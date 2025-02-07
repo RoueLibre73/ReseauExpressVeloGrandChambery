@@ -82,16 +82,8 @@ credit: Roue Libre
 ---
 ::
 
-### Avenue de Longefand
-<span style="color:blue;font-weight:bold">Satisfaisant</span> Piste bidirectionnelle 
-
-::content-image
----
-imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/REV11-IMG_5525.jpg
-caption: Avenue de Longefand (Bassens)
-credit: Roue Libre
----
-::
+### Rue de la Croix
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Aucun aménagement cyclable
 
 ### Saint Alban Leysse
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Itinéraire cyclable à créer pour rejoindre la Plaine des Sports
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Aucun aménagement cyclable

@@ -83,7 +83,7 @@ Une étude pour la création d'une piste bidirectionnellede entre le giratoire d
 
 ### Variante RD1006 Sud
 <span style="color:red;font-weight:bold">A améliorer</span> Les bandes cyclables créées en 2020 aux côtés d'une voie de circulation à 70 km/h ne sont pas du tout satisfaisantes.
-Comme pour le tronçon précédent, la sécurisation de cette liaison permettrait la création d'une variante plus directe et efficace pour les cyclistes que l'actuelle tracé de la Piste 4.
+Comme pour le tronçon précédent, la sécurisation de cette liaison permettrait la création d'une variante plus directe et efficace pour les cyclistes que l'actuelle tracé de la Piste 4. Elle pourrait se prolonger dans un premier temps jusqu'au centre de Challes les Eaux.
 
 ::content-image
 ---
