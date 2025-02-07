@@ -13,7 +13,7 @@
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [5.924368091311152, 45.58279885918776]
+          "coordinates": [5.92507548166995, 45.57991527722666]
         }
       },
       {
@@ -120,11 +120,11 @@
         "type": "Feature",
         "properties": {
           "line": "3",
-          "name": "Avenue d'Aix les Bains",
+          "name": "Avenue d'Aix les Bains Sud",
           "quality": "bad",
           "status": "planned",
           "type": "aucun",
-          "link": "/rev-3#avenue-de-aix-les-bains"
+          "link": "/rev-3#avenue-de-aix-les-bains-sud"
         },
         "geometry": {
           "type": "LineString",
@@ -137,11 +137,11 @@
         "type": "Feature",
         "properties": {
           "line": "3",
-          "name": "Avenue d'Aix les Bains",
+          "name": "Avenue d'Aix les Bains Centre",
           "quality": "fair",
           "status": "planned",
           "type": "bandes-cyclables",
-          "link": "/rev-3#avenue-de-aix-les-bains"
+          "link": "/rev-3#avenue-de-aix-les-bains-centre"
         },
         "geometry": {
           "type": "LineString",
@@ -154,11 +154,11 @@
         "type": "Feature",
         "properties": {
           "line": "3",
-          "name": "Avenue d'Aix les Bains",
-          "quality": "fair",
+          "name": "Avenue d'Aix les Bains Nord",
+          "quality": "bad",
           "status": "planned",
           "type": "bandes-cyclables",
-          "link": "/rev-3#avenue-de-aix-les-bains"
+          "link": "/rev-3#avenue-de-aix-les-bains-nord"
         },
         "geometry": {
           "type": "LineString",

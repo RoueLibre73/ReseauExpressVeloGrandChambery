@@ -63,7 +63,7 @@ credit: Roue Libre
 ---
 ::
 
-### Avenue de Aix les Bains
+### Avenue de Aix les Bains Sud
 <span style="color:black;font-weight:bold">Non satisfaisant</span> Un cheminement des cycles sur le trottoir est actuellement conseillé.
 
 ::content-image
@@ -74,6 +74,7 @@ credit: Roue Libre
 ---
 ::
 
+### Avenue de Aix les Bains Centre
 <span style="color:red;font-weight:bold">À améliorer</span> Les deux bandes cyclables aménagées sur la partie supérieure de l'Avenue d'Aix les Bains ne respectent pas les recommandations du CEREMA en présence d'un trafic automobile supérieur à 9000 véhicules / jour.
 
 ::content-image
@@ -84,7 +85,8 @@ credit: Roue Libre
 ---
 ::
 
-Sur la partie supérieure de l'Avenue d'Aix les Bains, seule une bande cyclable montante est présente entre "Hermitage" et l'Avenue Daniel Rops. Aucun aménagement cyclable descendant sur un tronçon à fort trafic routier.
+### Avenue de Aix les Bains Nord
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Sur la partie supérieure de l'Avenue d'Aix les Bains, seule une bande cyclable montante est présente entre "Hermitage" et l'Avenue Daniel Rops. Aucun aménagement cyclable descendant sur un tronçon à fort trafic routier.
 
 ### Avenue Daniel Rops
 
