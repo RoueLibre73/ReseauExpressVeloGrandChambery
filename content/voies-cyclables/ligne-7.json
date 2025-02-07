@@ -180,24 +180,6 @@
         "type": "Feature",
         "properties": {
           "line": "7",
-          "name": "Variante Parc de Buisson Rond",
-          "quality": "bad",
-          "status": "variante-postponed",
-          "text": "variante",
-          "type": "aucun",
-          "link": "/rev-7#parc-buisson-rond"
-        },
-        "geometry":{
-        "type": "LineString",
-        "coordinates":[
-          [5.937719,45.564826],[5.938008,45.56466],[5.938057,45.564585],[5.939194,45.563763],[5.939409,45.563692],[5.93958,45.563542],[5.939666,45.563343],[5.939897,45.562889],[5.940251,45.562333],[5.940605,45.561913]
-          ]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "line": "7",
           "name": "Voie Verte Belle Via",
           "quality": "good",
           "doneAt": "31\/12\/1997",

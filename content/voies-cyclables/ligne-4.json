@@ -20,6 +20,21 @@
       {
         "type": "Feature",
         "properties": {
+          "type": "danger",
+          "name": "Av. Jean Baptiste d'Oncieu de la Bâtie",
+          "description": "Barrières",
+          "danger": "Traversée cycles inconfortable",
+          "line": "4",
+          "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV4-img01.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.968117448485714, 45.57519858926844]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "line": "4",
           "name": "Voie Verte de la Leysse",
           "quality": "fair",
