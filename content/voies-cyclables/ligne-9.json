@@ -5,6 +5,23 @@
       "type": "Feature",
       "properties": {
         "type": "danger",
+        "name": "Ecole Jean Jaurès",
+        "danger": "stationnement motorisé sur la piste cyclable",
+        "line": "9",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/01/REV9-IMG_4282.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.913014462883268,
+          45.56982722325415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
         "name": "Carrefour Comte Vert",
         "danger": "Traversée non sécurisée",
         "line": "9",
@@ -32,6 +49,23 @@
         "coordinates": [
           5.910430926431815,
           45.5722183065198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Carrefour route de l'Epine",
+        "danger": "Traversée non sécurisée",
+        "line": "9",
+        "imgUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.886171615152165,
+          45.58322032672993
         ]
       }
     },

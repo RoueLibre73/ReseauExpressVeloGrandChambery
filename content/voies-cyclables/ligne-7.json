@@ -48,6 +48,20 @@
         "type": "Feature",
         "properties": {
           "type": "danger",
+          "name": "Groupe scolaire de l'Albanne",
+          "danger": "Traversée pietonne",
+          "line": "7",
+          "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/IMG_4180.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.9447827106862405, 45.56084490415057]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "type": "danger",
           "name": "Route d'Apremont",
           "danger": "Traversée cycles non sécurisée",
           "line": "7",
