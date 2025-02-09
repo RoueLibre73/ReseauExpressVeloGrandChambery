@@ -64,6 +64,7 @@ module.exports = {
         'velocite-velorue': "#fffbb3", // jaune
         'velocite-voie-verte': "#b3ffb6", // vert
         'velocite-bandes-cyclables': "#969494", // gris
+        'velocite-aucun': "#CFCECE", // gris
         'velocite-voie-bus': "#fbb3ff", // violet
       },
       typography: {

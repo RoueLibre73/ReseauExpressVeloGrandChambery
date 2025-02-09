@@ -27,7 +27,19 @@
                 terminé
               </div>
 
-ed
+              <div class="my-auto rounded-md border-gray-500 border">
+                <div class="h-1 relative">
+                  <div class="h-full w-full">
+                    <div class="myrelative h-full w-full">
+                      <div class="myabsolute h-full w-full bg-velocite-yellow-5 dashed-line" />
+                      <div class="myabsolute h-full w-full bg-velocite-yellow-5 animated-opacity" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div>
+                en travaux
+              </div>
 
               <div class="my-auto rounded-md border-gray-500 border">
                 <div class="h-1 relative">
@@ -103,6 +115,13 @@ ed
               </div>
               <div>
                 voie verte
+              </div>
+
+              <div class="my-auto rounded-md border-gray-500 border">
+                <div class="h-1 bg-velocite-bandes-cyclables" />
+              </div>
+              <div>
+                bandes cyclables
               </div>
 
               <div class="my-auto rounded-md border-gray-500 border">
