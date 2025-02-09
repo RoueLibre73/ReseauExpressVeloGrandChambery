@@ -586,8 +586,8 @@ function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
     } else if (displayedLayer == DisplayedLayer.Type) {
       map.setPaintProperty(l, "line-color", ["case",
         ["==", ['get', 'type'], "bidirectionnelle"], " #b3c6ff", // bleu
-        ["==", ['get', 'type'], "bilaterale"], "rgb(179, 221, 255)", // cyan
-        ["==", ['get', 'type'], "bandes-cyclables"], "rgb(150, 148, 148)", // gris
+        ["==", ['get', 'type'], "bilaterale"], "#B3DDFF", // cyan
+        ["==", ['get', 'type'], "bandes-cyclables"], "#969494", // gris
         ["==", ['get', 'type'], "voie-bus"], " #fbb3ff", // violet
         ["==", ['get', 'type'], "voie-bus-elargie"], " #e1b3ff", // violet
         ["==", ['get', 'type'], "velorue"], " #fffbb3", // jaune
@@ -595,7 +595,7 @@ function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
         ["==", ['get', 'type'], "zone-de-rencontre"], " #daffb3", // vert clair
         ["==", ['get', 'type'], "chaucidou"], " #ffeab3", // orange
         ["==", ['get', 'type'], "heterogene"], " #797979", // gris foncé
-        ["==", ['get', 'type'], "aucun"], "rgb(207, 206, 206)", // rouge
+        ["==", ['get', 'type'], "aucun"], "#CFCECE", // rouge
         ["==", ['get', 'status'], "done"], " #000000", // black
         ["==", ['get', 'type'], "inconnu"], " #dedede", // gris
         "white"
