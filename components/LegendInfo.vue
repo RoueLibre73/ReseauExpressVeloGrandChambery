@@ -107,7 +107,7 @@
                 <div class="h-1 bg-velocite-bilaterale" />
               </div>
               <div>
-                bilatérale
+                unidirectionnelle
               </div>
 
               <div class="my-auto rounded-md border-gray-500 border">
@@ -115,6 +115,13 @@
               </div>
               <div>
                 voie verte
+              </div>
+
+              <div class="my-auto rounded-md border-gray-500 border">
+                <div class="h-1 bg-velocite-voie-bus" />
+              </div>
+              <div>
+                voie bus
               </div>
 
               <div class="my-auto rounded-md border-gray-500 border">
@@ -131,12 +138,6 @@
                 aucun
               </div>
 
-              <div class="my-auto rounded-md border-gray-500 border">
-                <div class="h-1 bg-velocite-voie-bus" />
-              </div>
-              <div>
-                voie bus
-              </div>
             </div>
           </div>
         </div>
