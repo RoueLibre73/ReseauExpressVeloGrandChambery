@@ -27,19 +27,7 @@
                 terminé
               </div>
 
-              <div class="my-auto rounded-md border-gray-500 border">
-                <div class="h-1 relative">
-                  <div class="h-full w-full">
-                    <div class="myrelative h-full w-full">
-                      <div class="myabsolute h-full w-full bg-velocite-yellow-5 dashed-line" />
-                      <div class="myabsolute h-full w-full bg-velocite-yellow-5 animated-opacity" />
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div>
-                en travaux
-              </div>
+ed
 
               <div class="my-auto rounded-md border-gray-500 border">
                 <div class="h-1 relative">
@@ -107,7 +95,7 @@
                 <div class="h-1 bg-velocite-bilaterale" />
               </div>
               <div>
-                unilatérale
+                bilatérale
               </div>
 
               <div class="my-auto rounded-md border-gray-500 border">
@@ -118,10 +106,10 @@
               </div>
 
               <div class="my-auto rounded-md border-gray-500 border">
-                <div class="h-1 bg-velocite-bandes-cyclables" />
+                <div class="h-1 bg-velocite-aucun" />
               </div>
               <div>
-                bandes cyclables
+                aucun
               </div>
 
               <div class="my-auto rounded-md border-gray-500 border">
@@ -130,14 +118,6 @@
               <div>
                 voie bus
               </div>
-
-                <div class="my-auto rounded-md border-gray-500 border">
-                <div class="h-1 bg-velocite-aucun" />
-              </div>
-              <div>
-                aucun
-              </div>
-
             </div>
           </div>
         </div>
