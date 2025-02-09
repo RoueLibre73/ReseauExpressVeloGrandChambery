@@ -586,18 +586,18 @@ function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
     } else if (displayedLayer == DisplayedLayer.Type) {
       map.setPaintProperty(l, "line-color", ["case",
         ["==", ['get', 'type'], "bidirectionnelle"], " #b3c6ff", // bleu
-        ["==", ['get', 'type'], "bilaterale"], " #b3fbff", // cyan
-        ["==", ['get', 'type'], "bandes-cyclables"], " #c1b3ff", // bleu-violet
+        ["==", ['get', 'type'], "bilaterale"], "rgb(179, 221, 255)", // cyan
+        ["==", ['get', 'type'], "bandes-cyclables"], "rgb(150, 148, 148)", // gris
         ["==", ['get', 'type'], "voie-bus"], " #fbb3ff", // violet
         ["==", ['get', 'type'], "voie-bus-elargie"], " #e1b3ff", // violet
         ["==", ['get', 'type'], "velorue"], " #fffbb3", // jaune
-        ["==", ['get', 'type'], "voie-verte"], "#b3ffb6", // vert
-        ["==", ['get', 'type'], "zone-de-rencontre"], "#daffb3", // vert clair
-        ["==", ['get', 'type'], "chaucidou"], "#ffeab3", // orange
-        ["==", ['get', 'type'], "heterogene"], "#797979", // gris foncé
-        ["==", ['get', 'type'], "aucun"], "#ff9999", // rouge
-        ["==", ['get', 'status'], "done"], "#000000", // black
-        ["==", ['get', 'type'], "inconnu"], "#dedede", // gris
+        ["==", ['get', 'type'], "voie-verte"], "rgba(26, 153, 31, 0.46)", // vert
+        ["==", ['get', 'type'], "zone-de-rencontre"], " #daffb3", // vert clair
+        ["==", ['get', 'type'], "chaucidou"], " #ffeab3", // orange
+        ["==", ['get', 'type'], "heterogene"], " #797979", // gris foncé
+        ["==", ['get', 'type'], "aucun"], "rgb(207, 206, 206)", // rouge
+        ["==", ['get', 'status'], "done"], " #000000", // black
+        ["==", ['get', 'type'], "inconnu"], " #dedede", // gris
         "white"
       ]);
     }
