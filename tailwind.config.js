@@ -59,11 +59,12 @@ module.exports = {
         'velocite-dark-3': '#3D3846',
         'velocite-dark-4': '#241F31',
         'velocite-dark-5': '#000000',
-        'velocite-bidirectionnelle': "#b3c6ff", // bleu
-        'velocite-bilaterale': "#b3fbff", // cyan
-        'velocite-velorue': "#fffbb3", // jaune
-        'velocite-voie-verte': "#b3ffb6", // vert
-        'velocite-voie-bus': "#fbb3ff", // violet
+        'velocite-bidirectionnelle': " #b3c6ff", // bleu
+        'velocite-bilaterale': " rgb(179, 221, 255)", // cyan
+        'velocite-velorue': " #fffbb3", // jaune
+        'velocite-voie-verte': " #b3ffb6", // vert
+        'velocite-voie-bus': " #fbb3ff", // violet
+        'velocite-voie-bandes-cyclables': rgb(150, 148, 148), // gris
       },
       typography: {
         DEFAULT: {

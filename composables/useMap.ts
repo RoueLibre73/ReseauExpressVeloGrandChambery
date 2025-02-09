@@ -591,7 +591,7 @@ function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
         ["==", ['get', 'type'], "voie-bus"], " #fbb3ff", // violet
         ["==", ['get', 'type'], "voie-bus-elargie"], " #e1b3ff", // violet
         ["==", ['get', 'type'], "velorue"], " #fffbb3", // jaune
-        ["==", ['get', 'type'], "voie-verte"], "rgba(26, 153, 31, 0.46)", // vert
+        ["==", ['get', 'type'], "voie-verte"], " #b3ffb6", // vert
         ["==", ['get', 'type'], "zone-de-rencontre"], " #daffb3", // vert clair
         ["==", ['get', 'type'], "chaucidou"], " #ffeab3", // orange
         ["==", ['get', 'type'], "heterogene"], " #797979", // gris foncé
