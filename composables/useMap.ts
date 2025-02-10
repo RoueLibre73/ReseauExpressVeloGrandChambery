@@ -708,25 +708,40 @@ function drawLanesPlanned(map: Map, lanes: DisplayedLane[], layerDisplayed: numb
   layersWithLanes.push("layer-lanes-planned");
 }
 
-function drawLanesVariante(map: Map, lanes: DisplayedLane[]) {
-
+function drawLanesVariante(map: Map, lanes: DisplayedLane[], layerDisplayed: number) {
   let lanes_variante = lanes.filter(lane => lane.properties.status === "variante");
   if (upsertMapSource(map, 'source-all-lanes-variante', lanes_variante)) {
     return;
   }
 
-  map.addLayer({
-    id: 'layer-lanes-variante',
-    type: 'line',
-    source: 'source-all-lanes-variante',
-    paint: {
-      'line-width': laneWidth,
-      'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [0.3, 2.5],
-      'line-opacity': 0.7,
-      'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
-    }
-  });
+  if (layerDisplayed === 1) {
+    map.addLayer({
+      id: 'layer-lanes-variante',
+      type: 'line',
+      source: 'source-all-lanes-variante',
+      paint: {
+        'line-width': laneWidth,
+        'line-color': ["to-color", ['get', 'color']],
+        'line-dasharray': null, // Ligne pleine si layerDisplayed == 1
+        'line-opacity': 0.7,
+        'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
+      }
+    });
+  } else {
+    map.addLayer({
+      id: 'layer-lanes-variante',
+      type: 'line',
+      source: 'source-all-lanes-variante',
+      paint: {
+        'line-width': laneWidth,
+        'line-color': ["to-color", ['get', 'color']],
+        'line-dasharray': [0.3, 2.5], // Ligne pointillée par défaut
+        'line-opacity': 0.7,
+        'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
+      }
+    });
+  }
+
   map.addLayer({
     id: 'layer-lanes-variante-symbols',
     type: 'symbol',
@@ -744,7 +759,8 @@ function drawLanesVariante(map: Map, lanes: DisplayedLane[]) {
       'text-size': 14
     }
   });
-  layersWithLanes.push("layer-lanes-variante")
+
+  layersWithLanes.push("layer-lanes-variante");
 }
 
 function drawLanesVariantePostponed(map: Map, lanes: DisplayedLane[]) {
