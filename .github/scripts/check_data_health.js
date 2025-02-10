@@ -18,9 +18,9 @@ function checkJsonFilesAreValid(directory = 'content') {
       checkJsonFilesAreValid(filePath);
     } else if (file.endsWith('.json')) {
       try {
-        JSON.parse(fs.readFileSync(filePath));
+        JSON.parse(fs.readFileSync(filePath, 'utf8'));
       } catch (error) {
-        console.error(`Invalid JSON file: ${filePath}`);
+        console.error(`Invalid JSON in file: ${filePath} - ${error.message}`);
         process.exit(1);
       }
     }
@@ -33,15 +33,17 @@ function getAllLinks() {
 
   fs.readdirSync('content/voies-cyclables').forEach(file => {
     if (file.endsWith('.md')) {
-      var lineId = file.match(/line: .*/g)[0].slice(start=6);
-
-      if(lineId[0] == "\"") {
-        lineId = lineId.slice(start=1, end=-1)
-      }
-
-
       const filePath = path.join('content/voies-cyclables', file);
       const markdownContent = fs.readFileSync(filePath, 'utf8');
+
+      const lineMatch = markdownContent.match(/line:\s*["']?([\w-]+)["']?/);
+      if (!lineMatch) {
+        console.error(`No line ID found in file: ${filePath}`);
+        return;
+      }
+      
+      const lineId = lineMatch[1];
+
 
       let match;
       while ((match = titleRegex.exec(markdownContent)) !== null) {
