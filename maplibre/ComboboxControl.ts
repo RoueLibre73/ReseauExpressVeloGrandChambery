@@ -8,10 +8,20 @@ export default class ComboboxControl {
   }
 
   onAdd() {
+    // Création du select
     this._select = document.createElement('select');
     this._select.className = '';
     this._select.title = 'Options';
-    this._select.onchange = (event) => this._onChange(event);
+
+    // Ajout d'un gestionnaire d'événement pour onchange
+    this._select.onchange = (event) => {
+      // Appeler la fonction onChange dès qu'une option est sélectionnée
+      this._onChange(event);
+
+      // Afficher immédiatement la sélection (exemple de réaction)
+      const selectedOption = event.target as HTMLSelectElement;
+      alert(`Option sélectionnée : ${selectedOption.options[selectedOption.selectedIndex].text}`);
+    };
 
     // Ajouter des options à la combobox
     const option1 = document.createElement('option');
@@ -29,6 +39,7 @@ export default class ComboboxControl {
     option3.text = 'Type d\'aménagements';
     this._select.appendChild(option3);
 
+    // Création du conteneur pour la combobox
     this._container = document.createElement('div');
     this._container.className = 'maplibregl-ctrl-group maplibregl-ctrl';
     this._container.appendChild(this._select);
@@ -37,6 +48,7 @@ export default class ComboboxControl {
   }
 
   onRemove() {
+    // Retirer l'élément du DOM
     if (this._container && this._container.parentNode) {
       this._container.parentNode.removeChild(this._container);
     }
