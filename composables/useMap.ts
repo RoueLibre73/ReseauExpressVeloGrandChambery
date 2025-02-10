@@ -13,9 +13,9 @@ import LineTooltip from '~/components/tooltips/LineTooltip.vue';
 type ColoredLineStringFeature = LineStringFeature & { properties: { color: string } };
 const { getNbVoiesCyclables } = useConfig();
 enum DisplayedLayer {
-  Network = 0,
-  Quality = 1,
-  Type = 2,
+    Quality = 0,
+    Network = 1,
+    Type = 2,
 }
 
 const displayedLayer = ref(DisplayedLayer.Network);

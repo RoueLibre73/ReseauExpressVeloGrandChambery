@@ -145,7 +145,7 @@ export const useStats = () => {
   }
 
   const qualityNames: Record<Quality, string> = {
-    'offtrail': 'Hors piste',
+    'offtrail': 'Non balisée',
     'bad': 'Non satisfaisant',
     'fair': 'À améliorer',
     'good': 'Satisfaisant',
