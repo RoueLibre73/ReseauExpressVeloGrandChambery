@@ -7,7 +7,7 @@
     "properties": {
       "line": "11",
       "name": "Rue de la Banque",
-      "quality": "offline",
+      "quality": "offtrail",
       "status": "postponed",
       "type": "aucun",
       "link": "/rev-11#rue-de-la-banque"
@@ -24,7 +24,7 @@
       "properties": {
         "line": "11",
         "name": "Rue Saint François de Sales",
-        "quality": "offline",
+        "quality": "offtrail",
         "status": "postponed",
         "type": "bandes-cyclables",
         "link": "/rev-11#rue-saint-francois-de-sales"
@@ -41,7 +41,7 @@
       "properties": {
         "line": "11",
         "name": "Pont des Amours",
-        "quality": "fair",
+        "quality": "offtrail",
         "status": "postponed",
         "type": "bandes-cyclables",
         "link": "/rev-11#pont-des-amours"
@@ -58,7 +58,7 @@
       "properties": {
         "line": "11",
         "name": "Avenue de Mérande Nord",
-        "quality": "offline",
+        "quality": "offtrail",
         "status": "postponed",
         "type": "aucun",
         "link": "/rev-11#avenue-de-mérande-nord"
@@ -75,7 +75,7 @@
       "properties": {
         "line": "11",
         "name": "Avenue de Mérande Sud",
-        "quality": "fair",
+        "quality": "offtrail",
         "status": "postponed",
         "type": "bandes-cyclables",
         "link": "/rev-11#avenue-de-mérande-sud"
@@ -92,7 +92,7 @@
       "properties": {
         "line": "11",
         "name": "Avenue de Bassens",
-        "quality": "good",
+        "quality": "offtrail",
         "doneAt": "29\/01\/2010",
         "status": "done",
         "type": "bidirectionnelle",
@@ -110,7 +110,7 @@
       "properties": {
         "line": "11",
         "name": "Mairie Bassens",
-        "quality": "bad",
+        "quality": "offtrail",
         "status": "postponed",
         "type": "aucun",
         "link": "/rev-11#"

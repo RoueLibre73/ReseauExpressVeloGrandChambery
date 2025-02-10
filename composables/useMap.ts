@@ -575,7 +575,7 @@ function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
 
     if (displayedLayer == DisplayedLayer.Quality) {
       map.setPaintProperty(l, "line-color", ["case",
-        ["==", ['get', 'quality'], "offline"], " #FFD700",
+        ["==", ['get', 'quality'], "offtrail"], " #FFD700",
         ["==", ['get', 'quality'], "bad"], " #0e0d0d",
         ["==", ['get', 'quality'], "fair"], " #e81916",
         ["==", ['get', 'quality'], "good"], " #429ada",
@@ -584,7 +584,7 @@ function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
       ]);
 
       map.setPaintProperty(l, "line-dasharray", ["case",
-        ["==", ['get', 'quality'], "offline"], [2, 2],  // Hachuré Jaune et Noir
+        ["==", ['get', 'quality'], "offtrail"], [2, 2],  // Hachuré Jaune et Noir
         [1, 0] // Ligne continue pour tous les autres cas
       ]);
 
