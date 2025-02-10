@@ -655,25 +655,38 @@ function drawLanesDone(map: Map, lanes: DisplayedLane[]) {
   });
   layersWithLanes.push("layer-lanes-done")
 }
-
-function drawLanesPlanned(map: Map, lanes: DisplayedLane[]) {
-
+function drawLanesPlanned(map: Map, lanes: DisplayedLane[], layerDisplayed: number) {
   let lanes_planned = lanes.filter(lane => lane.properties.status === "planned");
   if (upsertMapSource(map, 'source-all-lanes-planned', lanes_planned)) {
     return;
   }
 
-  map.addLayer({
-    id: `layer-lanes-planned`,
-    type: 'line',
-    source: 'source-all-lanes-planned',
-    paint: {
-      'line-width': laneWidth,
-      'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [1, 1],
-      'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
-    }
-  });
+  if (layerDisplayed === 1) {
+    map.addLayer({
+      id: `layer-lanes-planned`,
+      type: 'line',
+      source: 'source-all-lanes-planned',
+      paint: {
+        'line-width': laneWidth,
+        'line-color': ["to-color", ['get', 'color']],
+        'line-dasharray': null, // Ligne pleine si layerDisplayed == 1
+        'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
+      }
+    });
+  } else {
+    map.addLayer({
+      id: `layer-lanes-planned`,
+      type: 'line',
+      source: 'source-all-lanes-planned',
+      paint: {
+        'line-width': laneWidth,
+        'line-color': ["to-color", ['get', 'color']],
+        'line-dasharray': [1, 1], // Ligne pointillée par défaut
+        'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
+      }
+    });
+  }
+
   map.addLayer({
     id: 'layer-lanes-planned-symbols',
     type: 'symbol',
@@ -691,7 +704,8 @@ function drawLanesPlanned(map: Map, lanes: DisplayedLane[]) {
       'text-size': 14
     }
   });
-  layersWithLanes.push("layer-lanes-planned")
+
+  layersWithLanes.push("layer-lanes-planned");
 }
 
 function drawLanesVariante(map: Map, lanes: DisplayedLane[]) {
