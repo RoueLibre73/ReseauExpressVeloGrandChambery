@@ -14,7 +14,7 @@ export type LaneType =
 
 export type LaneStatus = 'done' | 'wip' | 'planned' | 'tested' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
 
-export type Quality = 'bad' | 'fair' | 'good';
+export type Quality = 'bad' | 'fair' | 'good' | 'offtrail';
 
 export type PolygonFeature = {
   type: 'Feature';
@@ -136,7 +136,7 @@ export function isPerspectiveFeature(feature: Feature): feature is PerspectiveFe
   return isPointFeature(feature) && feature.properties.type === 'perspective';
 }
 
-export function isDangerFeature(feature: Feature): feature is PerspectiveFeature {
+export function isDangerFeature(feature: Feature): feature is DangerFeature {
   return isPointFeature(feature) && feature.properties.type === 'danger';
 }
 

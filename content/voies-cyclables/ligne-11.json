@@ -7,7 +7,7 @@
     "properties": {
       "line": "11",
       "name": "Rue de la Banque",
-      "quality": "bad",
+      "quality": "offline",
       "status": "postponed",
       "type": "aucun",
       "link": "/rev-11#rue-de-la-banque"
@@ -24,7 +24,7 @@
       "properties": {
         "line": "11",
         "name": "Rue Saint François de Sales",
-        "quality": "bad",
+        "quality": "offline",
         "status": "postponed",
         "type": "bandes-cyclables",
         "link": "/rev-11#rue-saint-francois-de-sales"
@@ -58,7 +58,7 @@
       "properties": {
         "line": "11",
         "name": "Avenue de Mérande Nord",
-        "quality": "bad",
+        "quality": "offline",
         "status": "postponed",
         "type": "aucun",
         "link": "/rev-11#avenue-de-mérande-nord"

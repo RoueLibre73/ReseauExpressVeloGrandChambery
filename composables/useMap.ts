@@ -575,6 +575,7 @@ function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
 
     if (displayedLayer == DisplayedLayer.Quality) {
       map.setPaintProperty(l, "line-color", ["case",
+        ["==", ['get', 'quality'], "offline"], " #FFD700",
         ["==", ['get', 'quality'], "bad"], " #0e0d0d",
         ["==", ['get', 'quality'], "fair"], " #e81916",
         ["==", ['get', 'quality'], "good"], " #429ada",
