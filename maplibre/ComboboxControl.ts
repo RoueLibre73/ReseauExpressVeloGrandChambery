@@ -25,13 +25,13 @@ export default class ComboboxControl {
 
     // Ajouter des options à la combobox
     const option1 = document.createElement('option');
-    option1.value = 'network';
-    option1.text = 'Réseau';
+    option1.value = 'quality';
+    option1.text = 'Qualité des aménagements';
     this._select.appendChild(option1);
 
     const option2 = document.createElement('option');
-    option2.value = 'quality';
-    option2.text = 'Qualité des aménagements';
+    option2.value = 'network';
+    option2.text = 'Réseau';
     this._select.appendChild(option2);
 
     const option3 = document.createElement('option');
