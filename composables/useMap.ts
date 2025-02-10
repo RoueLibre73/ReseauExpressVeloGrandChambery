@@ -582,6 +582,11 @@ function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
         ["==", ['get', 'status'], "done"], "#000000",
         "white"
       ]);
+
+    map.setPaintProperty(l, "line-dasharray", ["case",
+      ["==", ['get', 'quality'], "offline"], [2, 2],  // Alternance Jaune et Noir
+      [1, 0] // Ligne continue pour les autres
+    ]);
     } else if (displayedLayer == DisplayedLayer.Network) {
       map.setPaintProperty(l, "line-color", ["to-color", ['get', 'color']]);
     } else if (displayedLayer == DisplayedLayer.Type) {
