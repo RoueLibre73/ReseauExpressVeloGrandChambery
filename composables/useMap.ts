@@ -583,10 +583,11 @@ function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
         "white"
       ]);
 
-    map.setPaintProperty(l, "line-dasharray", ["case",
-      ["==", ['get', 'quality'], "offline"], [2, 2],  // Alternance Jaune et Noir
-      [1, 0] // Ligne continue pour les autres
-    ]);
+      map.setPaintProperty(l, "line-dasharray", ["case",
+        ["==", ['get', 'quality'], "offline"], [2, 2],  // Hachuré Jaune et Noir
+        [1, 0] // Ligne continue pour tous les autres cas
+      ]);
+
     } else if (displayedLayer == DisplayedLayer.Network) {
       map.setPaintProperty(l, "line-color", ["to-color", ['get', 'color']]);
     } else if (displayedLayer == DisplayedLayer.Type) {
@@ -655,38 +656,25 @@ function drawLanesDone(map: Map, lanes: DisplayedLane[]) {
   });
   layersWithLanes.push("layer-lanes-done")
 }
-function drawLanesPlanned(map: Map, lanes: DisplayedLane[], layerDisplayed: number) {
+
+function drawLanesPlanned(map: Map, lanes: DisplayedLane[]) {
+
   let lanes_planned = lanes.filter(lane => lane.properties.status === "planned");
   if (upsertMapSource(map, 'source-all-lanes-planned', lanes_planned)) {
     return;
   }
 
-  if (layerDisplayed === 1) {
-    map.addLayer({
-      id: `layer-lanes-planned`,
-      type: 'line',
-      source: 'source-all-lanes-planned',
-      paint: {
-        'line-width': laneWidth,
-        'line-color': ["to-color", ['get', 'color']],
-        'line-dasharray': null, // Ligne pleine si layerDisplayed == 1
-        'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
-      }
-    });
-  } else {
-    map.addLayer({
-      id: `layer-lanes-planned`,
-      type: 'line',
-      source: 'source-all-lanes-planned',
-      paint: {
-        'line-width': laneWidth,
-        'line-color': ["to-color", ['get', 'color']],
-        'line-dasharray': [1, 1], // Ligne pointillée par défaut
-        'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
-      }
-    });
-  }
-
+  map.addLayer({
+    id: `layer-lanes-planned`,
+    type: 'line',
+    source: 'source-all-lanes-planned',
+    paint: {
+      'line-width': laneWidth,
+      'line-color': ["to-color", ['get', 'color']],
+      'line-dasharray': [1, 1],
+      'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
+    }
+  });
   map.addLayer({
     id: 'layer-lanes-planned-symbols',
     type: 'symbol',
@@ -704,44 +692,28 @@ function drawLanesPlanned(map: Map, lanes: DisplayedLane[], layerDisplayed: numb
       'text-size': 14
     }
   });
-
-  layersWithLanes.push("layer-lanes-planned");
+  layersWithLanes.push("layer-lanes-planned")
 }
 
-function drawLanesVariante(map: Map, lanes: DisplayedLane[], layerDisplayed: number) {
+function drawLanesVariante(map: Map, lanes: DisplayedLane[]) {
+
   let lanes_variante = lanes.filter(lane => lane.properties.status === "variante");
   if (upsertMapSource(map, 'source-all-lanes-variante', lanes_variante)) {
     return;
   }
 
-  if (layerDisplayed === 1) {
-    map.addLayer({
-      id: 'layer-lanes-variante',
-      type: 'line',
-      source: 'source-all-lanes-variante',
-      paint: {
-        'line-width': laneWidth,
-        'line-color': ["to-color", ['get', 'color']],
-        'line-dasharray': null, // Ligne pleine si layerDisplayed == 1
-        'line-opacity': 0.7,
-        'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
-      }
-    });
-  } else {
-    map.addLayer({
-      id: 'layer-lanes-variante',
-      type: 'line',
-      source: 'source-all-lanes-variante',
-      paint: {
-        'line-width': laneWidth,
-        'line-color': ["to-color", ['get', 'color']],
-        'line-dasharray': [0.3, 2.5], // Ligne pointillée par défaut
-        'line-opacity': 0.7,
-        'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
-      }
-    });
-  }
-
+  map.addLayer({
+    id: 'layer-lanes-variante',
+    type: 'line',
+    source: 'source-all-lanes-variante',
+    paint: {
+      'line-width': laneWidth,
+      'line-color': ["to-color", ['get', 'color']],
+      'line-dasharray': [0.3, 2.5],
+      'line-opacity': 0.7,
+      'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
+    }
+  });
   map.addLayer({
     id: 'layer-lanes-variante-symbols',
     type: 'symbol',
@@ -759,8 +731,7 @@ function drawLanesVariante(map: Map, lanes: DisplayedLane[], layerDisplayed: num
       'text-size': 14
     }
   });
-
-  layersWithLanes.push("layer-lanes-variante");
+  layersWithLanes.push("layer-lanes-variante")
 }
 
 function drawLanesVariantePostponed(map: Map, lanes: DisplayedLane[]) {
@@ -858,44 +829,29 @@ function drawLanesUnknown(map: Map, lanes: DisplayedLane[]) {
   layersWithLanes.push("layer-lanes-unknown")
 }
 
-function drawLanesVariante(map: Map, lanes: DisplayedLane[], layerDisplayed: number) {
-  let lanes_variante = lanes.filter(lane => lane.properties.status === "variante");
-  if (upsertMapSource(map, 'source-all-lanes-variante', lanes_variante)) {
+function drawLanesPostponed(map: Map, lanes: DisplayedLane[]) {
+
+  let lanes_postponed = lanes.filter(lane => lane.properties.status === "postponed");
+  if (upsertMapSource(map, 'source-all-lanes-postponed', lanes_postponed)) {
     return;
   }
 
-  if (layerDisplayed === 1) {
-    map.addLayer({
-      id: 'layer-lanes-variante',
-      type: 'line',
-      source: 'source-all-lanes-variante',
-      paint: {
-        'line-width': laneWidth,
-        'line-color': ["to-color", ['get', 'color']],
-        'line-dasharray': null, // Ligne pleine si layerDisplayed == 1
-        'line-opacity': 0.7,
-        'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
-      }
-    });
-  } else {
-    map.addLayer({
-      id: 'layer-lanes-variante',
-      type: 'line',
-      source: 'source-all-lanes-variante',
-      paint: {
-        'line-width': laneWidth,
-        'line-color': ["to-color", ['get', 'color']],
-        'line-dasharray': [0.3, 2.5], // Ligne pointillée par défaut
-        'line-opacity': 0.7,
-        'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
-      }
-    });
-  }
+  map.addLayer({
+    id: `layer-lanes-postponed`,
+    type: 'line',
+    source: 'source-all-lanes-postponed',
+    paint: {
+      'line-width': laneWidth,
+      'line-color': ["to-color", ['get', 'color']],
+      'line-dasharray': [0.4, 1.1],
+      'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
+    }
+  });
 
   map.addLayer({
-    id: 'layer-lanes-variante-symbols',
+    id: `layer-lanes-postponed-symbols`,
     type: 'symbol',
-    source: 'source-all-lanes-variante',
+    source: `source-all-lanes-postponed`,
     paint: {
       'text-halo-color': '#fff',
       'text-halo-width': 3,
@@ -905,12 +861,12 @@ function drawLanesVariante(map: Map, lanes: DisplayedLane[], layerDisplayed: num
       'symbol-placement': 'line',
       'symbol-spacing': 100,
       'text-font': ['Open Sans Regular'],
-      'text-field': ['coalesce', ['get', 'text'], 'variante'],
-      'text-size': 14
+      'text-field': 'souhaité',
+      'text-size': 14,
     }
   });
+  layersWithLanes.push("layer-lanes-postponed")
 
-  layersWithLanes.push("layer-lanes-variante");
 }
 
 
