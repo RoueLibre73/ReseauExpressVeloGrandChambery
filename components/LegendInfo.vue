@@ -92,6 +92,7 @@
 
               <div class="my-auto rounded-md border-gray-500 border">
               <div class="h-1 relative">
+              <div class="absolute h-full w-full">
               <div class="h-full bg-[repeating-linear-gradient(45deg,_yellow_0,_yellow_5px,_black_5px,_black_10px)]" />
               </div>
               <div>
