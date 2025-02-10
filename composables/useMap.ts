@@ -858,29 +858,44 @@ function drawLanesUnknown(map: Map, lanes: DisplayedLane[]) {
   layersWithLanes.push("layer-lanes-unknown")
 }
 
-function drawLanesPostponed(map: Map, lanes: DisplayedLane[]) {
-
-  let lanes_postponed = lanes.filter(lane => lane.properties.status === "postponed");
-  if (upsertMapSource(map, 'source-all-lanes-postponed', lanes_postponed)) {
+function drawLanesVariante(map: Map, lanes: DisplayedLane[], layerDisplayed: number) {
+  let lanes_variante = lanes.filter(lane => lane.properties.status === "variante");
+  if (upsertMapSource(map, 'source-all-lanes-variante', lanes_variante)) {
     return;
   }
 
-  map.addLayer({
-    id: `layer-lanes-postponed`,
-    type: 'line',
-    source: 'source-all-lanes-postponed',
-    paint: {
-      'line-width': laneWidth,
-      'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [0.4, 1.1],
-      'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
-    }
-  });
+  if (layerDisplayed === 1) {
+    map.addLayer({
+      id: 'layer-lanes-variante',
+      type: 'line',
+      source: 'source-all-lanes-variante',
+      paint: {
+        'line-width': laneWidth,
+        'line-color': ["to-color", ['get', 'color']],
+        'line-dasharray': null, // Ligne pleine si layerDisplayed == 1
+        'line-opacity': 0.7,
+        'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
+      }
+    });
+  } else {
+    map.addLayer({
+      id: 'layer-lanes-variante',
+      type: 'line',
+      source: 'source-all-lanes-variante',
+      paint: {
+        'line-width': laneWidth,
+        'line-color': ["to-color", ['get', 'color']],
+        'line-dasharray': [0.3, 2.5], // Ligne pointillée par défaut
+        'line-opacity': 0.7,
+        'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
+      }
+    });
+  }
 
   map.addLayer({
-    id: `layer-lanes-postponed-symbols`,
+    id: 'layer-lanes-variante-symbols',
     type: 'symbol',
-    source: `source-all-lanes-postponed`,
+    source: 'source-all-lanes-variante',
     paint: {
       'text-halo-color': '#fff',
       'text-halo-width': 3,
@@ -890,12 +905,12 @@ function drawLanesPostponed(map: Map, lanes: DisplayedLane[]) {
       'symbol-placement': 'line',
       'symbol-spacing': 100,
       'text-font': ['Open Sans Regular'],
-      'text-field': 'souhaité',
-      'text-size': 14,
+      'text-field': ['coalesce', ['get', 'text'], 'variante'],
+      'text-size': 14
     }
   });
-  layersWithLanes.push("layer-lanes-postponed")
 
+  layersWithLanes.push("layer-lanes-variante");
 }
 
 
