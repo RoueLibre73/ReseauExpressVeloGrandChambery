@@ -849,7 +849,7 @@ function drawLanesPostponed(map: Map, lanes: DisplayedLane[]) {
     }
   });
 
-  animateOpacity(map, 0, 3000, 'layer-lanes-postponed', 'line-opacity', 0.2, 0.7);
+  animateOpacity(map, 0, 3000, 'layer-lanes-postponed', 'line-opacity', 0.2, 0.6);
 
   map.addLayer({
     id: `layer-lanes-postponed-symbols`,
