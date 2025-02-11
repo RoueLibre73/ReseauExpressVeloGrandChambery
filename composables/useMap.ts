@@ -959,22 +959,11 @@ function drawLanesWIP(map: Map, lanes: DisplayedLane[]) {
   layersWithLanes.push("layer-lanes-wip")
   layersWithLanes.push("layer-lanes-wip-done")
 
-  animateOpacity(map, 0, 1500, 'layer-lanes-wip-done', 'line-opacity', 0.5, 0.9);
+  animateOpacity(map, 0, 1000, 'layer-lanes-wip-done', 'line-opacity', 0.2, 0.8);
   // Ajout d'une animation de mouvement pour simuler les lignes en mouvement
 map.on('style.load', () => {
-  let dashArraySequence = [
-    [0, 4, 3], [1, 4, 2], [2, 4, 1], [3, 4, 0]
-  ];
-  let step = 0;
-
-  function animateDashArray(timestamp) {
-    let newStep = (step + 1) % dashArraySequence.length;
-    map.setPaintProperty('layer-lanes-wip', 'line-dasharray', dashArraySequence[newStep]);
-    step = newStep;
-    requestAnimationFrame(animateDashArray);
-  }
-
-  animateDashArray();
+  map.on('style.load', () => {
+    map.setPaintProperty('layer-lanes-wip-done', 'line-dasharray', [2, 4]); // Garder un pointillé statique
 });
 }
 
