@@ -23,7 +23,6 @@ const displayedLayer = ref(DisplayedLayer.Network);
 const laneWidth = 4
 
 let layersWithLanes: string[] = []
-let layersNameForQuality: string[] = []
 
 const setDisplayedLayer = (value: DisplayedLayer) => {
   displayedLayer.value = value;
@@ -167,8 +166,6 @@ export const useMap = () => {
     }
 
     drawSectionBase(map, sections)
-
-    drawLanesDoneQuality(map, lanes)
 
     drawLanesPlanned(map, lanes)
 
@@ -576,7 +573,22 @@ function toggleBikeInfraVisibility(map: Map, displayBikeInfra: boolean) {
 function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
   layersWithLanes.forEach(l => {
 
-    if (displayedLayer == DisplayedLayer.Network) {
+    if (displayedLayer == DisplayedLayer.Quality) {
+      map.setPaintProperty(l, "line-color", ["case",
+        ["==", ['get', 'quality'], "offtrail"], " #FFD700",
+        ["==", ['get', 'quality'], "bad"], " #0e0d0d",
+        ["==", ['get', 'quality'], "fair"], " #e81916",
+        ["==", ['get', 'quality'], "good"], " #429ada",
+        ["==", ['get', 'status'], "done"], "#000000",
+        "white"
+      ]);
+
+      map.setPaintProperty(l, "line-dasharray", ["case",
+        ["==", ['get', 'quality'], "offtrail"], [2, 2],  // Hachuré Jaune et Noir
+        [1, 0] // Ligne continue pour tous les autres cas
+      ]);
+
+    } else if (displayedLayer == DisplayedLayer.Network) {
       map.setPaintProperty(l, "line-color", ["to-color", ['get', 'color']]);
     } else if (displayedLayer == DisplayedLayer.Type) {
       map.setPaintProperty(l, "line-color", ["case",
@@ -597,22 +609,6 @@ function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
       ]);
     }
   });
-
-  if (displayedLayer == DisplayedLayer.Quality) {
-    for(let layerName of layersNameForQuality) {
-      map.setLayoutProperty(layerName, 'visibility', 'visible');
-    }
-    for(let layerName of layersWithLanes) {
-      map.setLayoutProperty(layerName, 'visibility', 'none');
-    }
-  } else {
-    for(let layerName of layersNameForQuality) {
-      map.setLayoutProperty(layerName, 'visibility', 'none');
-    }
-    for(let layerName of layersWithLanes) {
-      map.setLayoutProperty(layerName, 'visibility', 'visible');
-    }
-  }
 }
 
 function animateOpacity(map: Map, timestamp: number, animationLength: number, attributeId: string, attributeOpacity: string, min: number, max: number) {
@@ -641,53 +637,6 @@ function upsertMapSource(map: Map, sourceName: string, features: Feature[]) {
   return false;
 }
 
-function drawLanesDoneQuality(map: Map, lanes: DisplayedLane[]) {
-
-  let lanes_offtrail = lanes.filter(lane => lane.properties.quality === "offtrail");
-  let c1 = upsertMapSource(map, 'source-all-lanes', lanes)
-  let c2 = upsertMapSource(map, 'source-all-lanes-offtrail', lanes_offtrail)
-  if (c1 && c2) {
-    return;
-  }
-
-  map.addLayer({
-    id: `layer-lanes`,
-    type: 'line',
-    source: 'source-all-lanes',
-    layout: {
-      visibility: "none"
-    },
-    paint: {
-      'line-width': laneWidth,
-      'line-color': ["case",
-        ["==", ['get', 'quality'], "offtrail"], " #FFD700",
-        ["==", ['get', 'quality'], "bad"], " #0e0d0d",
-        ["==", ['get', 'quality'], "fair"], " #e81916",
-        ["==", ['get', 'quality'], "good"], " #429ada",
-        ["==", ['get', 'status'], "done"], "#000000",
-        "white"
-      ],
-      'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
-    }
-  });
-  map.addLayer({
-    id: `layer-lanes-complement`,
-    type: 'line',
-    source: 'source-all-lanes-offtrail',
-    layout: {
-      visibility: "none"
-    },
-    paint: {
-      'line-width': laneWidth,
-      'line-color': "#000000",
-      'line-dasharray': [1.5, 1.5],
-      'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
-    }
-  });
-  layersNameForQuality.push("layer-lanes")
-  layersNameForQuality.push("layer-lanes-complement")
-}
-
 function drawLanesDone(map: Map, lanes: DisplayedLane[]) {
 
   let lanes_done = lanes.filter(lane => lane.properties.status === "done");
@@ -710,11 +659,8 @@ function drawLanesDone(map: Map, lanes: DisplayedLane[]) {
 
 function drawLanesPlanned(map: Map, lanes: DisplayedLane[]) {
 
-  //let lanes_planned = lanes
   let lanes_planned = lanes.filter(lane => lane.properties.status === "planned");
-  let c1 = upsertMapSource(map, 'source-all-lanes-planned', lanes_planned)
-
-  if(c1) {
+  if (upsertMapSource(map, 'source-all-lanes-planned', lanes_planned)) {
     return;
   }
 
@@ -725,7 +671,7 @@ function drawLanesPlanned(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'line-width': laneWidth,
       'line-color': ["to-color", ['get', 'color']],
-      //'line-dasharray': [1, 1, 0],
+      'line-dasharray': [1, 1],
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
@@ -959,11 +905,22 @@ function drawLanesWIP(map: Map, lanes: DisplayedLane[]) {
   layersWithLanes.push("layer-lanes-wip")
   layersWithLanes.push("layer-lanes-wip-done")
 
-  animateOpacity(map, 0, 1000, 'layer-lanes-wip-done', 'line-opacity', 0.2, 0.8);
+  animateOpacity(map, 0, 1500, 'layer-lanes-wip-done', 'line-opacity', 0.4, 0.7);
   // Ajout d'une animation de mouvement pour simuler les lignes en mouvement
 map.on('style.load', () => {
-  map.on('style.load', () => {
-    map.setPaintProperty('layer-lanes-wip-done', 'line-dasharray', [2, 4]); // Garder un pointillé statique
+  let dashArraySequence = [
+    [0, 4, 3], [1, 4, 2], [2, 4, 1], [3, 4, 0]
+  ];
+  let step = 0;
+
+  function animateDashArray(timestamp) {
+    let newStep = (step + 1) % dashArraySequence.length;
+    map.setPaintProperty('layer-lanes-wip', 'line-dasharray', dashArraySequence[newStep]);
+    step = newStep;
+    requestAnimationFrame(animateDashArray);
+  }
+
+  animateDashArray();
 });
 }
 
