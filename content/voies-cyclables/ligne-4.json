@@ -216,7 +216,7 @@
           "quality": "fair",
           "status": "variante-postponed",
           "text": "étude en cours variante Piste 4",
-          "type": "bidirectionnelle",
+          "type": "bandes-cyclables",
           "link": "/rev-4#variante-rd1006-nord"
         },
         "geometry": {
@@ -234,7 +234,7 @@
           "quality": "fair",
           "status": "variante-postponed",
           "text": "variante Piste 4",
-          "type": "voie-verte",
+          "type": "bandes-cyclables",
           "link": "/rev-4#variante-rd1006-sud"
         },
         "geometry": {
@@ -249,10 +249,10 @@
         "properties": {
           "line": "4",
           "name": "Variante RD1006 Sud",
-          "quality": "fair",
+          "quality": "bad",
           "status": "variante-postponed",
           "text": "variante Piste 4",
-          "type": "voie-verte",
+          "type": "aucun",
           "link": "/rev-4#variante-rd1006-sud"
         },
         "geometry": {
