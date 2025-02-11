@@ -883,27 +883,42 @@ function drawLanesWIP(map: Map, lanes: DisplayedLane[]) {
     source: 'source-all-lanes-wip',
     paint: {
       'line-width': laneWidth,
-      'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [0.2, 2],
+      'line-color': "#FFD700", // Equivalent à velocié-yellow-5
+      'line-dasharray': [2, 4], // Augmente l'effet pointillé pour correspondre à la classe CSS dashed-line
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
-
+  
   map.addLayer({
     id: 'layer-lanes-wip-done',
     type: 'line',
     source: 'source-all-lanes-wip',
     paint: {
       'line-width': laneWidth,
-      'line-color': ["to-color", ['get', 'color']],
+      'line-color': "#FFD700",
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
-  layersWithLanes.push("layer-lanes-wip")
-  layersWithLanes.push("layer-lanes-wip-done")
-
-  animateOpacity(map, 0, 1000*0.75, 'layer-lanes-wip-done', 'line-opacity', 0.5, 0.9);
-}
+  
+  // Ajout d'une animation d'opacité similaire à animated-opacity
+  animateOpacity(map, 0, 750, 'layer-lanes-wip-done', 'line-opacity', 0.5, 0.9);
+  
+  // Ajout d'une animation de mouvement pour simuler les lignes en mouvement
+  map.on('style.load', () => {
+    let dashArraySequence = [
+      [0, 4, 3], [1, 4, 2], [2, 4, 1], [3, 4, 0]
+    ];
+    let step = 0;
+  
+    function animateDashArray(timestamp) {
+      let newStep = (step + 1) % dashArraySequence.length;
+      map.setPaintProperty('layer-lanes-wip', 'line-dasharray', dashArraySequence[newStep]);
+      step = newStep;
+      requestAnimationFrame(animateDashArray);
+    }
+  
+    animateDashArray();
+  });  
 
 function addListnersForHovering(map: Map) {
 
