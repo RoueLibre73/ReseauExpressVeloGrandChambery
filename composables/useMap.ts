@@ -843,10 +843,13 @@ function drawLanesPostponed(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'line-width': laneWidth,
       'line-color': ["to-color", ['get', 'color']],
-      'line-dasharray': [0.4, 1.1],
+      'line-dasharray': [2, 4],
+      'line-opacity': 0.6,
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
   });
+
+  animateOpacity(map, 0, 3000, 'layer-lanes-postponed', 'line-opacity', 0.4, 0.7);
 
   map.addLayer({
     id: `layer-lanes-postponed-symbols`,
@@ -854,7 +857,7 @@ function drawLanesPostponed(map: Map, lanes: DisplayedLane[]) {
     source: `source-all-lanes-postponed`,
     paint: {
       'text-halo-color': '#fff',
-      'text-halo-width': 3,
+      'text-halo-width': 2,
       "text-opacity": postPonedOpacity + 0.4
     },
     layout: {
@@ -902,7 +905,7 @@ function drawLanesWIP(map: Map, lanes: DisplayedLane[]) {
   layersWithLanes.push("layer-lanes-wip")
   layersWithLanes.push("layer-lanes-wip-done")
 
-  animateOpacity(map, 0, 750, 'layer-lanes-wip-done', 'line-opacity', 0.5, 0.9);
+  animateOpacity(map, 0, 1500, 'layer-lanes-wip-done', 'line-opacity', 0.5, 0.9);
   // Ajout d'une animation de mouvement pour simuler les lignes en mouvement
 map.on('style.load', () => {
   let dashArraySequence = [
