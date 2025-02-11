@@ -657,6 +657,7 @@ function drawLanesDoneQuality(map: Map, lanes: DisplayedLane[]) {
     layout: {
       visibility: "none"
     },
+    filter: ["!=", ["get", "status"], "variante-postponed"], // ❌ Exclut "variante-postponed"
     paint: {
       'line-width': laneWidth,
       'line-color': ["case",
@@ -666,10 +667,6 @@ function drawLanesDoneQuality(map: Map, lanes: DisplayedLane[]) {
         ["==", ['get', 'quality'], "good"], " #429ada",
         ["==", ['get', 'status'], "done"], "#000000",
         "white"
-      ],
-      'line-opacity': ["case",
-        ["==", ['get', 'status'], "variante-postponed"], 0,  // Cache les lignes "variante-postponed"
-        1  // Opacité normale pour le reste
       ],
       'line-offset': ['-', ['*', ['get', 'lane_index'], laneWidth], ['/', ['*', ['-', ['get', 'nb_lanes'], 1], laneWidth], 2]],
     }
