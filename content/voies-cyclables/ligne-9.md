@@ -84,10 +84,45 @@ credit: Roue Libre
 ::
 
 ### Avenue de la Motte Servolex Nord
-<span style="color:blue;font-weight:bold">Satisfaisant</span> Piste cyclable bidirectionnelle satisfaisante, mais traversée des intersections à sécuriser
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Piste cyclable bidirectionnelle satisfaisante, mais traversées des intersections à sécuriser
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV9-IMG_6306.jpg
+caption: Avenue de la Motte Servolex
+credit: Roue Libre
+---
+::
 
 ### Avenue Costa de Beauregard
 <span style="color:black;font-weight:bold">Non satisfaisant</span> aucune aménagement cyclable dans la traversée du centre ville de La Motte Servolex
 
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV9-IMG_6327.jpg
+caption: Avenue Costa de Beauregard
+credit: Roue Libre
+---
+::
+
 ### Résidence Sainte Anne
-<span style="color:blue;font-weight:bold">Satisfaisant</span> Piste cyclable bidirectionnelle qui rejoint ensuite via le Chemin du Pré Marquis la :line-link{line=1}
+<span style="color:red;font-weight:bold">A améliorer</span> Ancienne voie verte sinueuse et avec de nombreuses traversées routières non sécurisées
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV9-IMG_6334.jpg
+caption: Résidence Sainte Anne
+credit: Roue Libre
+---
+::
+
+### Chemin du Pré Marquis
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Voie cyclo pietonne à faible circulation qui rejoint la :line-link{line=1} au niveau de la passerelle du Pré Marquis.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV9-IMG_6365.jpg
+caption: Chemin du Pré Marquis (La Motte Servolex)
+credit: Roue Libre
+---
+::

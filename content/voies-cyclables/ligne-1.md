@@ -59,6 +59,22 @@ credit: Roue Libre
 
 <span style="color:blue;font-weight:bold">Satisfaisant</span> Voie verte historique de Grand Chambéry jusqu'au Bourget du Lac (communauté d'agglomération Grand Lac).
 
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_6411.jpg
+caption: Belle Via - La Motte Servolex
+credit: Roue Libre
+---
+::
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_6397.jpg
+caption: Passerelle cyclo-pietonne sur la Leysse
+credit: Roue Libre
+---
+::
+
 Son dernier tronçon entre Villarcher (commune de La Motte Servolex) et le lac du Bourget a été réalisé suite à la Vélorution organisée par Roue Libre et une vingtaine d’autres organisations le 21 octobre 1995 (1200 participants). 
 
 ::content-image

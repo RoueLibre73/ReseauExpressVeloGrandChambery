@@ -1,6 +1,21 @@
 {
   "type": "FeatureCollection",
   "features": [
+
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Leclerc Drive",
+        "danger": "Stationnement sauvage et boue sur la piste",
+        "line": "2",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/11/REV.-Quai-Allobroges.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.904992271082449, 45.589200090102224]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
