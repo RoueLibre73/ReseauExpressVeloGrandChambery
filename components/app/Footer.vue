@@ -36,16 +36,11 @@ const links = [
 ];
 
 const socials = [
-    {
-      name: 'Github',
-      href: 'https://github.com/benoitdemaegdt/voieslyonnaises',
-      icon: 'mdi:github'
-    },
-    {
-      name: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/benoitdemaegdt',
-      icon: 'mdi:linkedin'
-    },
+  {
+    name: 'Bluesky',
+    href: 'https://bsky.app/profile/rouelibresavoie.bsky.social',
+    icon: 'fa6-brands:bluesky'
+  },
     {
       name: 'Mastodon',
       href: 'https://masto.bike/deck/@RoueLibreSavoie',
@@ -65,6 +60,11 @@ const socials = [
       name: 'Email',
       href: 'mailto:contact_at_rouelibre.net',
       icon: 'mdi:email-outline'
+    },
+        {
+      name: 'Github',
+      href: 'https://github.com/benoitdemaegdt/voieslyonnaises',
+      icon: 'mdi:github'
     }
   ]
 </script>

@@ -213,7 +213,7 @@
         "properties": {
           "line": "4",
           "name": "Variante RD1006 Nord",
-          "quality": "fair",
+          "quality": "offtrail",
           "status": "variante-postponed",
           "text": "étude en cours variante Piste 4",
           "type": "bandes-cyclables",
@@ -231,7 +231,7 @@
         "properties": {
           "line": "4",
           "name": "Variante RD1006 Sud",
-          "quality": "fair",
+          "quality": "offtrail",
           "status": "variante-postponed",
           "text": "variante Piste 4",
           "type": "bandes-cyclables",
@@ -249,7 +249,7 @@
         "properties": {
           "line": "4",
           "name": "Variante RD1006 Sud",
-          "quality": "bad",
+          "quality": "offtrail",
           "status": "variante-postponed",
           "text": "variante Piste 4",
           "type": "aucun",

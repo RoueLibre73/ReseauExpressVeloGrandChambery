@@ -69,7 +69,7 @@
         "properties": {
           "line": "3",
           "name": "Variante Rue Favre",
-          "quality": "bad",
+          "quality": "offtrail",
           "status": "variante-postponed",
           "text": "variante",
           "type": "aucun",

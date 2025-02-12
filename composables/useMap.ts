@@ -959,7 +959,7 @@ function drawLanesWIP(map: Map, lanes: DisplayedLane[]) {
   layersWithLanes.push("layer-lanes-wip")
   layersWithLanes.push("layer-lanes-wip-done")
 
-  animateOpacity(map, 0, 1500, 'layer-lanes-wip-done', 'line-opacity', 0.5, 0.9);
+  animateOpacity(map, 0, 1500, 'layer-lanes-wip-done', 'line-opacity', 0.2, 0.9);
   // Ajout d'une animation de mouvement pour simuler les lignes en mouvement
 map.on('style.load', () => {
   let dashArraySequence = [
