@@ -301,12 +301,19 @@ export const useMap = () => {
       source: 'pumps',
       type: 'symbol',
       layout: {
-        'icon-image': 'pump-icon',
-        'icon-size': 0.5,
-        'icon-offset': [-25, -25]
+        'text-field': ['get', 'lineNameShort'], // 📌 Remplace l'icône par le numéro
+        'text-size': 14, // Taille du numéro
+        'text-font': ['Open Sans Bold'], // Police en gras
+        'text-allow-overlap': true // Évite que les numéros disparaissent en cas de chevauchement
       },
       paint: {
-        'icon-color': '#152B68'
+        'text-color': '#FFFFFF', // Texte en blanc
+        'text-halo-color': ['case', // Cercle de couleur dynamique
+          ['has', 'line'], ['to-color', ['get', 'line']], // Utilise la couleur de 'line'
+          '#000000' // Sinon, noir par défaut
+        ],
+        'text-halo-width': 8, // Crée un cercle autour du texte
+        'text-halo-blur': 1 // Adoucit le cercle
       }
     });
   }
