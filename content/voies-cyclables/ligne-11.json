@@ -61,7 +61,7 @@
         "quality": "offtrail",
         "status": "postponed",
         "type": "aucun",
-        "link": "/rev-11#avenue-de-mérande-nord"
+        "link": "/rev-11#itineraire-optionnel"
     },
     "geometry": {
       "type": "LineString",
@@ -78,7 +78,7 @@
         "quality": "offtrail",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "link": "/rev-11#avenue-de-mérande-sud"
+        "link": "/rev-11#itineraire-optionnel"
     },
     "geometry": {
       "type": "LineString",
@@ -96,7 +96,7 @@
         "doneAt": "29\/01\/2010",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/rev-11#avenue-de-bassens"
+        "link": "/rev-11#itineraire-optionnel"
     },
     "geometry": {
       "type": "LineString",
@@ -113,7 +113,7 @@
         "quality": "offtrail",
         "status": "postponed",
         "type": "aucun",
-        "link": "/rev-11#"
+        "link": "/rev-11#itineraire-optionnel"
     },
     "geometry": {
       "type": "LineString",

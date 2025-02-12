@@ -5,11 +5,13 @@ lineName: Piste 11
 lineNameShort: 11
 from: Chambéry (Médiathèque)
 to: Saint Alban Leysse (Plaine des Sports)
-description: Proposition de piste additionnelle faite par l'association Roue Libre au réseau de pistes bleues déjà jalonnées par Grand Chambéry pour desservir la commune de Saint Alban Leysse vie le quartier Mérande de Chambéry et la commune de Bassens.
+description: Hors Piste - proposition de piste additionnelle faite par l'association Roue Libre au réseau de pistes bleues déjà jalonnées par Grand Chambéry pour desservir la commune de Saint Alban Leysse via le quartier Mérande de Chambéry et la commune de Bassens.
 
 ---
 
-Le tracé de l'itinéraire de cette ligne via Mérande et Bassens n'est pas défini. Pour améliorer la lecture cartographique, nous avons ici privilégié de manière arbitraire l'itinéraire via l'avenue de Mérande de manière à obtenir un rendu et des statistiques plus fiables sur la ligne.
+Le tracé de l'itinéraire de cette ligne via Mérande et Bassens n'est pas défini.
+
+Pour améliorer la lecture cartographique, nous avons ici privilégié de manière arbitraire l'itinéraire via l'avenue de Mérande de manière à obtenir un rendu et des statistiques plus fiables sur la ligne.
 
 ### Rue de la Banque
 <span style="color:black;font-weight:bold">Non satisfaisant</span> Aménagement cyclable sécurisé à créer
@@ -23,7 +25,7 @@ credit: Roue Libre
 ::
 
 ### Rue Saint Francois de Sales
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Bande cyclable montante insatisfaisante et aucun aménagement cyclable dans sens descendant
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Bande cyclable montante insatisfaisante et aucun aménagement cyclable dans le sens descendant
 
 ::content-image
 ---
@@ -34,7 +36,7 @@ credit: Roue Libre
 ::
 
 ### Pont des Amours
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Bande cyclable montante mais aucun aménagement cyclable dans sens descendant
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Bande cyclable montante mais aucun aménagement cyclable dans sens le descendant
 
 ::content-image
 ---
@@ -44,7 +46,7 @@ credit: Roue Libre
 ---
 ::
 
-### Itinéraire optionnel
+### Itineraire optionnel
 A partir du haut du Pont des Amours, des études doivent être réalisées pour définir l'itinéraire le plus adapté pour réaliser la création d'une liaison structurante pour connecter Mérande, Bassens puis Saint Alban Leysse.
 
 Pour améliorer la lecture cartographique et éviter l'illusion de la "ligne droite", nous avons ici privilégié de manière arbitraire l'itinéraire via l'avenue de Mérande de manière à obtenir un rendu et des statistiques plus fiables sur la ligne.

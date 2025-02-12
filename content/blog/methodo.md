@@ -15,7 +15,7 @@ On vous explique tout !
 ## Pourquoi le nom "Pistes Bleues" ?
 Ce nom a été choisi par Grand Chambéry en juin 2024 lors de l'inauguration du jalonnement de 9 pistes structurantes sur son territoire. Selon [le site de Grand Chambéry](https://www.grandchambery.fr/toutes-les-actualites/les-pistes-bleues), ce nom est en lien avec le territoire de montagne et donne une indication sur le niveau requis pour emprunter les pistes (bleu = niveau facile). Il est également en cohérence avec la couleur de la Vélostation, service de location vélo, stationnement vélo et d'apprentissage du vélo de l'agglomération de Grand Chambéry.
 
-## Tronçon « satisfaisant / A améliorer / non-satisfaisant » ?
+## Tronçon « satisfaisant / A améliorer / non-satisfaisant / Hors pistes » ?
 Pour chaque tronçon de Piste Bleue, nous avons observé s'il était conforme aux caractéristiques préconisées par le CEREMA [(Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement)](https://www.cerema.fr/) pour un [(Réseau Cyclable à Haut Niveau de Service)](/blog/reseauchns) (aussi appelé Réseau Express Vélo) . 
 
 Ainsi, parmi les critères nous avons essentiellement évalué : la sécurisation ; la présence ou non d'un conflit piéton/vélo ; le confort et la lisibilité ; la continuité et le caractère direct et efficace des trajets.
@@ -25,7 +25,9 @@ S'il est globalement conforme à ces qualités, il est classé comme <span style
 Aussi, un tronçon classé comme « satisfaisant » ne veut pas dire qu'il est parfait. Par exemple, certains tronçons ont encore une largeur insuffisante pour une circulation fluide (par exemple 3 mètres de largeur et une fréquentation supérieure à 1500 cylistes /j), ont des défauts de revêtement, accueillent parfois du stationnement sauvage... ils ont pu être classés en « satisfaisant » au moment de création de la carte. 
 De plus, le classement de tronçons (sections de plusieurs dizaines ou centaines de mètres) ne permet généralement pas de noter les points noirs tels que les connexions incomplètes avec le réseau cyclable secondaire ou la présence de traversées de chaussées non totalement sécurisées pour les cyclistes. Certains de ces points noirs sont affichés par un cône de chantier sur [la carte interactive du réseau](/carte-interactive).
 
-Ce sont les limites d'une typologie en trois classes/couleurs, pratique pour une visualisation rapide et qui doit ensuite être précisé dans la description de chaque tronçon.
+En plus de ces 3 qualités d'aménagement, nous avons ajouté la caractéristique Hors Piste qui correspond aux itinéraires qui ne sont pas référencés "Pistes Bleues" par Grand Chambéry mais qui mériteraient de l'être selon les usagers cyclistes. Ces itinéraires hors pistes ne sont pas balisés et sont en général pas ou peu aménagés selon les caractéristiques attendues d'un réseau cyclable à Haut Niveau de Service. 
+
+Ce sont les limites d'une typologie en quatre classes/couleurs, pratique pour une visualisation rapide et qui doit ensuite être précisé dans la description de chaque tronçon.
 
 ## Pourquoi tous les aménagements cyclables existants (ou à aménager) ne sont pas affichés dans l'observatoire ?
 Cet observatoire suit seulement la partie concernant la réalisation du "Réseau cyclable à Haut Niveau de Service de Grand Chambéry" [(définition en lien)](/blog/reseauchns)
