@@ -13,8 +13,11 @@ Le tracé de l'itinéraire de cette ligne via Mérande et Bassens n'est pas déf
 
 Pour améliorer la lecture cartographique, nous avons ici privilégié de manière arbitraire l'itinéraire via l'avenue de Mérande de manière à obtenir un rendu et des statistiques plus fiables sur la ligne.
 
+
+
+
 ### Rue de la Banque
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Aménagement cyclable sécurisé à créer
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Départ de la piste proposée devant la médiathèque Jean Jacques Rousseau - Carré Curial, sur la rue de la République au croisement de la :line-link{line=8}. Aménagement cyclable sécurisé à créer
 
 ::content-image
 ---
@@ -25,7 +28,7 @@ credit: Roue Libre
 ::
 
 ### Rue Saint Francois de Sales
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Bande cyclable montante insatisfaisante et aucun aménagement cyclable dans le sens descendant
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Bande cyclable montante non continue et aucun aménagement cyclable dans le sens descendant
 
 ::content-image
 ---

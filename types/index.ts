@@ -14,7 +14,7 @@ export type LaneType =
 
 export type LaneStatus = 'done' | 'wip' | 'planned' | 'tested' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
 
-export type Quality = 'bad' | 'fair' | 'good' | 'offtrail';
+export type Quality = 'bad' | 'fair' | 'good' | 'parc' | 'offtrail';
 
 export type PolygonFeature = {
   type: 'Feature';

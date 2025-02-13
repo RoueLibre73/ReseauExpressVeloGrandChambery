@@ -66,13 +66,24 @@
             <div class="grid grid-cols-[64px_1fr] gap-x-4">
               <div>Qualité</div>
               <br>
+
+           <!--  Piste verte -->
+              <div class="my-auto rounded-md border-gray-500 border">
+                <div class="h-1 bg-velocite-green-2" />
+              </div>
+              <div>
+                Parc d'apprentissage
+              </div>
+
+           <!--  Piste bleue -->
               <div class="my-auto rounded-md border-gray-500 border">
                 <div class="h-1 bg-lvv-blue-600" />
               </div>
               <div>
-                satisfaisant
+                satisfaisante
               </div>
 
+           <!--  Piste rouge -->
               <div class="my-auto rounded-md border-gray-500 border">
                 <div class="h-1 bg-velocite-red-3" />
               </div>
@@ -80,11 +91,12 @@
                 à améliorer
               </div>
 
+           <!--  Piste noire -->
               <div class="my-auto rounded-md border-gray-500 border">
                 <div class="h-1 bg-velocite-dark-4" />
               </div>
               <div>
-                non satisfaisant
+                non satisfaisante
               </div>
 
            <!-- Ligne Qualité - hors piste -->
@@ -95,7 +107,7 @@
               </div>
             </div>
           </div>
-          <div>hors piste</div>
+          <div>non balisée</div>
 
             </div>
           </div>

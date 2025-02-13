@@ -145,6 +145,7 @@ export const useStats = () => {
   }
 
   const qualityNames: Record<Quality, string> = {
+    'parc': 'Parc d\'apprentissage',
     'offtrail': 'Non balisée',
     'bad': 'Non satisfaisant',
     'fair': 'À améliorer',

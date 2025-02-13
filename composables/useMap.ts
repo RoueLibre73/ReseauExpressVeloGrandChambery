@@ -660,6 +660,7 @@ function drawLanesDoneQuality(map: Map, lanes: DisplayedLane[]) {
     paint: {
       'line-width': laneWidth,
       'line-color': ["case",
+        ["==", ['get', 'quality'], "parc"], " #57E389",
         ["==", ['get', 'quality'], "offtrail"], " #FFFF00",
         ["==", ['get', 'quality'], "bad"], " #0e0d0d",
         ["==", ['get', 'quality'], "fair"], " #e81916",
