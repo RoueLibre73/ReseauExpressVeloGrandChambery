@@ -574,6 +574,10 @@ function toggleBikeInfraVisibility(map: Map, displayBikeInfra: boolean) {
 }
 
 function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
+  if (!displayedLayer) {
+    displayedLayer = DisplayedLayer.Quality; // Définir "quality" comme valeur par défaut
+  }
+
   layersWithLanes.forEach(l => {
 
     if (displayedLayer == DisplayedLayer.Network) {
