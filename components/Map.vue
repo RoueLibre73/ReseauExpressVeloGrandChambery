@@ -113,7 +113,7 @@ onMounted(() => {
       }
     },
     (s: string) => {
-      let dt = convertIntoDisplayedLayerEnum(s)
+      let dt = convertIntoDisplayedLayerEnum(s || "quality"); // Assurer "quality" si `s` est vide
       setDisplayedLayer(dt)
       if (legendModalComponent.value) {
         (legendModalComponent.value as any).setWhichLayerIsDisplayed(dt);

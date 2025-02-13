@@ -30,8 +30,6 @@ export default class LayerControl {
     this.createRadioButton('network', 'du réseau', false);
     this.createRadioButton('type', "du type d'aménagement", false);
 
-    this._onChange('quality'); // Déclenche la sélection par défaut au chargement
-
     return this._container;
   }
 
