@@ -15,54 +15,8 @@
         <div class="mt-2">
           <div v-if="true">
           </div>
+
           <div v-if="layerDisplayed==0">
-            <div class="grid grid-cols-[64px_1fr] gap-x-4">
-
-              <div>Réseau</div>
-              <br>
-              <div class="my-auto rounded-md border-gray-500 border">
-                <div class="h-1 bg-velocite-yellow-5" />
-              </div>
-              <div>
-                terminé
-              </div>
-
-              <div class="my-auto rounded-md border-gray-500 border">
-                <div class="h-1 relative">
-                  <div class="h-full w-full">
-                    <div class="myrelative h-full w-full">
-                      <div class="myabsolute h-full w-full bg-velocite-yellow-5 dashed-line" />
-                      <div class="myabsolute h-full w-full bg-velocite-yellow-5 animated-opacity" />
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div>
-                en travaux
-              </div>
-
-              <div class="my-auto rounded-md border-gray-500 border">
-                <div class="h-1 relative">
-                  <div class="absolute h-full w-full">
-                    <div class="h-full bg-velocite-yellow-5 dashed-line" />
-                  </div>
-                </div>
-              </div>
-              <div>
-                à l'étude
-              </div>
-
-              <div class="my-auto rounded-md border-gray-500 border relative">
-                <div class="h-1 bg-white" />
-                <div class="myabsolute h-full w-full bg-velocite-yellow-5 dashed-line opacity-60 animated-opacity-slow" />
-              </div>
-              <div>
-                souhaité
-              </div>
-            </div>
-          </div>
-
-          <div v-if="layerDisplayed==1">
             <div class="grid grid-cols-[64px_1fr] gap-x-4">
               <div>Qualité</div>
               <br>
@@ -109,6 +63,53 @@
           </div>
           <div>non balisée</div>
 
+            </div>
+          </div>
+
+          <div v-if="layerDisplayed==1">
+            <div class="grid grid-cols-[64px_1fr] gap-x-4">
+
+              <div>Réseau</div>
+              <br>
+              <div class="my-auto rounded-md border-gray-500 border">
+                <div class="h-1 bg-velocite-yellow-5" />
+              </div>
+              <div>
+                terminé
+              </div>
+
+              <div class="my-auto rounded-md border-gray-500 border">
+                <div class="h-1 relative">
+                  <div class="h-full w-full">
+                    <div class="myrelative h-full w-full">
+                      <div class="myabsolute h-full w-full bg-velocite-yellow-5 dashed-line" />
+                      <div class="myabsolute h-full w-full bg-velocite-yellow-5 animated-opacity" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div>
+                en travaux
+              </div>
+
+              <div class="my-auto rounded-md border-gray-500 border">
+                <div class="h-1 relative">
+                  <div class="absolute h-full w-full">
+                    <div class="h-full bg-velocite-yellow-5 dashed-line" />
+                  </div>
+                </div>
+              </div>
+              <div>
+                à l'étude
+              </div>
+
+              <div class="my-auto rounded-md border-gray-500 border relative">
+                <div class="h-1 bg-white" />
+                <div class="myabsolute h-full w-full bg-velocite-yellow-5 dashed-line opacity-60 animated-opacity-slow" />
+              </div>
+              <div>
+                souhaité
+              </div>
             </div>
           </div>
 
