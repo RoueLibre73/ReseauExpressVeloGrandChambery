@@ -85,9 +85,9 @@ credit: Roue Libre
 ---
 ::
 
-### Rue Dugesclin
-<span style="color:red;font-weight:bold">A améliorer</span>
-Présence d'un simple marquage au sol d'une zone de rencontre piétons, cycles et automobiles.
+### Rue Duguesclin
+<span style="color:blue;font-weight:bold">Satisfaisant</span>
+Rue à faible trafic, marquage au sol d'une zone de rencontre piétons, cycles et automobiles.
 
 ::content-image
 ---

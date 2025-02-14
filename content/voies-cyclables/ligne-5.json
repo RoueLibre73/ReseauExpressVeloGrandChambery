@@ -108,9 +108,10 @@
         "properties": {
           "line": "5",
           "name": "Rue Duguesclin",
-          "quality": "fair",
-          "status": "postponed",
-          "type": "aucun",
+          "quality": "good",
+          "doneAt": "29\/01\/2017",
+          "status": "done",
+          "type": "zone-de-rencontre",
           "link": "/rev-5#rue-duguesclin"
         },
         "geometry": {
