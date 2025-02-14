@@ -96,6 +96,14 @@ credit: Roue Libre
 Présence de bandes cyclables jusqu’à Maison Brûlée, fin du jalonnement de la piste 3. Aménagement à améliorer au vu du trafic routier et de sa vitesse pour répondre aux exigences d'un réseau à Haut Niveau de Service.
 Les bandes cyclables sont prolongées vers Sonnaz et le Viviers-du-Lac sur la D991.
 
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV3-AvenueDanielRops.jpg
+caption: Avenue Daniel Rops
+credit: Roue Libre
+---
+::
+
 ## Fil d'actu
 
 ### Lancement d'une étude de faisabilité Hauts de Chambéry via Avenue Aix les Bains par Grand Chambéry
