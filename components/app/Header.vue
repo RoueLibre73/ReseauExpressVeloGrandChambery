@@ -156,7 +156,7 @@
       <PopoverPanel
         v-slot="{ close }"
         focus
-        class="absolute top-0 inset-x-0 z-10 p-2 transition transform origin-top-right md:hidden"
+        class="absolute top-0 inset-x-0 z-10 p-2 transition transform origin-top-right md:hidden max-h-screen overflow-y-auto"
       >
         <div
           class="rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 bg-white divide-y-2 divide-gray-50"
