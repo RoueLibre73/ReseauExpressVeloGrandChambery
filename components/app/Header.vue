@@ -97,7 +97,7 @@
                 <div class="overflow-hidden rounded-lg shadow-lg ring-1 ring-black ring-opacity-5">
                   <div class="relative grid grid-cols-2 sm:grid-cols-3 gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
                     <NuxtLink v-for="voie in [...voies].sort((a, b) => {
-                    const ordrePersonnalise = ['1', '2', '3', '4', '5', '6', '7', '8', '9', 'Y', '0', 'Z'];
+                    const ordrePersonnalise = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "Y", "0", "Z", "10", "11"];
                     return ordrePersonnalise.indexOf(a.lineNameShort) - ordrePersonnalise.indexOf(b.lineNameShort);
                     })"
                     :key="voie.line"
