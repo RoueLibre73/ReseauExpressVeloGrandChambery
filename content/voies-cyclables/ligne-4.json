@@ -6,6 +6,20 @@
         "type": "Feature",
         "properties": {
           "type": "danger",
+          "name": "Rue des Barbillettes",
+          "danger": "Traversée cycles non sécurisée",
+          "line": "4",
+          "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6446.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.963024665353373, 45.57391477122292]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "type": "danger",
           "name": "Chemin du Violet",
           "description": "Barrières",
           "danger": "Franchissement difficile pour les cycles",
@@ -25,7 +39,7 @@
           "description": "Barrières",
           "danger": "Traversée cycles inconfortable",
           "line": "4",
-          "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_2710.jpg"
+          "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6487.jpg"
         },
         "geometry": {
           "type": "Point",

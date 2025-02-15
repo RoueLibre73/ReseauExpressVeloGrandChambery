@@ -61,17 +61,27 @@ credit: Roue Libre
 ::
 
 ### Voie verte des Planeurs
-<span style="color:blue;font-weight:bold">Satisfaisant</span> La Voie verte historique des planeurs permet de rejoindre en toute sécurité le plan d'eau de Challes les Eaux et le départ de la :line-link{line=5}.
-
-Le jonction au centre ville de Challes les Eaux n'est actuellement ni jalonnée ni sécurisée.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> 
 
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2024/11/Piste4-IMG_2701.jpg
-caption: Roue de la Trousse (Barby)
+caption: Route de la Trousse (Barby)
 credit: Roue Libre
 ---
 ::
+
+La Voie verte historique des planeurs permet ensuite de rejoindre en toute sécurité le plan d'eau de Challes les Eaux et le départ de la :line-link{line=5}.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6510.jpg
+caption: Voie verte des Planeurs (Barby)
+credit: Roue Libre
+---
+::
+
+Cette :line-link{line=4} se termine au parking des Culées de Challes les Eaux, à proximité du plan d'eau. Il n'y a actuellement aucun jalonnement ni aménagement pour rejoindre le centre ville de Challes les Eaux.
 
 ### Variante RD1006 Nord
 <span style="color:red;font-weight:bold">A améliorer</span> Les bandes cyclables créées en 2020 aux côtés d'une voie de circulation à 70 km/h ne sont pas du tout satisfaisantes.
