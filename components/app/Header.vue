@@ -96,16 +96,25 @@
               <PopoverPanel v-slot="{ close }" class="absolute left-1/2 z-10 mt-3 w-screen max-w-md -translate-x-1/2 transform px-2 sm:px-0">
                 <div class="overflow-hidden rounded-lg shadow-lg ring-1 ring-black ring-opacity-5">
                   <div class="relative grid grid-cols-2 sm:grid-cols-3 gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
-                    <NuxtLink v-for="voie in voies" :key="voie.line" :to="getVoieCyclablePath(voie.line)" class="-m-3 flex items-start justify-center rounded-lg p-3 hover:bg-gray-50" @click="close()">
-                      <div class="flex-shrink-0">
-                        <div
-                          class="h-10 w-10 rounded-md flex items-center justify-center text-white font-bold"
-                          :style="`background-color: ${getLineColor(voie.line)}`"
-                        >
-                          {{ voie.lineNameShort }}
-                        </div>
-                      </div>
+                    <NuxtLink v-for="voie in [...voies].sort((a, b) => {
+                    const ordrePersonnalise = ['1', '2', '3', '4', '5', '6', '7', '8', '9', 'Y', '0', 'Z'];
+                    return ordrePersonnalise.indexOf(a.lineNameShort) - ordrePersonnalise.indexOf(b.lineNameShort);
+                    })"
+                    :key="voie.line"
+                    :to="getVoieCyclablePath(voie.line)"
+                    class="-m-3 flex items-start justify-center rounded-lg p-3 hover:bg-gray-50"
+                    @click="close()"
+                    >
+                    <div class="flex-shrink-0">
+                    <div
+                    class="h-10 w-10 rounded-md flex items-center justify-center text-white font-bold"
+                    :style="`background-color: ${getLineColor(voie.line)}`"
+                    >
+                    {{ voie.lineNameShort }}
+                    </div>
+                    </div>
                     </NuxtLink>
+
                   </div>
                   <div class="bg-lvv-blue-600 text-white text-center py-1">
                     <NuxtLink to="/tableau-de-bord" class="hover:underline" @click="close()">
