@@ -61,7 +61,7 @@ Pour obtenir les chiffres lisibles sur le tableau de bord de la page d’accueil
 ## 57 ou 64 km ?
 Lors de l'inauguration des Pistes Bleues en juin 2024, 9 lignes et 57 kilomètres d'itinéraires cyclables ont été présentés par Grand Chambéry.
 
-Comme plusieurs secteurs de Grand Chambéry ne sont actuellement pas desservis par ce jalonnement, l'association Roue Libre demande l'ajout de 2 Pistes Bleues complémentaires : la :line-link{line=10} pour connecter Chambéry à Jacob - Bellecombette et la :line-link{line=11} pour relier Chambéry-Mérande à Barby via Bassens. Le suivi de la réalisation de ces deux nouvelles Pistes Bleues ajoute ainsi 7 kilomètres de pistes suivis par cet observatoire.
+Comme plusieurs secteurs de Grand Chambéry ne sont actuellement pas desservis par ce jalonnement, l'association Roue Libre demande l'ajout de 2 Pistes Bleues complémentaires : la :line-link{line=Y} pour connecter Chambéry à Jacob - Bellecombette et la :line-link{line=11} pour relier Chambéry-Mérande à Barby via Bassens. Le suivi de la réalisation de ces deux nouvelles Pistes Bleues ajoute ainsi 7 kilomètres de pistes suivis par cet observatoire.
 
 ## Points noirs
 Quelques points noirs sont affichés sur la carte. Ce sont les points noirs les plus problématiques situés seulement sur le réseau stuctrant. 

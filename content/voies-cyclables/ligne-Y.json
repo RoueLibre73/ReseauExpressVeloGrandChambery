@@ -7,7 +7,7 @@
       "properties": {
         "line": "Y",
         "name": "Boulevard de Bellevue",
-        "quality": "bad",
+        "quality": "offtrail",
         "status": "postponed",
         "type": "aucun",
         "link": "/rev-Y"

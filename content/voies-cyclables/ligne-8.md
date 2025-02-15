@@ -11,6 +11,7 @@ cover: https://rouelibre.net/wp-content/uploads/2024/10/Avenue-de-Lyon-liaison-C
 ---
 
 ## Les tronçons (du Sud au Nord)
+La Piste 8 débute au giratoire Paul Chevalier, c'est un point de passage de la :line-link{line=7}, l'entrée du parc de Buisson Rond et le début de la Voie verte Sud Belle Via.
 
 ### Avenue Marius Berroir
 *Avenue Marius Berroir et Rue Costa de Beauregard*
@@ -28,6 +29,8 @@ credit: Roue Libre
 
 ### Rue de la République Sud
 <span style="color:black;font-weight:bold">Non satisfaisant</span> Aucun aménagement Rue de la République Sud (Manège).
+
+Devant la médiathèque, elle pourrait un jour croiser la nouvelle :line-link{line=Y} proposée par Roue Libre pour rejoindre Mérande, Bassens et Barby.
 
 ::content-image
 ---
@@ -52,6 +55,8 @@ caption: Avenue de Lyon
 credit: Roue Libre
 ---
 ::
+
+Au niveau de la place Caffe, cette piste se connecte à la :line-link{line=3}. La place Caffe pourrait également être le point de départ d'une nouvelle :line-link{line=Y} proposée par Roue Libre pour rejoindre Jacob par le boulevard de Bellevue.
 
 ### Avenue de Lyon
 <span style="color:red;font-weight:bold">A améliorer</span> Bandes cyclables incompatibles avec un trafic automobile de près de 8000 véhicules / jour.
