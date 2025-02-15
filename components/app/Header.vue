@@ -95,7 +95,7 @@
             >
               <PopoverPanel v-slot="{ close }" class="absolute left-1/2 z-10 mt-3 w-screen max-w-md -translate-x-1/2 transform px-2 sm:px-0">
                 <div class="overflow-hidden rounded-lg shadow-lg ring-1 ring-black ring-opacity-5">
-                  <div class="relative grid grid-cols-2 sm:grid-cols-4 gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
+                  <div class="relative grid grid-cols-2 sm:grid-cols-3 gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
                     <NuxtLink v-for="voie in voies" :key="voie.line" :to="getVoieCyclablePath(voie.line)" class="-m-3 flex items-start justify-center rounded-lg p-3 hover:bg-gray-50" @click="close()">
                       <div class="flex-shrink-0">
                         <div
@@ -250,7 +250,7 @@
             <div class="ml-3 text-base font-medium text-gray-900">
               Toutes les Lignes
             </div>
-            <div class="grid grid-cols-4 gap-y-4 gap-x-8">
+            <div class="grid grid-cols-3 gap-y-4 gap-x-8">
               <NuxtLink v-for="voie in voies" :key="voie.line" :to="getVoieCyclablePath(voie.line)" class="-m-3 flex items-start rounded-lg p-3 hover:bg-gray-50" @click="close()">
                 <div class="flex-shrink-0">
                   <div
