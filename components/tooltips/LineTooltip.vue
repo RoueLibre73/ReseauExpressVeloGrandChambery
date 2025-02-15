@@ -134,7 +134,7 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
       class: ''
     },
     'variante-postponed': {
-      label: 'variante reportée',
+      label: 'variante',
       date: 'après 2026',
       class: 'text-white bg-lvv-pink rounded-xl px-2'
     },
