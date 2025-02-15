@@ -5,12 +5,12 @@
     {
     "type": "Feature",
     "properties": {
-      "line": "11",
+      "line": "Z",
       "name": "Rue de la Banque",
       "quality": "offtrail",
       "status": "postponed",
       "type": "aucun",
-      "link": "/rev-11#rue-de-la-banque"
+      "link": "/rev-Z#rue-de-la-banque"
   },
   "geometry": {
     "type": "LineString",
@@ -22,12 +22,12 @@
   {
       "type": "Feature",
       "properties": {
-        "line": "11",
+        "line": "Z",
         "name": "Rue Saint François de Sales",
         "quality": "offtrail",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "link": "/rev-11#rue-saint-francois-de-sales"
+        "link": "/rev-Z#rue-saint-francois-de-sales"
     },
     "geometry": {
       "type": "LineString",
@@ -39,12 +39,12 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "11",
+        "line": "Z",
         "name": "Pont des Amours",
         "quality": "offtrail",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "link": "/rev-11#pont-des-amours"
+        "link": "/rev-Z#pont-des-amours"
     },
     "geometry": {
       "type": "LineString",
@@ -56,12 +56,12 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "11",
+        "line": "Z",
         "name": "Avenue de Mérande Nord",
         "quality": "offtrail",
         "status": "postponed",
         "type": "aucun",
-        "link": "/rev-11#itineraire-optionnel"
+        "link": "/rev-Z#itineraire-optionnel"
     },
     "geometry": {
       "type": "LineString",
@@ -73,12 +73,12 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "11",
+        "line": "Z",
         "name": "Avenue de Mérande Sud",
         "quality": "offtrail",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "link": "/rev-11#itineraire-optionnel"
+        "link": "/rev-Z#itineraire-optionnel"
     },
     "geometry": {
       "type": "LineString",
@@ -90,13 +90,13 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "11",
+        "line": "Z",
         "name": "Avenue de Bassens",
         "quality": "offtrail",
         "doneAt": "29\/01\/2010",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/rev-11#itineraire-optionnel"
+        "link": "/rev-Z#itineraire-optionnel"
     },
     "geometry": {
       "type": "LineString",
@@ -108,12 +108,12 @@
     {
       "type": "Feature",
       "properties": {
-        "line": "11",
+        "line": "Z",
         "name": "Mairie Bassens",
         "quality": "offtrail",
         "status": "postponed",
         "type": "aucun",
-        "link": "/rev-11#itineraire-optionnel"
+        "link": "/rev-Z#itineraire-optionnel"
     },
     "geometry": {
       "type": "LineString",
