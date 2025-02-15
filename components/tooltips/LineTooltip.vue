@@ -8,7 +8,7 @@
         <div
           v-for="line in lines"
           :key="line"
-          class="px-3 py-1 rounded-full flex items-center justify-center text-white text-base font-bold"
+          class="px-3 py-1 rounded-md flex items-center justify-center text-white text-base font-bold"
           :style="`background-color: ${getLineColor(line)}`"
         >
           {{ line }}
