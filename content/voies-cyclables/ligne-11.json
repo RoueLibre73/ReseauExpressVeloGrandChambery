@@ -1,0 +1,126 @@
+
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+      "type": "Feature",
+      "properties": {
+        "line": "Z",
+        "name": "Rue de la Banque",
+        "quality": "offtrail",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/rev-Z#rue-de-la-banque"
+    },
+    "geometry": {
+      "type": "LineString",
+          "coordinates": [
+            [5.925279,45.566854],[5.925284,45.56679],[5.925375,45.566753],[5.925697,45.566422],[5.92574,45.566047],[5.925912,45.565882],[5.925761,45.564747],[5.92559,45.564462],[5.92531,45.564304],[5.925132,45.564172]
+        ]
+      }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "line": "Z",
+          "name": "Rue Saint François de Sales",
+          "quality": "offtrail",
+          "status": "postponed",
+          "type": "bandes-cyclables",
+          "link": "/rev-Z#rue-saint-francois-de-sales"
+      },
+      "geometry": {
+        "type": "LineString",
+            "coordinates": [
+                [5.925273,45.566862],[5.925053,45.567121],[5.924753,45.567459],[5.924646,45.567583]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "line": "Z",
+          "name": "Pont des Amours",
+          "quality": "offtrail",
+          "status": "postponed",
+          "type": "bandes-cyclables",
+          "link": "/rev-Z#pont-des-amours"
+      },
+      "geometry": {
+        "type": "LineString",
+            "coordinates": [
+                [5.924672,45.567576],[5.924485,45.568101],[5.92449,45.568184],[5.92449,45.568184]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "line": "Z",
+          "name": "Avenue de Mérande Nord",
+          "quality": "offtrail",
+          "status": "postponed",
+          "type": "aucun",
+          "link": "/rev-Z#itineraire-optionnel"
+      },
+      "geometry": {
+        "type": "LineString",
+            "coordinates": [
+                [5.929849,45.572254],[5.929313,45.572073],[5.928712,45.571833],[5.927982,45.571743],[5.927467,45.571653],[5.926781,45.571203],[5.926073,45.570647],[5.925171,45.569732],[5.924828,45.569386],[5.924463,45.56817]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "line": "Z",
+          "name": "Avenue de Mérande Sud",
+          "quality": "offtrail",
+          "status": "postponed",
+          "type": "bandes-cyclables",
+          "link": "/rev-Z#itineraire-optionnel"
+      },
+      "geometry": {
+        "type": "LineString",
+            "coordinates": [
+              [5.929844,45.572258],[5.930192,45.57233],[5.930493,45.572469],[5.931206,45.572739],[5.932896,45.573219],[5.934548,45.57391],[5.936437,45.574196],[5.936718,45.574154],[5.936871,45.573982],[5.936834,45.573877]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "line": "Z",
+          "name": "Avenue de Bassens",
+          "quality": "offtrail",
+          "doneAt": "29\/01\/2010",
+          "status": "done",
+          "type": "bidirectionnelle",
+          "link": "/rev-Z#itineraire-optionnel"
+      },
+      "geometry": {
+        "type": "LineString",
+            "coordinates": [
+              [5.936831,45.573877],[5.937086,45.573843],[5.937306,45.573926],[5.937405,45.574048],[5.937477,45.574273],[5.937925,45.574641],[5.938328,45.57505],[5.939073,45.575869],[5.939363,45.576173]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "line": "Z",
+          "name": "Mairie Bassens",
+          "quality": "offtrail",
+          "status": "postponed",
+          "type": "aucun",
+          "link": "/rev-Z#itineraire-optionnel"
+      },
+      "geometry": {
+        "type": "LineString",
+            "coordinates": [
+              [5.968022,45.575342],[5.965898,45.577023],[5.963109,45.579115],[5.961306,45.577479],[5.958903,45.576069],[5.956135,45.577584],[5.954955,45.578724],[5.954118,45.57916],[5.953291,45.579698],[5.952807,45.57982],[5.95229,45.579831],[5.950628,45.579363],[5.950266,45.580188],[5.949869,45.581134],[5.949687,45.581614],[5.949676,45.582334],[5.949236,45.582229],[5.9487,45.582184],[5.947756,45.582109],[5.947187,45.582124],[5.946811,45.582057],[5.946146,45.581869],[5.945234,45.581539],[5.944086,45.581209],[5.94296,45.580871],[5.942198,45.580593],[5.941458,45.579723],[5.940632,45.579265],[5.939859,45.578695],[5.939763,45.578529],[5.939806,45.578124],[5.939848,45.577321],[5.939784,45.576833],[5.939505,45.576496],[5.939451,45.576336],[5.939387,45.576188]
+          ]
+        }
+      }
+  ]
+  }
