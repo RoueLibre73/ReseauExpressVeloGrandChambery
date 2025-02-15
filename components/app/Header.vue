@@ -99,7 +99,7 @@
                     <NuxtLink v-for="voie in voies" :key="voie.line" :to="getVoieCyclablePath(voie.line)" class="-m-3 flex items-start justify-center rounded-lg p-3 hover:bg-gray-50" @click="close()">
                       <div class="flex-shrink-0">
                         <div
-                          class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
+                          class="h-10 w-10 rounded-md flex items-center justify-center text-white font-bold"
                           :style="`background-color: ${getLineColor(voie.line)}`"
                         >
                           {{ voie.lineNameShort }}
@@ -254,7 +254,7 @@
               <NuxtLink v-for="voie in voies" :key="voie.line" :to="getVoieCyclablePath(voie.line)" class="-m-3 flex items-start rounded-lg p-3 hover:bg-gray-50" @click="close()">
                 <div class="flex-shrink-0">
                   <div
-                    class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
+                    class="h-10 w-10 rounded-md flex items-center justify-center text-white font-bold"
                     :style="`background-color: ${getLineColor(voie.line)}`"
                   >
                     {{ voie.lineNameShort }}
