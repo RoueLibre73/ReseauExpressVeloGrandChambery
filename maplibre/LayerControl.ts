@@ -32,7 +32,7 @@ export default class LayerControl {
 
 
     // ✅ Afficher la légende par défaut
-    if (window.location.pathname === "/carteinteractive") {
+    if (window.location.pathname === "/carte-interactive") {
     setTimeout(() => this._onClick(), 500);  // Petite pause pour éviter des conflits de chargement
   }
   return this._container;
