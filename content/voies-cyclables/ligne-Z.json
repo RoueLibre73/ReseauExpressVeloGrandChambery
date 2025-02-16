@@ -93,8 +93,7 @@
         "line": "Z",
         "name": "Avenue de Bassens",
         "quality": "offtrail",
-        "doneAt": "29\/01\/2010",
-        "status": "done",
+        "status": "postponed",
         "type": "bidirectionnelle",
         "link": "/rev-Z#itineraire-optionnel"
     },

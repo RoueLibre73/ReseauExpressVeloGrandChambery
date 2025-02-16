@@ -54,8 +54,7 @@ A partir du haut du Pont des Amours, des études doivent être réalisées pour 
 
 Pour améliorer la lecture cartographique et éviter l'illusion de la "ligne droite", nous avons ici privilégié de manière arbitraire l'itinéraire via l'avenue de Mérande de manière à obtenir un rendu et des statistiques plus fiables sur la ligne.
 
-### Avenue de Mérande Nord
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Aucun aménagement cyclable
+### Quelques photos des rues des différents itinéraires
 
 ::content-image
 ---
@@ -65,9 +64,6 @@ credit: Roue Libre
 ---
 ::
 
-### Avenue de Mérande Sud
-<span style="color:red;font-weight:bold">À améliorer</span> Bandes cyclables
-
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/REV11-IMG_5505.jpg
@@ -75,9 +71,6 @@ caption: Avenue de Mérande Sud (Chambéry et Bassens)
 credit: Roue Libre
 ---
 ::
-
-### Avenue de Bassens
-<span style="color:blue;font-weight:bold">Satisfaisant</span> Contre allée aménagée en piste bidirectionnelle et fermée à la circulation sur une portion par des barrières.
 
 ::content-image
 ---
@@ -87,8 +80,58 @@ credit: Roue Libre
 ---
 ::
 
-### Rue de la Croix
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Aucun aménagement cyclable
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REVZ-CHS-Rue-de-la-Croix.jpg
+caption: Rue de la Croix (CHS Bassens)
+credit: Roue Libre
+---
+::
 
-### Saint Alban Leysse
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Aucun aménagement cyclable
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REVZ-Route-de-Plainpalais.jpg
+caption: Route de Plainpalais (Saint Alban Leysse)
+credit: Roue Libre
+---
+::
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REVZ-Rue-des-Barillettes.jpg
+caption: Rue des Barillettes (Saint Alban Leysse)
+credit: Roue Libre
+---
+::
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REVZ-Avenue-de-l-epine.jpg
+caption: Avenue de l'Epine (Saint Alban Leysse)
+credit: Roue Libre
+---
+::
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REVZ-rue-du-granier.jpg
+caption: Rue du Granier (Saint Alban Leysse)
+credit: Roue Libre
+---
+::
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REVZ-Rue-des-Epinettes.jpg
+caption: Rue des Epinettes (Saint Alban Leysse)
+credit: Roue Libre
+---
+::
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REVZ-chemin-du-violet.jpg
+caption: Chemin du Violet (Saint Alban Leysse)
+credit: Roue Libre
+---
+::
