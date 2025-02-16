@@ -34,7 +34,8 @@ export default class LayerControl {
     // ✅ Afficher la légende par défaut
     if (window.location.pathname === "/carteinteractive") {
     setTimeout(() => this._onClick(), 500);  // Petite pause pour éviter des conflits de chargement
-    return this._container;
+  }
+  return this._container;
   }
 
   createRadioButton(value: string, label: string, tryCheck: boolean = false) {
