@@ -30,6 +30,9 @@ export default class LayerControl {
     this.createRadioButton('network', 'du réseau', false);
     this.createRadioButton('type', "du type d'aménagement", false);
 
+
+    // ✅ Afficher la légende par défaut
+    setTimeout(() => this._onClick(), 500);  // Petite pause pour éviter des conflits de chargement
     return this._container;
   }
 
