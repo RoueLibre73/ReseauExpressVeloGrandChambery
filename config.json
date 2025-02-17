@@ -15,11 +15,11 @@
   "colors": [
     {
       "line": "0",
-      "color": "#6BE9EB"
+      "color": "#77BD17"
     },
     {
       "line": "1",
-      "color": "#77BD17"
+      "color": "#5AB6BB"
     },
     {
       "line": "2",
@@ -27,7 +27,7 @@
     },
     {
       "line": "3",
-      "color": "#1A958F"
+      "color": "#19857F"
     },
     {
       "line": "4",
@@ -39,7 +39,7 @@
     },
     {
       "line": "6",
-      "color": "#396083"
+      "color": "#4A728F"
     },
     {
       "line": "7",
@@ -63,11 +63,11 @@
     },    
     {
       "line": "Y",
-      "color": "#DBABB7"
+      "color": "#C9C500"
     },    
     {
       "line": "Z",
-      "color": "#B46913"
+      "color": "#A05A1E"
     }
   ]
 }
