@@ -19,39 +19,39 @@
     },
     {
       "line": "1",
-      "color": "#5AB6BB"
+      "color": "#4AA7B3"
     },
     {
       "line": "2",
-      "color": "#CC2B38"
+      "color": "#E1303C"
     },
     {
       "line": "3",
-      "color": "#19857F"
+      "color": "#0085D4"
     },
     {
       "line": "4",
-      "color": "#A95CDD"
+      "color": "#B86EF5"
     },
     {
       "line": "5",
-      "color": "#DB797B"
+      "color": "#E06B72"
     },
     {
       "line": "6",
-      "color": "#4A728F"
+      "color": "#1EA88F"
     },
     {
       "line": "7",
-      "color": "#0071B4"
+      "color": "#206A3A"
     },
     {
       "line": "8",
-      "color": "#6503B2"
+      "color": "#7606D1"
     },
     {
       "line": "9",
-      "color": "#E7991E"
+      "color": "#F0A320"
     },
     {
       "line": "10",
@@ -63,11 +63,11 @@
     },    
     {
       "line": "Y",
-      "color": "#C9C500"
+      "color": "#D3C900"
     },    
     {
       "line": "Z",
-      "color": "#A05A1E"
+      "color": "#B3691E"
     }
   ]
 }

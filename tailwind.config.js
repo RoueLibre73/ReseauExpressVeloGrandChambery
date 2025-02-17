@@ -20,7 +20,7 @@ module.exports = {
         'velocite-blue-4': '#1C71D8',
         'velocite-blue-5': ' #1A5FB4',
         'velocite-green-1': ' #9CFFAF',
-        'velocite-green-2': ' #57E389',
+        'velocite-green-2': ' #77BD17',
         'velocite-green-3': ' #33D17A',
         'velocite-green-4': ' #2EC27E',
         'velocite-green-5': ' #77dd77',

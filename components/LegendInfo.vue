@@ -26,7 +26,7 @@
                 <div class="h-1 bg-velocite-green-2" />
               </div>
               <div>
-                Parc d'apprentissage
+                parc d'apprentissage
               </div>
 
            <!--  Piste bleue -->
