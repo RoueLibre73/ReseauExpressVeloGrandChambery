@@ -17,6 +17,20 @@
       }
     },
     {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Rouet du Tremblay",
+        "danger": "Traversée non sécurisée",
+        "line": "1",
+        "imgUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.873706510352406, 45.62802713698596]
+      }
+    },
+    {
   "type": "Feature",
   "properties": {
     "line": "1",

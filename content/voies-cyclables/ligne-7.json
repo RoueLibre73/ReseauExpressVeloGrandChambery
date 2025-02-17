@@ -62,6 +62,20 @@
         "type": "Feature",
         "properties": {
           "type": "danger",
+          "name": "Chemin des Prés",
+          "danger": "Croisement non sécurisé",
+          "line": "7",
+          "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV7-IMG_4176.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.948117284250458, 45.558255033354556]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "type": "danger",
           "name": "Route d'Apremont",
           "danger": "Traversée cycles non sécurisée",
           "line": "7",
