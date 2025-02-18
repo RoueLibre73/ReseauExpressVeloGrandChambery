@@ -421,7 +421,10 @@ export const useMap = () => {
       lineStringFeatures = addOtherLineColor(lineStringFeatures);
 
       plotSections(map, lineStringFeatures);
+      // 👉 Forcer la couleur sur "quality" dès le début
+      setLanesColor(map, DisplayedLayer.Quality);
 
+      // 👉 Ensuite, le watch continuera à fonctionner normalement
       watch(displayedLayer, (displayedLayer) => setLanesColor(map, displayedLayer))
 
       plotPerspective({ map, features: updated_features });
