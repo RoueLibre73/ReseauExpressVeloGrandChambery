@@ -573,7 +573,7 @@ function toggleBikeInfraVisibility(map: Map, displayBikeInfra: boolean) {
   map.setLayoutProperty("layer-underline-base-infrastructure", "visibility", displayBikeInfra ? "visible" : "none")
 }
 
-function setLanesColor(map: Map, displayedLayer: DisplayedLayer) {
+function setLanesColor(map: Map, displayedLayer: DisplayedLayer = DisplayedLayer.Quality) {
   layersWithLanes.forEach(l => {
 
     if (displayedLayer == DisplayedLayer.Network) {

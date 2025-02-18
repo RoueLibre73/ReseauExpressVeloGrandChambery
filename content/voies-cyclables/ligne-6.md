@@ -3,7 +3,7 @@ name: Piste Bleue 6
 line: 6
 lineName: Piste 6
 lineNameShort: 6
-from: La Ravoire (Liberté)
+from: La Ravoire
 to: Challes les Eaux (Les Massettes)
 description: Avec 1,6 km de longueur, la Piste Bleue 6 est la plus petite ligne du réseau des Pistes Bleues. Elle permet depuis la :line-link{line=5} de rejoindre le Lycée du Granier et devrait à terme relier Médipôle.
 trafic: non connu

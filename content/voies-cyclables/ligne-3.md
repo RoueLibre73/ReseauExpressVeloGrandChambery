@@ -3,8 +3,8 @@ name: Piste Bleue 3
 line: 3
 lineName: Piste 3
 lineNameShort: 3
-from: Chambéry (Château des Ducs)
-to: Sonnaz (Maison Brulée)
+from: Chambéry (Préfecture)
+to: Hauts de Chambéry
 description: La Piste Bleue 3 permet de rejoindre Sonnaz via les Hauts de Chambéry. Sa partie centrale a une pente moyenne de 4% sur une distance d'environ 2,5 kilomètres.
 trafic: 400 vélos/jour
 cover: https://rouelibre.net/wp-content/uploads/2024/11/IMG_3960r.jpg
