@@ -4,6 +4,33 @@
       {
         "type": "Feature",
         "properties": {
+          "type": "danger",
+          "name": "Giratoire Route Royale Rue des Belledonnes",
+          "danger": "Giratoire non sécurisé pour les cycles",
+          "line": "6",
+          "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV6-IMG_4118.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.9693474754740805, 45.55142717010898]
+        }
+      },      {
+        "type": "Feature",
+        "properties": {
+          "type": "danger",
+          "name": "Rue de Joigny",
+          "danger": "Traversée non sécurisée pour les cycles",
+          "line": "6",
+          "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV6-IMG_6587.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.963834254173349, 45.552431643075295]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "line": "6",
           "name": "Route Royale",
           "quality": "fair",
@@ -14,8 +41,42 @@
         "geometry": {
           "type": "LineString",
           "coordinates": [
-            [5.972056,45.54706],
-            [5.969417,45.551264]
+            [5.972056,45.54706],[5.969304,45.551428]
+            ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "line": "6",
+          "name": "Avenue Joseph Fontanet",
+          "quality": "good",
+          "doneAt": "29\/01\/2016",
+          "status": "done",
+          "type": "voie-verte",
+          "link": "/rev-6#avenue-joseph-fontanet"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [5.969296,45.551436],[5.968626,45.551428],[5.967827,45.55122],[5.967025,45.55103],[5.966877,45.551085],[5.965209,45.550861],[5.965136,45.550799]
+            ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "line": "6",
+          "name": "Rue des Carpinelles",
+          "quality": "fair",
+          "status": "postponed",
+          "type": "chaucidou",
+          "link": "/rev-6#rue-des-carpinelles"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [5.965147,45.550805],[5.964723,45.550753],[5.96468,45.551061],[5.964444,45.551766],[5.964257,45.552194],[5.964101,45.55233],[5.963843,45.552438]
             ]
         }
       },
@@ -33,16 +94,7 @@
         "geometry": {
           "type": "LineString",
           "coordinates": [
-            [5.969359,45.55127],
-            [5.968861,45.551366],
-            [5.968074,45.551347],
-            [5.966842,45.551045],
-            [5.964772,45.55076],
-            [5.964289,45.552172],
-            [5.963162,45.552826],
-            [5.962737,45.553341],
-            [5.962708,45.554466],
-            [5.961692,45.556342]
+            [5.963841,45.552442],[5.96335,45.552717],[5.963031,45.552914],[5.962864,45.553077],[5.962717,45.553492],[5.962698,45.554289],[5.962655,45.554586],[5.96262,45.554725],[5.962379,45.555114],[5.9621,45.555575],[5.961848,45.555924],[5.961805,45.556116],[5.961746,45.556337]
             ]
         }
       }

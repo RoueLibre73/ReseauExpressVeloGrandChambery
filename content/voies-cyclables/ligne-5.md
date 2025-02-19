@@ -75,7 +75,7 @@ credit: Roue Libre
 
 ### Le Crest
 <span style="color:blue;font-weight:bold">Satisfaisant</span> 
-Tronçon sécurisé de jonction entre l'avenue de la Liberté et la Rue Dugesclin par le quartier du Crest. Liaison inondable à certaines périodes de l'année.
+Tronçon sécurisé de jonction entre l'avenue de la Liberté et la Rue Dugesclin par le quartier du Crest.
 
 ::content-image
 ---
