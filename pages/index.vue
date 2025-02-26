@@ -40,6 +40,9 @@
         <HomeLinesSection class="mt-5" />
       </div>
     </div>
+        <div class="py-16">
+      <Barometre />
+    </div>
     <div class="py-16">
       <AssoCallToAaction />
     </div>

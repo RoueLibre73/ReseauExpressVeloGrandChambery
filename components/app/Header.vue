@@ -63,12 +63,12 @@
                       Plan officiel
                     </NuxtLink>
                     <NuxtLink
-                      to="https://barometre.parlons-velo.fr/2021/carte/#12.21/45.56818/5.91894"
+                      to="https://www.barometre-velo.fr/"
                       target="_blank"
                       class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
                     >
-                      <span>Baromètre FUB</span>
+                      <span>Baromètre FUB. Enquête 2025, résultats 2021</span>
                       <div class="flex items-center">
                         <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
                       </div>
