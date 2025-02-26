@@ -53,7 +53,7 @@ const { data: voies } = await useAsyncData(() => {
 const features = computed(() => {
   return voies.value.map(voie => voie.features)
     .flat()
-    .filter(feature => feature.properties.status === 'done')
+    .filter(feature =>feature.properties.status === 'done' || feature.properties.status === 'wip')
     .filter(feature => {
       if (!feature.properties.doneAt) { return false; }
       const selectedYear = years.value.filter(year => year.isChecked);
