@@ -20,10 +20,10 @@
       "type": "Feature",
       "properties": {
         "type": "danger",
-        "name": "Rouet du Tremblay",
-        "danger": "Traversée non sécurisée",
+        "name": "Route du Tremblay",
+        "danger": "Traversée cycles non sécurisée",
         "line": "1",
-        "imgUrl": ""
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_2208.jpg"
       },
       "geometry": {
         "type": "Point",
