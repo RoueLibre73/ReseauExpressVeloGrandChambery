@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue 3
 line: 3
-lineName: Piste 3
+lineName: Piste 3 Hauts de Chambéry
 lineNameShort: 3
 from: Chambéry (Préfecture)
 to: Hauts de Chambéry

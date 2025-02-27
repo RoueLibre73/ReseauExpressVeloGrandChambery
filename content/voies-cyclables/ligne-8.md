@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue 8
 line: 8
-lineName: Piste 8
+lineName: Piste 8 Cognin
 lineNameShort: 8
 from: Chambéry (Buisson rond)
 to: Cognin

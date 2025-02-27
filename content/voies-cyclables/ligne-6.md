@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue 6
 line: 6
-lineName: Piste 6
+lineName: Piste 6 Médipôle
 lineNameShort: 6
 from: La Ravoire
 to: Challes les Eaux (Les Massettes)

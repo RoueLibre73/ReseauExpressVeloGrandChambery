@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue 5
 line: 5
-lineName: Piste 5
+lineName: Piste 5 La Ravoire
 lineNameShort: 5
 from: La Ravoire (Villette)
 to: Challes les Eaux

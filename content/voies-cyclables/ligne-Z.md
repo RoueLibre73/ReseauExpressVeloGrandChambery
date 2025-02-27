@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue Z
 line: Z
-lineName: Piste Z
+lineName: Piste Z Saint Alban Leysse
 lineNameShort: Z
 from: Chambéry (Curial)
 to: Saint Alban Leysse

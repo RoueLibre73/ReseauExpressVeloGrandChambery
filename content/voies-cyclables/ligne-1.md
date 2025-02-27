@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue 1
 line: 1
-lineName: Piste 1
+lineName: Piste 1 Bourget du Lac
 lineNameShort: 1
 from: Chambéry (Eléphants)
 to: Bourget du Lac
@@ -35,7 +35,7 @@ Lors de cet aménagement, les carrefours n'ont pas été modifiés et les connex
 
 Elle est aménagé par une piste cyclable bidirectionnelle de 3 à 3,5m de large. Elle croise le départ de la :line-link{line=2} Landiers au niveau du palais de Justice de Chambéry puis celui de la :line-link{line=9} La Motte Servolex au niveau du giratoire de la Poste.
 
-Il est possible de rejoindre via le giratoire de la Poste le Parc d'apprentissage vélo nommé :line-link{line=0} dans cet observatoire, parc situé au milieu de la résidence du Paradis. 
+Il est possible de rejoindre via le giratoire de la Poste le Parc d'apprentissage vélo nommé :line-link{line=O} dans cet observatoire, parc situé au milieu de la résidence du Paradis. 
 
 Elle longe ensuite la rivière la Leysse par le Quai des Allobroges.
 

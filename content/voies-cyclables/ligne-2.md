@@ -26,7 +26,7 @@ credit: Roue Libre
 ---
 ::
 
-Il est possible de rejoindre le Parc d'apprentissage vélo nommé :line-link{line=0} dans cet observatoire, parc situé au milieu de la résidence du Paradis. 
+Il est possible de rejoindre le Parc d'apprentissage vélo nommé :line-link{line=O} dans cet observatoire, parc situé au milieu de la résidence du Paradis. 
 
 
 ### Avenue de la Boisse Sud

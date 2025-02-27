@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue 7
 line: 7
-lineName: Piste 7
+lineName: Piste 7 Saint Baldoph
 lineNameShort: 7
 from: Chambéry (Eléphants)
 to: Saint Baldoph

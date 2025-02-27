@@ -1,7 +1,7 @@
 ---
 name: Piste Bleue Y
 line: Y
-lineName: Piste Y
+lineName: Piste Y Jacob Bellecombette
 lineNameShort: Y
 from: Chambéry (Préfecture)
 to: Jacob Bellecombette
