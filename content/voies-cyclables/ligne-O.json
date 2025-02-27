@@ -5,13 +5,13 @@
       {
       "type": "Feature",
       "properties": {
-        "line": "0",
+        "line": "O",
         "name": "Parc d'apprentissage vélo du Paradis",
         "quality": "parc",
         "doneAt": "01\/09\/2023",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/rev-0"
+        "link": "/rev-O"
     },
     "geometry": {
       "type": "LineString",
