@@ -1,24 +1,19 @@
 <template>
   <div class="not-prose text-gray-900 w-48 lg:w-64">
-    <div class="py-1 bg-zinc-100 flex flex-row items-center justify-between px-2">
-  <!-- Titre -->
-    <div class="font-bold text-base truncate">
-      {{ title }}
-    </div>
-
-    <!-- Liste des lignes -->
-    <div class="flex flex-row flex-wrap gap-1">
-      <div
-        v-for="line in lines"
-        :key="line"
-        class="px-3 py-1 rounded-md flex items-center justify-center text-white text-sm font-bold"
-        :style="`background-color: ${getLineColor(line)}`"
-      >
-      {{ line }}
-    </div>
-  </div>
-</div>
-
+    <div class="py-1 bg-zinc-100 flex flex-col items-center justify-center">
+      <div class="font-bold text-base">
+        {{ title }}
+      </div>
+      <div class="flex flex-row space-x-1">
+        <div
+          v-for="line in lines"
+          :key="line"
+          class="px-3 py-1 rounded-md flex items-center justify-center text-white text-base font-bold"
+          :style="`background-color: ${getLineColor(line)}`"
+        >
+          {{ line }}
+        </div>
+      </div>
     </div>
     <div class="px-2 divide-y">
       <div class="py-0.5 flex flex-col items-center">
