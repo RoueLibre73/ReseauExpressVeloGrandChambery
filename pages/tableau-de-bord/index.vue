@@ -15,7 +15,8 @@
         <div class="mr-4 w-2 lg:w-4 rounded-lg" :style="`background: ${getLineColor(getLine(voie))}`" />
         <div class="max-w-2xl mx-auto flex-grow">
           <h2 class="text-center text-2xl font-bold">
-            <LineLink :line="String(getLine(voie))" :title="voie.features[0].properties.lineName" />
+              <span :title="voie.features[0].properties.lineName">
+              <LineLink :line="String(getLine(voie))" />
           </h2>
           <div class="text-center text-xl text-gray-900">
             Distance totale: <span class="font-bold" :style="`color: ${getLineColor(getLine(voie))}`">
