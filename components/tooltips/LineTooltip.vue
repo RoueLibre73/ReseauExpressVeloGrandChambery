@@ -16,7 +16,7 @@
       </div>
     </div>
     <div class="px-2 divide-y">
-      <div class="py-0.5 flex flex-col items-center">
+      <div class="py-1 flex flex-col items-center">
         <div class="text-base font-bold">
           Tronçon
         </div>
@@ -24,7 +24,7 @@
           {{ feature.properties.name }}
         </div>
       </div>
-      <div class="py-0.5 flex items-center justify-between">
+      <div class="py-1 flex items-center justify-between">
         <div class="text-sm font-bold">
           Statut
         </div>
