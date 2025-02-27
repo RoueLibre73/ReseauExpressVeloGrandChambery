@@ -1,13 +1,14 @@
 <template>
   <NuxtLink :to="href" :style="`color: ${color}; text-decoration-color: ${color};`">
-    {{ getRevName('singular') }}
+    {{ lineName }}
     <span
       class="h-8 p-2 rounded-md inline-flex items-center justify-center text-white"
       :style="`background-color: ${color};`"
     >
-      {{ line }}
+      {{ lineName }}
     </span>
   </NuxtLink>
+
 </template>
 
 <script setup lang="ts">
