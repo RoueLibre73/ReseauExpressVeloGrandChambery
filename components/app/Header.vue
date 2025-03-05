@@ -74,6 +74,19 @@
                       </div>
                     </NuxtLink>
 
+                  <NuxtLink
+                      to="https://rouelibre.net/wp-content/uploads/2025/02/carte-postale-BAT.jpg"
+                      target="_blank"
+                      class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      @click="close()"
+                    >
+                      <span>Téléchargez le plan du domaine cyclable</span>
+                      <div class="flex items-center">
+                        <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
+                      </div>
+                    </NuxtLink>
+
+
                   </div>
                 </div>
               </PopoverPanel>
@@ -137,18 +150,6 @@
              @click="close()"
              >
              <span>Baromètre FUB</span>
-             <div class="flex items-center">
-             <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
-             </div>
-             </NuxtLink>
-
-            <NuxtLink
-            to="https://rouelibre.net/wp-content/uploads/2025/02/carte-postale-BAT.jpg"
-             target="_blank"
-             class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
-             @click="close()"
-             >
-             <span>Téléchargez le plan du domaine cyclable</span>
              <div class="flex items-center">
              <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
              </div>
