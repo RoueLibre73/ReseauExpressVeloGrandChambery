@@ -74,7 +74,7 @@
               <NuxtLink to="/carte-interactive" class="relative block w-full bg-white rounded-lg overflow-hidden">
                 <img
                   class="w-full opacity-90"
-                  src="https://rouelibre.net/wp-content/uploads/2025/02/PlanDesPistes.jpg"
+                  src="https://rouelibre.net/wp-content/uploads/2025/02/carte-postale-BAT.jpg"
                   alt="Plan des Pistes"
                 />
               </NuxtLink>
