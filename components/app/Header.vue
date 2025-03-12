@@ -80,7 +80,7 @@
                       class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
                     >
-                      <span>Téléchargez le plan du domaine cyclable</span>
+                      <span>Téléchargez le Plan du domaine cyclable</span>
                       <div class="flex items-center">
                         <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
                       </div>
@@ -304,6 +304,7 @@ const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive' },
   { name: 'Évolution du réseau', path: '/evolution' },
   { name: 'Baromètre FUB', path: 'https://www.barometre-velo.fr/', target: '_blank' },
+  { name: 'Plan du domaine cyclable', path: 'https://rouelibre.net/wp-content/uploads/2025/03/2025-03-CartePostaleBAT1web.pdf', target: '_blank' },
   { name: 'Plan officiel', path: '/plan-officiel' },
   { name: 'Méthodologie', path: '/blog/methodo' }
 ];

@@ -61,8 +61,8 @@
                 >
                   Evolution du réseau
                 </NuxtLink>
-                <NuxtLink to="/plan-officiel" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
-                  Plan officiel
+                <NuxtLink to="https://rouelibre.net/wp-content/uploads/2025/03/2025-03-CartePostaleBAT1web.pdf" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
+                  Plan pdf du domaine cyclable
                 </NuxtLink>
               </div>
             </div>
