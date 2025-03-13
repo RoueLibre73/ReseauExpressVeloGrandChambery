@@ -87,3 +87,6 @@ A l’occasion des campagnes pour les élections communautaires de 2026, l'obser
 
 ## Réutilisation du contenu du site
 Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme « Cyclopolis » (avec lien vers <a href="https://cyclopolis.fr" target="_blank">https://cyclopolis.fr</a>) et du nom de l’association contributrice « Roue Libre » (avec lien vers <a href="https://rouelibre.net/" target="_blank">https://rouelibre.net/</a>).
+
+## Contribuer
+Pour contribuer et donner un coup de mail à ce travail de suivi, contactez nous via  [ce formulaire](https://framaforms.org/observatoire-pistes-bleues-roue-libre-1738778551)
