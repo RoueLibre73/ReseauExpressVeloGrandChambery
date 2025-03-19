@@ -11,12 +11,11 @@ cover: https://rouelibre.net/wp-content/uploads/2025/01/REV0-parc-apprentissage.
 ---
 
 ## Présentation
-<span style="color:green;font-weight:bold">Satisfaisant</span> Ouvert en 2023, ce  parc d’apprentissage vélo est situé sur un terrain municipal au coeur de la résidence du Paradis, à proximité du jardin partagé du Paradis. Elle est accessible par la :line-link{line=1} et la :line-link{line=2}.
+<span style="color:green;font-weight:bold">Satisfaisant</span> Inauguré le 22 septembre 2023, ce  parc d’apprentissage vélo est situé sur un terrain municipal au coeur de la résidence du Paradis, à proximité du jardin partagé du Paradis. Elle est accessible par la :line-link{line=1} et la :line-link{line=2}.
 
 Ce parc a été créé par la ville de Chambéry sur une proposition d’un habitant votée dans le cadre du  <a href="https://www.vosprojetspourlasavoie.fr/dialog/vos-projets-pour-la-savoie/proposal/creation-dun-parc-dapprentissage-du-velo-a-chambery" target="_blank">budget citoyen de la Savoie #1 (2021)</a>
 
 Il est accessible en accès libre, pour toutes et tous, tous les jours de toute l’année.
 
-## Fil d'actu
+Présentation complète sur <a href="https://bulletintransition73.fr/decouvrez-le-parc-dapprentissage-velo-de-chambery/" target="_blank">le site du bulletin de la transition</a>
 
-### 22 septembre 2023. Inauguration du Parc d'apprentissage vélo
