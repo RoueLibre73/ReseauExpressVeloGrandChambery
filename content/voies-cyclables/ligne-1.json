@@ -90,7 +90,7 @@
         "line": "1",
         "name": "Avenue des Chevaliers Tireurs",
         "quality": "good",
-        "doneAt": "29\/01\/2012",
+        "doneAt": "01\/01\/2006",
         "status": "done",
         "type": "bilaterale",
         "link": "/rev-1#avenue-des-chevaliers-tireurs"
@@ -110,7 +110,7 @@
         "line": "1",
         "name": "Voie Verte Belle Via",
         "quality": "good",
-        "doneAt": "31\/12\/1997",
+        "doneAt": "01\/01\/1990",
         "status": "done",
         "type": "voie-verte",
         "link": "/rev-1#voie-verte-nord"
@@ -172,7 +172,7 @@
         "line": "1",
         "name": "Voie Verte Belle Via",
         "quality": "good",
-        "doneAt": "31\/12\/1997",
+        "doneAt": "01\/01\/1998",
         "status": "done",
         "type": "voie-verte",
         "link": "/rev-1#voie-verte-nord"
