@@ -63,7 +63,7 @@ credit: Roue Libre
 ::
 
 ### Avenue du Comte Vert Nord
-<span style="color:red;font-weight:bold">A améliorer</span> Trottoir partagé en voie verte dans le sens Sud Nord et bande cyclable dans le sens Nord -Sud. Giratoire sécurisé pour les cyclistes créé en 2019.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Trottoir partagé en voie verte dans le sens Sud Nord et bande cyclable le long de la voie de bus dans le sens Nord-Sud. Giratoire sécurisé pour les cyclistes créé en 2019.
 
 ::content-image
 ---
