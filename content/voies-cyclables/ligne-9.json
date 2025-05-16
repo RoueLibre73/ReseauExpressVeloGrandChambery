@@ -139,7 +139,7 @@
         "quality": "offtrail",
         "status": "variante-postponed",
         "type": "aucun",
-        "link": "/rev-9#avenue-jean-jaures"
+        "link": "/rev-9#avenue-du-comte-vert"
       },
       "geometry": {
         "type": "LineString",
@@ -157,7 +157,7 @@
         "doneAt": "01\/06\/2019",
         "status": "done",
         "type": "bilaterale",
-        "link": "/rev-9#avenue-du-comte-vert"
+        "link": "/rev-9#avenue-du-comte-vert-nord"
       },
       "geometry":{
       "type": "LineString",

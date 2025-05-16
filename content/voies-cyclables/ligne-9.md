@@ -51,6 +51,18 @@ credit: Roue Libre
 ::
 
 ### Avenue du Comte Vert
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Variante plus directe que la Rue du Bon Pasteur et l'avenue Jean Jaurès pour rejoindre le Rond Point du Stade. Avenue sans aménagement cyclable.
+Une étude a été lancé en 2025 pour aménager ce tronçon pour les cycles
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/05/REV9-comteVert.jpg
+caption: Variante Avenue du Comte Vert (avant Odyssea 2023)
+credit: Roue Libre
+---
+::
+
+### Avenue du Comte Vert Nord
 <span style="color:blue;font-weight:bold">Satisfaisant</span> Trottoir partagé en voie verte dans le sens Sud Nord et bande cyclable dans le sens Nord -Sud. Giratoire sécurisé pour les cyclistes créé en 2019.
 
 ::content-image
