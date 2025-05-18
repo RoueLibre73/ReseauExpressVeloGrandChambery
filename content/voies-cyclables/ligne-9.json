@@ -113,12 +113,12 @@
       "type": "Feature",
       "properties": {
         "line": "9",
-        "name": "Avenue Jean Jaures",
+        "name": "Avenue Jean Jaurès",
         "doneAt": "01\/01\/1979",
         "quality": "fair",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/rev-9#avenue-jean-jaures"
+        "link": "/rev-9#avenue-jean-jaurès"
       },
       "geometry": {
         "type": "LineString",
