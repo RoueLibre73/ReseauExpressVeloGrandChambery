@@ -228,7 +228,7 @@
           "line": "4",
           "name": "Variante RD1006 Nord",
           "quality": "offtrail",
-          "status": "variante-postponed",
+          "status": "planned",
           "text": "étude en cours variante Piste 4",
           "type": "bandes-cyclables",
           "link": "/rev-4#variante-rd1006-nord"
@@ -264,7 +264,7 @@
           "line": "4",
           "name": "Variante RD1006 Sud",
           "quality": "offtrail",
-          "status": "variante-postponed",
+          "status": "postponed",
           "text": "variante Piste 4",
           "type": "aucun",
           "link": "/rev-4#variante-rd1006-sud"
