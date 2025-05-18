@@ -117,7 +117,7 @@ credit: Roue Libre
 ---
 ::
 
-### Residence Sainte Anne
+### Résidence Sainte Anne
 <span style="color:red;font-weight:bold">A améliorer</span> Ancienne voie verte sinueuse et avec de nombreuses traversées routières non sécurisées
 
 ::content-image
@@ -128,7 +128,7 @@ credit: Roue Libre
 ---
 ::
 
-### Chemin du Pre Marquis
+### Chemin du Pré Marquis
 <span style="color:blue;font-weight:bold">Satisfaisant</span> Voie cyclo pietonne à faible circulation qui rejoint la :line-link{line=1} au niveau de la passerelle du Pré Marquis.
 
 ::content-image

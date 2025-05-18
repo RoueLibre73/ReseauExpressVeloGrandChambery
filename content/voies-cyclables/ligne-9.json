@@ -78,7 +78,7 @@
     "doneAt": "01\/04\/2019",
     "status": "done",
     "type": "bilaterale",
-    "link": "/rev-9#avenue-du-marechal-leclerc"
+    "link": "/rev-9#avenue-du-maréchal-leclerc"
   },
   "geometry": {
     "type": "LineString",
@@ -175,7 +175,7 @@
         "doneAt": "01\/01\/1979",
         "status": "done",
         "type": "bilaterale",
-        "link": "/rev-9#avenue-du-general-cartier"
+        "link": "/rev-9#avenue-du-général-cartier"
       },
       "geometry":{
       "type": "LineString",
@@ -272,7 +272,7 @@
         "doneAt": "01\/01\/2005",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/rev-9#residence-sainte-anne"
+        "link": "/rev-9#résidence-sainte-anne"
       },
       "geometry":{
       "type": "LineString",
@@ -290,7 +290,7 @@
         "doneAt": "01\/01\/2012",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/rev-9#chemin-du-pre-marquis"
+        "link": "/rev-9#chemin-du-pré-marquis"
       },
       "geometry":{
       "type": "LineString",
