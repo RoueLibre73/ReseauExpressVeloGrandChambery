@@ -23,7 +23,7 @@
       :style="`width: ${stats.planned.percent}%`"
     >
      <span v-if="stats.planned.percent > 5">{{ displayPercent(stats.planned.percent) }}</span>
-    /div>
+    />
     <div
       v-if="stats.postponed.distance"
       class="bg-lvv-pink text-xs font-medium text-white text-center p-1 leading-none ml-auto"
