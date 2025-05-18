@@ -1,4 +1,7 @@
 {
   // https://v3.nuxtjs.org/concepts/typescript
-  "extends": "./.nuxt/tsconfig.json"
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+  "lib": ["es2020", "dom"]  // <- pour supprimer erreur includes dans useStats?.ts
+  }
 }
