@@ -320,7 +320,7 @@
         "status": "done",
         "doneAt": "01/01/2007",
         "type": "voie-verte",
-        "link": "/rev-4#voie-verte-des-planeurs-de-barby-à-challes-les-eaux"
+        "link": "/rev-4#voie-verte-des-planeurs"
       },
       "geometry": {
         "type": "LineString",
