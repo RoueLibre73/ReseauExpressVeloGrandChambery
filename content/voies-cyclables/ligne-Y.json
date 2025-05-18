@@ -10,7 +10,7 @@
         "quality": "offtrail",
         "status": "postponed",
         "type": "aucun",
-        "link": "/rev-Y#Boulevard-de-Bellevue"
+        "link": "/rev-Y#boulevard-de-Bellevue"
     },
     "geometry": {
       "type": "LineString",
