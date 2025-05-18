@@ -30,8 +30,6 @@ credit: Roue Libre
 ### Rue de la République Sud
 <span style="color:black;font-weight:bold">Non satisfaisant</span> Aucun aménagement Rue de la République Sud (Manège).
 
-Devant la médiathèque, elle pourrait un jour croiser la nouvelle :line-link{line=Y} proposée par Roue Libre pour rejoindre Mérande, Bassens et Barby.
-
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_0163.jpg
@@ -39,6 +37,12 @@ caption: Avenue de la République
 credit: Roue Libre
 ---
 ::
+
+### Rue de la République Nord
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Voie de Bus partagée, fermée à la circulation automobile depuis 2016. 
+
+Devant la médiathèque, elle pourrait un jour croiser la nouvelle :line-link{line=Y} proposée par Roue Libre pour rejoindre Mérande, Bassens et Barby.
+
 
 ### Place Monge Place Caffe
 <span style="color:red;font-weight:bold">A améliorer</span>
