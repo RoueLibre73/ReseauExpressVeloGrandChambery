@@ -95,7 +95,7 @@
       "doneAt": "31\/04\/2023",
       "status": "done",
       "type": "bidirectionnelle",
-      "link": "/rev-7#qaui-borrel"
+      "link": "/rev-7#quai-borrel"
     },
     "geometry": {
       "type": "LineString",
@@ -170,7 +170,7 @@
           "doneAt": "01\/01\/1980",
           "status": "done",
           "type": "voie-verte",
-          "link": "/rev-7#avenue-verte-sud"
+          "link": "/rev-7#avenue-verte-sud-chambery"
         },
         "geometry":{
         "type": "LineString",

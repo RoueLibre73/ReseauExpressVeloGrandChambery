@@ -67,7 +67,7 @@ credit: Roue Libre
 ---
 ::
 
-### Avenue Verte Sud
+### Avenue Verte Sud Chambery
 *tronçon de la Belle Via*
 
 <span style="color:red;font-weight:bold">À améliorer</span> Ce tronçon, entre le giratoire Paul Chevalier et le Parc de Buisson Rond est bosselée avec des candélabres situés au centre de celle-ci.
