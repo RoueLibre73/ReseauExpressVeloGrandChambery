@@ -86,7 +86,7 @@
         "doneAt": "01\/06\/2016",
         "status": "done",
         "type": "voie-bus",
-        "link": "/rev-8#rue-de-la-republique-nord"
+        "link": "/rev-8#rue-de-la-république-nord"
       },
       "geometry": {
         "type": "LineString",
