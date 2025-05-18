@@ -33,15 +33,20 @@ function getAllLinks() {
 
   fs.readdirSync('content/voies-cyclables').forEach(file => {
     if (file.endsWith('.md')) {
-      var lineId = file.match(/line: .*/g)[0].slice(start=6);
-
-      if(lineId[0] == "\"") {
-        lineId = lineId.slice(start=1, end=-1)
-      }
-
-
       const filePath = path.join('content/voies-cyclables', file);
       const markdownContent = fs.readFileSync(filePath, 'utf8');
+
+      // 🛡️ Sécurité : vérifier la présence du champ "line: ..."
+      const lineMatch = markdownContent.match(/line: .*/g);
+      if (!lineMatch || lineMatch.length === 0) {
+        console.warn(`⚠️ Aucun identifiant "line" trouvé dans le fichier : ${filePath}`);
+        return; // skip ce fichier
+      }
+
+      let lineId = lineMatch[0].slice(6).trim(); // Supprime "line: " (6 caractères)
+      if (lineId.startsWith('"') && lineId.endsWith('"')) {
+        lineId = lineId.slice(1, -1); // Enlève les guillemets autour
+      }
 
       let match;
       while ((match = titleRegex.exec(markdownContent)) !== null) {
@@ -49,7 +54,7 @@ function getAllLinks() {
         const title = match[2];
         // Remove HTML tags if any
         const cleanTitle = title
-          .replace(/<\/?[^>]+(>|$)/g, '')
+          .replace(/<\/?[^>]+(>|$)/g, '')   // Enlève les balises HTML
           .replace(/\//g, '')
           .replace(/[(),*']/g, '');
 
@@ -59,6 +64,7 @@ function getAllLinks() {
           .toLowerCase()
           .replace(/\s+-\s+/g, '-')
           .replace(/\s+/g, '-');
+
         links.push(`/${config.slug}-${lineId}#${link}`);
       }
     }
