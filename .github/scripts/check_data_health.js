@@ -159,9 +159,11 @@ function checkGeoJsonDataHealth({ links }) {
                   process.exit(1);
                 }
               }
-              if (properties.type !== 'perspective') {
-                console.error(`Invalid type '${properties.type}' in Point properties of file: ${filePath}`);
-                process.exit(1);
+              const validPointTypes = ['perspective', 'danger', 'info', 'alerte']; // ajoute d'autres types ici si nécessaire
+
+              if (!validPointTypes.includes(properties.type)) {
+              console.error(`Invalid type '${properties.type}' in Point properties of file: ${filePath}`);
+               process.exit(1);
               }
             }
           }
