@@ -19,7 +19,7 @@
     />
     <div
       v-if="stats.wip.distance"
-      class="bg-lvv-blue-200 text-xs font-medium text-white text-center p-1 leading-none"
+      class="bg-lvv-blue-300 text-xs font-medium text-white text-center p-1 leading-none"
       :style="`width: ${stats.planned.percent}%`"
     />
     <div
