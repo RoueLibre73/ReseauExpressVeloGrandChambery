@@ -10,7 +10,13 @@
         </div>
         <div class="bg-velocite-yellow-5" />
         <div class="flex items-center">
-          <div class="grow-1 h-1 sm:h-2 mr-4 bg-velocite-yellow-5 rounded-full" :style="`width: ${ stat.percent }%`" />
+          <div
+  class="grow-1 h-1 sm:h-2 mr-4 rounded-full"
+  :style="{
+    width: `${stat.percent}%`,
+    backgroundColor: typologyColors[stat.name] || '#ddd'
+  }"
+/>
           <div class="shrink-0 text-sm sm:text-base font-semibold">
             {{ stat.percent }}%
           </div>
@@ -21,6 +27,20 @@
 </template>
 
 <script setup>
+const typologyColors = {
+  'Piste bidirectionnelle': '#1f77b4',
+  'Piste bilatérale': '#ff7f0e',
+  'Voie bus': '#2ca02c',
+  'Voie bus élargie': '#d62728',
+  'Vélorue': '#9467bd',
+  'Voie verte': '#8c564b',
+  'Bandes cyclables': '#e377c2',
+  'Zone de rencontre': '#7f7f7f',
+  'Chaucidou': '#bcbd22',
+  'Hétérogène': '#17becf',
+  'Aucun aménagement': '#cccccc',
+  'Inconnu': '#999999',
+};
 const { getStatsByTypology } = useStats();
 
 const { voies } = defineProps({
