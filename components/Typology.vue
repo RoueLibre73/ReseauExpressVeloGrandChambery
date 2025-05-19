@@ -28,18 +28,18 @@
 
 <script setup>
 const typologyColors = {
-  'Piste bidirectionnelle': '#1f77b4',
-  'Piste bilatérale': '#ff7f0e',
-  'Voie bus': '#2ca02c',
-  'Voie bus élargie': '#d62728',
-  'Vélorue': '#9467bd',
-  'Voie verte': '#8c564b',
-  'Bandes cyclables': '#e377c2',
-  'Zone de rencontre': '#7f7f7f',
-  'Chaucidou': '#bcbd22',
-  'Hétérogène': '#17becf',
-  'Aucun aménagement': '#cccccc',
-  'Inconnu': '#999999',
+  'Piste bidirectionnelle': ' #429ada',
+  'Piste bilatérale': ' #429ada',
+  'Voie bus': ' #e81916',
+  'Voie bus élargie': ' #429ada',
+  'Vélorue': ' #429ada',
+  'Voie verte': ' #429ada',
+  'Bandes cyclables': ' #e81916',
+  'Zone de rencontre': ' #429ada',
+  'Chaucidou': ' #e81916',
+  'Hétérogène': ' #e81916',
+  'Aucun aménagement': ' #0e0d0d',
+  'Inconnu': ' #999999',
 };
 const { getStatsByTypology } = useStats();
 
