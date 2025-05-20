@@ -1068,46 +1068,6 @@ function drawHoveredEffect(map: Map) {
   });
 }
 
-function drawLineNames(map: Map) {
-
-    let farZoom = 12
-    let middleZoom = 13
-    let closeZoom = 14
-
-    // ------------------------------------------------------------------------
-    // Nom des lignes
-    map.addLayer({
-        id: `layer-current-network-src-sections-names`,
-        type: 'symbol',
-        source: `src-sections`,
-        paint: {
-            'text-color': "#47034d",
-            'text-halo-color': "#FFF",
-            'text-halo-width': 3.5,
-            'text-opacity': [
-                'interpolate',
-                ['linear'],
-                ['zoom'],
-                farZoom, 0.0,
-                middleZoom, 0.50,
-                closeZoom, 0.75
-                ],
-        },
-        layout: {
-        'symbol-placement': 'line',
-        'text-field': sectionNames,
-        'text-font': ['Open Sans Bold'],
-        'text-size': 15
-        }
-    });
-    layersForCurrentNetwork.push("layer-current-network-src-sections-names")
-    layersForQualityNetwork.push("layer-current-network-src-sections-names")
-    layersForTypeFamilyNetwork.push("layer-current-network-src-sections-names")
-    layersForTypeNetwork.push("layer-current-network-src-sections-names")
-    layersForFinishedNetwork.push("layer-current-network-src-sections-names")
-}
-
-
 function drawSectionContour(map: Map) {
   map.addLayer({
     id: 'contour',
