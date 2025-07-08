@@ -107,7 +107,7 @@ credit: Roue Libre
 
 ### 8 juillet 2025. Inauguration par Grand Chambéry de la RD1006 et du carrefour de La Trousse
 
-[Lire le communiqué de de presse Roue Libre "Inauguration de la RD1006 et du carrefour de La Trousse : un aménagement du passé"](https://rouelibre.net/2025/07/08/communique-grand-chambery-inauguration-de-la-rd1006-et-du-carrefour-de-la-trousse-un-amenagement-du-passe/)
+[Lire le communiqué de de presse Roue Libre "Inauguration de la RD1006 et du carrefour de La Trousse : un aménagement du passé"](https://rouelibre.net/2025/07/08/communique-grand-chambery-inauguration-de-la-rd1006-et-du-carrefour-de-la-trousse-un-amenagement-du-passe/){:target="_blank"}
 
 ### 17 septembre 2024. Inauguration par Grand Chambéry du nouveau pont de la Trousse
 
