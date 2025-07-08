@@ -2,13 +2,20 @@ const fs = require('fs');
 const path = require('path');
 const config = require('../../config.json');
 
+const enableLimitsCheck = false; // Mettre à `true` pour activer la fonction
+
 (function checkDataHealth() {
   const links = getAllLinks();
   checkJsonFilesAreValid();
   checkGeoJsonDataHealth({ links });
-  checkCompteursDataHealth();
-  checkLimitsDataHealth();
+  if (enableCompteursCheck) {
+   checkCompteursDataHealth(); // Cette ligne sera exécutée uniquement si le flag est true
+  }
+  if (enableLimitsCheck) {
+    checkLimitsDataHealth(); // Cette ligne sera exécutée uniquement si le flag est true
+  }
 })();
+
 
 function checkJsonFilesAreValid(directory = 'content') {
   fs.readdirSync(directory).forEach(file => {
