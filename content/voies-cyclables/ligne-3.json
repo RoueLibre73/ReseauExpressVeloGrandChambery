@@ -86,7 +86,7 @@
         "type": "Feature",
         "properties": {
           "line": "3",
-          "name": "Faubourg Reclus",
+          "name": "Bas du Faubourg Reclus",
           "quality": "bad",
           "status": "planned",
           "type": "aucun",
@@ -103,7 +103,7 @@
         "type": "Feature",
         "properties": {
           "line": "3",
-          "name": "Faubourg Reclus",
+          "name": "Haut du Faubourg Reclus",
           "quality": "bad",
           "status": "planned",
           "type": "aucun",
