@@ -226,7 +226,7 @@
         "type": "Feature",
         "properties": {
           "line": "4",
-          "name": "Variante RD1006 Nord",
+          "name": "Variante RD1006 Barby",
           "quality": "offtrail",
           "status": "planned",
           "text": "étude en cours variante Piste 4",
@@ -244,7 +244,7 @@
         "type": "Feature",
         "properties": {
           "line": "4",
-          "name": "Variante RD1006 Sud",
+          "name": "Variante RD1006 La Ravoire",
           "quality": "offtrail",
           "status": "postponed",
           "text": "variante Piste 4",
@@ -262,7 +262,7 @@
         "type": "Feature",
         "properties": {
           "line": "4",
-          "name": "Variante RD1006 Sud",
+          "name": "Variante RD1006 Challes les Eaux",
           "quality": "offtrail",
           "status": "postponed",
           "text": "variante Piste 4",
