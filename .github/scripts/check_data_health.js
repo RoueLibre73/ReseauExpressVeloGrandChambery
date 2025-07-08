@@ -204,7 +204,15 @@ function checkGeoJsonDataHealth({ links }) {
   }
 }
 
+// === Script désactivé : non utilisé actuellement ===
+// La fonction ci-dessous était utilisée pour vérifier la validité des fichiers JSON dans le dossier 'content/compteurs'.
+// Elle est désormais désactivée mais conservée à titre de référence.
+
+/*
 function checkCompteursDataHealth() {
+  const fs = require('fs');
+  const path = require('path');
+
   fs.readdirSync('content/compteurs').forEach(file => {
     if (file.endsWith('.json')) {
       const filePath = path.join('content/compteurs', file);
@@ -221,6 +229,7 @@ function checkCompteursDataHealth() {
     }
   });
 }
+*/
 
 function checkLimitsDataHealth() {
 
