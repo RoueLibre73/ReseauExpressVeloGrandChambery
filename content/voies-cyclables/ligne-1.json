@@ -108,7 +108,7 @@
       "type": "Feature",
       "properties": {
         "line": "1",
-        "name": "Voie Verte Belle Via",
+        "name": "Voie Verte Belle Via Nord",
         "quality": "good",
         "doneAt": "01\/01\/1990",
         "status": "done",
@@ -170,7 +170,7 @@
       "type": "Feature",
       "properties": {
         "line": "1",
-        "name": "Voie Verte Belle Via",
+        "name": "Voie Verte Belle Via Le Bourget",
         "quality": "good",
         "doneAt": "01\/01\/1998",
         "status": "done",
