@@ -231,24 +231,24 @@ function checkCompteursDataHealth() {
 }
 */
 
-function checkLimitsDataHealth() {
+// function checkLimitsDataHealth() {
+//   console.debug("here")
+//   fs.readdirSync('content/limits').forEach(file => {
+//     if (file.endsWith('.json')) {
+//       const filePath = path.join('content/limits', file);
+//       const content = fs.readFileSync(filePath, 'utf8');
+//
+//       console.debug(filePath)
+//
+//       const compteur = JSON.parse(content);
+//       const requiredKeys = [];
+//       for (const key of requiredKeys) {
+//         if (!compteur.hasOwnProperty(key)) {
+//           console.error(`Missing key '${key}' in Limits properties of file: ${filePath}`);
+//           process.exit(1);
+//         }
+//       }
+//     }
+//   });
+// }
 
-  console.debug("here")
-  fs.readdirSync('content/limits').forEach(file => {
-    if (file.endsWith('.json')) {
-      const filePath = path.join('content/limits', file);
-      const content = fs.readFileSync(filePath, 'utf8');
-
-      console.debug(filePath)
-
-      const compteur = JSON.parse(content);
-      const requiredKeys = [];
-      for (const key of requiredKeys) {
-        if (!compteur.hasOwnProperty(key)) {
-          console.error(`Missing key '${key}' in Limits properties of file: ${filePath}`);
-          process.exit(1);
-        }
-      }
-    }
-  });
-}
