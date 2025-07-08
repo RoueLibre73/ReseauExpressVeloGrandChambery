@@ -2,7 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const config = require('../../config.json');
 
-const enableLimitsCheck = false; // Mettre à `true` pour activer la fonction
+const enableCompteursCheck = false; // Mets à true pour activer `checkCompteursDataHealth`
+const enableLimitsCheck = false; // Mets à true pour activer `checkLimitsDataHealth`
 
 (function checkDataHealth() {
   const links = getAllLinks();
