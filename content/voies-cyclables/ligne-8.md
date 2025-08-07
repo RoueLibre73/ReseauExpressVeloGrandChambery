@@ -45,11 +45,10 @@ Devant la médiathèque, elle pourrait un jour croiser la nouvelle :line-link{li
 
 
 ### Place Monge Place Caffe
-<span style="color:red;font-weight:bold">A améliorer</span>
+<span style="color:blue;font-weight:bold">Satisfaisant</span>
 
 ::banner{type="wip"}
-Piste cyclable bidirectionnelle provisoire créée en 2021.
-En attente de la pérennisation et de la mise en place de continuités cyclables aux entrées et sorties
+Piste cyclable bidirectionnelle provisoire créée en 2021 et pérennisation à l'été 2025
 ::
 
 ::content-image

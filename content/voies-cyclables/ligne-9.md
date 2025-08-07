@@ -52,12 +52,14 @@ credit: Roue Libre
 
 ### Avenue du Comte Vert
 <span style="color:black;font-weight:bold">Non satisfaisant</span> Variante plus directe que la Rue du Bon Pasteur et l'avenue Jean Jaurès pour rejoindre le Rond Point du Stade. Avenue sans aménagement cyclable.
-Une étude a été lancé en 2025 pour aménager ce tronçon pour les cycles
+Une étude complète a été lancée en 2025 pour requalifier les espaces piétons et cycles et aménager une liaison sécrurisée pour les cycles sur ce tronçon.
+
+Avant le ré-aménagement complet de ce secteur, la ville de Chambéry a mis en place, à l'été 2025, un aménagement cycle provisoire, par  la création d'une piste cyclable bi-directionnelle sur cette avenue.
 
 ::content-image
 ---
-imageUrl: https://rouelibre.net/wp-content/uploads/2025/05/REV9-comteVert.jpg
-caption: Variante Avenue du Comte Vert (avant Odyssea 2023)
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/08/REV9-IMG_94111.jpg
+caption: Réaménagement provisoire de l'avenue du Comte Vert (août 2025)
 credit: Roue Libre
 ---
 ::

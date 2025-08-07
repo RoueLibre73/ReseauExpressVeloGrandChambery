@@ -101,9 +101,9 @@
       "properties": {
         "line": "8",
         "name": "Place Caffe - place Monge",
-        "quality": "fair",
-        "doneAt": "10\/11\/2021",
-        "status": "wip",
+        "quality": "good",
+        "doneAt": "31\/08\/2025",
+        "status": "done",
         "type": "bidirectionnelle",
         "link": "/rev-8#place-monge-place-caffe"
       },

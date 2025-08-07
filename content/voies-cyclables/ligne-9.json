@@ -137,8 +137,8 @@
         "line": "9",
         "name": "Avenue du Compte Vert Sud",
         "quality": "offtrail",
-        "status": "planned",
-        "type": "aucun",
+        "status": "wip",
+        "type": "bidirectionnelle",
         "link": "/rev-9#avenue-du-comte-vert"
       },
       "geometry": {
