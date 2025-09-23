@@ -94,7 +94,6 @@
     "name": "Rue du Bon Pasteur",
     "quality": "good",
     "doneAt": "01\/01\/1979",
-    
     "status": "done",
     "type": "bidirectionnelle",
     "link": "/rev-9#rue-du-bon-pasteur"
@@ -136,7 +135,8 @@
       "properties": {
         "line": "9",
         "name": "Avenue du Compte Vert Sud",
-        "quality": "fair",
+        "quality": "good",
+        "doneAt": "15\/09\/2025",
         "status": "wip",
         "type": "bidirectionnelle",
         "link": "/rev-9#avenue-du-comte-vert"
