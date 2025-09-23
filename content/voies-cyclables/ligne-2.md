@@ -63,9 +63,8 @@ credit: Roue Libre
 
 ### Avenue des Landiers
 
-<span style="color:red;font-weight:bold">A améliorer</span> La voie verte est continue du passage à niveau au carrefour du Nant Bruyant.
-Les traversées des carrefours et des sorties de commerces sont matérialisées par un simple marquage au sol. Des véhicules sont régulièrement stationnés sur la piste et apportent de la boue sur certaines portions.
-Une bande cyclable est également présente sur la chaussée dans le sens Sud-Nord.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> La voie verte est continue du passage à niveau au carrefour du Nant Bruyant. Une bande cyclable est également présente sur la chaussée dans le sens Sud-Nord.
+
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4019.jpg
@@ -74,7 +73,13 @@ credit: Roue Libre
 ---
 ::
 
-Le passage non sécurisé à contresens du rond point Landiers Sud (Carrefour, Boulanger...) est un point noir pour les cyclistes.
+::banner{type="wip"}
+Les traversées des carrefours et des sorties de commerces sont matérialisées par un simple marquage au sol. Des véhicules sont régulièrement stationnés sur la piste et apportent de la boue sur certaines portions.
+
+Et le passage non sécurisé à contresens du rond point Landiers Sud (Carrefour, Boulanger...) reste un point noir pour les cyclistes.
+::
+
+
 
 ::content-image
 ---
