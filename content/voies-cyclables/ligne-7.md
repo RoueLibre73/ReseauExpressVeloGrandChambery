@@ -25,10 +25,10 @@ credit: Roue Libre
 ::
 
 ::banner{type="modified"}
-En 2023, [l'aménagement d'une piste bidirectionnelle -largeur 3,5m- sur l'avenue des Ducs (https://www.chambery.fr/3672-amenagement-de-l-avenue-des-ducs-des-quais-ravet-et-borrel.htm)] a permis la jonction entre la Voie Verte Nord et la Voie Verte de la Leysse.
+En 2023, [l'aménagement d'une piste bidirectionnelle -largeur 3,5m- sur l'avenue des Ducs] (https://www.chambery.fr/3672-amenagement-de-l-avenue-des-ducs-des-quais-ravet-et-borrel.htm) a permis la jonction entre la Voie Verte Nord et la Voie Verte de la Leysse.
 ::
 
-::banner{type="wip"}
+::banner{type="unsecured"}
 Lors de cet aménagement, les carrefours n'ont pas été modifiés et les connexions avec le réseau secondaire n'ont pas été traitées.
 ::
 
@@ -116,4 +116,4 @@ credit: Roue Libre
 
 ### Avenue Verte Sud
 
-<span style="color:red;font-weight:bold">A améliorer</span> A la fin actuelle de la voie verte aménagée, la piste se poursuit jusqu'au Lac Saint André, sur la communauté de communes Coeur de Savoie sans aménagement cyclable.
+<span style="color:black;font-weight:bold">Non satisfaisant/span> A la fin actuelle de la voie verte aménagée, la piste se poursuit jusqu'au Lac Saint André, sur la communauté de communes Coeur de Savoie sans aménagement cyclable.
