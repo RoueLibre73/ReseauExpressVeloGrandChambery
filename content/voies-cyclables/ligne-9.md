@@ -23,9 +23,8 @@ credit: Roue Libre
 ---
 ::
 
-
 ::banner{type="unsecured"}
-Traversée du carrefour Comte Vert à améliorer dans les deux sens
+Traversée du carrefour Comte Vert peu lisible pour les cyclistes
 ::
 
 ::content-image
@@ -76,7 +75,11 @@ credit: Roue Libre
 ::
 
 ### Avenue du Général Cartier
-<span style="color:blue;font-weight:bold">Satisfaisant</span> Une piste unidirectionnelle dans chaque sens de circulation, la piste Sud-Nord mériterait d'être élargie pour permettre les dépassements
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Une piste unidirectionnelle dans chaque sens de circulation.
+
+::banner{type="info"}
+Largeur de la piste insuffisante dans le sens Sud Nord pour permettre les dépassements entre cyclistes au différenciel de vitesse importante 
+::
 
 ::content-image
 ---
