@@ -73,7 +73,7 @@ credit: Roue Libre
 ---
 ::
 
-::banner{type="wip"}
+::banner{type="unsecured"}
 Les traversées des carrefours et des sorties de commerces sont matérialisées par un simple marquage au sol. Des véhicules sont régulièrement stationnés sur la piste et apportent de la boue sur certaines portions.
 
 Et le passage non sécurisé à contresens du rond point Landiers Sud (Carrefour, Boulanger...) reste un point noir pour les cyclistes.
