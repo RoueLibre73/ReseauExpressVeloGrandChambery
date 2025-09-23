@@ -6,7 +6,6 @@ lineNameShort: O
 from:
 to: Chambéry
 description: La Piste Verte 0 est une piste d'apprentissage vélo sécurisée, située au coeur de la résidence du paradis à côté de la gare de Chambéry.
-trafic: non estimé
 cover: https://rouelibre.net/wp-content/uploads/2025/01/REV0-parc-apprentissage.jpg
 ---
 
