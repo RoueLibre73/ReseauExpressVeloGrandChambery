@@ -85,7 +85,7 @@
         "quality": "good",
         "doneAt": "01\/06\/2016",
         "status": "done",
-        "type": "voie-bus",
+        "type": "voie-bus-élargie",
         "link": "/rev-8#rue-de-la-république-nord"
       },
       "geometry": {
