@@ -73,7 +73,7 @@
         "quality": "good",
         "doneAt": "01\/12\/2024",
         "status": "done",
-        "type": "voie-bus",
+        "type": "voie-bus-elargie",
         "link": "/rev-2#place-de-la-gare"
       },
       "geometry": {
