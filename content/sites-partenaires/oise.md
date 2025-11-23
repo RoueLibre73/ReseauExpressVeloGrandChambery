@@ -1,5 +1,5 @@
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/partenaires/Cyclopolis_Montpellier_small.png
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/11/velooise.jpg
 title: Plateforme de suivi de l'avancement des Schémas cyclables de l'Oise
 description: Une initiative de l'association VeloOise pour suivre le développement du réseau vélo départemental. 
 city: Oise
