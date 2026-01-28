@@ -70,12 +70,12 @@ credit: Roue Libre
 ### Avenue Verte Sud Chambery
 *tronçon de la Belle Via*
 
-<span style="color:blue;font-weight:bold">Satisfaisant</span> Ce tronçon, entre le giratoire Paul Chevalier et le Parc de Buisson Rond, a été refait en décembre 2025 et évite désormais la portion bosselée et les candélabres.
+<span style="color:red;font-weight:bold">À améliorer</span> Ce tronçon, entre le giratoire Paul Chevalier et le Parc de Buisson Rond est bosselée avec des candélabres situés au centre de celle-ci.
 
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4201.jpg
-caption: Avenue Verte Sud - Avant travaux
+caption: Avenue Verte Sud
 ---
 ::
 
