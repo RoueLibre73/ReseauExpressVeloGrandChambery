@@ -26,7 +26,7 @@
             >
               <li
                 :class="[
-                  active ? 'bg-lvv-blue-300 text-lvv-blue-400' : 'text-gray-900',
+                  active ? 'bg-lvv-pink-400 text-lvv-blue-400' : 'text-gray-900',
                   'relative cursor-default select-none py-2 pl-10 pr-4',
                 ]"
               >

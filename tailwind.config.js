@@ -11,6 +11,7 @@ module.exports = {
         'lvv-blue-300': ' #aad2ee',
         'lvv-blue-200': ' #d4e8f7',
         'lvv-blue-100': ' #e9f3fb',
+        'lvv-pink-400': ' #DE8EAA',
         'lvv-pink': ' #C84271',
         'lvv-green': ' #83C0B7',
 
