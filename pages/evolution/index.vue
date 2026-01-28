@@ -43,7 +43,7 @@ const years = ref([
   { label: '2003-2008', match: year => year >= 2002 && year < 2009, isChecked: false },
   { label: '2009-2014', match: year => year >= 2009 && year < 2015, isChecked: false },
   { label: '2015-2020', match: year => year >= 2015 && year < 2021, isChecked: false },
-  { label: '2021-2025', match: year => year >= 2021 && year < 2026, isChecked: false }
+  { label: '2021-2026', match: year => year >= 2021 && year < 2026, isChecked: false }
 ]);
 
 const { data: voies } = await useAsyncData(() => {
