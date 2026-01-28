@@ -45,16 +45,12 @@ Devant la médiathèque, elle pourrait un jour croiser la nouvelle :line-link{li
 
 
 ### Place Monge Place Caffe
-<span style="color:blue;font-weight:bold">Satisfaisant</span>
-
-::banner{type="wip"}
-Piste cyclable bidirectionnelle provisoire créée en 2021 et pérennisation à l'été 2025
-::
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Piste cyclable bidirectionnelle provisoire créée en 2021 et pérennisée en 2025.
 
 ::content-image
 ---
-imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV8-IMG_4062.jpg
-caption: Avenue de Lyon
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/01/REV-3-4032-3024-max.jpg
+caption: Place Monge
 credit: Roue Libre
 ---
 ::
