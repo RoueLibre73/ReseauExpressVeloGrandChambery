@@ -293,7 +293,7 @@ const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive' },
   { name: 'Évolution du réseau', path: '/evolution' },
   { name: 'Baromètre FUB', path: 'https://www.barometre-velo.fr/', target: '_blank' },
-  { name: 'Plan du domaine cyclable', path: 'https://rouelibre.net/wp-content/uploads/2025/03/2025-03-CartePostaleBAT1web.pdf', target: '_blank' },
+  { name: 'Plan du domaine cyclable', path: 'https://rouelibre.net/wp-content/uploads/2026/01/Nouveau-plan-domN-cyclableR.jpg', target: '_blank' },
   { name: 'Plan officiel', path: '/plan-officiel' },
   { name: 'Méthodologie', path: '/blog/methodo' }
 ];
