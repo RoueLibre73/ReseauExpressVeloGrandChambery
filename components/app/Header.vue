@@ -75,7 +75,7 @@
                     </NuxtLink>
 
                   <NuxtLink
-                      to="https://rouelibre.net/wp-content/uploads/2025/02/carte-postale-BAT.jpg"
+                      to="https://rouelibre.net/wp-content/uploads/2026/01/Nouveau-plan-domN-cyclableR.jpg"
                       target="_blank"
                       class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
