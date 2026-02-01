@@ -276,17 +276,16 @@ export const useMap = () => {
      'icon-allow-overlap': true,
  
      // 👇 Taille qui s’adapte au zoom
-     'icon-size': [
-       'interpolate',
-       ['linear'],
-       ['zoom'],
-       5, 0.18
-       7, 0.25,   // très petit zoom → très petite icône
-       9, 0.35,
-       13, 0.7,
-       15, 1.1,
-       17, 1.6
-     ]
+      'icon-size': [
+        'interpolate',
+      ['exponential', 1.5],
+      ['zoom'],
+      3, 0.1,
+      7, 0.2,
+      11, 0.4,
+      14, 0.8,
+      17, 1.4
+]
    }
  });
 
