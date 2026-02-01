@@ -267,25 +267,28 @@ export const useMap = () => {
     if (upsertMapSource(map, 'dangers', dangers)) {
       return;
     }
+   map.addLayer({
+   id: 'dangers',
+   type: 'symbol',
+   source: 'dangers',
+   layout: {
+     'icon-image': 'danger-icon',
+     'icon-allow-overlap': true,
+ 
+     // 👇 Taille qui s’adapte au zoom
+     'icon-size': [
+       'interpolate',
+       ['linear'],
+       ['zoom'],
+       6, 0.25,   // très petit zoom → très petite icône
+       10, 0.45,
+       13, 0.7,
+       15, 1.1,
+       17, 1.6
+     ]
+   }
+ });
 
-    map.addLayer({
-      id: 'dangers',
-      source: 'dangers',
-      type: 'symbol',
-      layout: {
-        'icon-image': 'danger-icon',
-        'icon-size': 0.7
-      }
-    });
-    map.setLayoutProperty('perspectives', 'visibility', 'none');
-    map.on('zoom', () => {
-      const zoomLevel = map.getZoom();
-      if (zoomLevel > 14) {
-        map.setLayoutProperty('dangers', 'visibility', 'visible');
-      } else {
-        map.setLayoutProperty('dangers', 'visibility', 'none');
-      }
-    });
   }
 
   function plotPumps({ map, features }: { map: Map; features: Feature[] }) {
