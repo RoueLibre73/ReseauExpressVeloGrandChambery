@@ -5,23 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "danger",
-        "name": "Ecole Jean Jaurès",
-        "danger": "stationnement motorisé sur la piste cyclable",
-        "line": "9",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/01/REV9-IMG_4282.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.913014462883268,
-          45.56982722325415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "danger",
         "name": "Rond Point du stade",
         "danger": "Circulation des cycles sur l'anneau routier",
         "line": "9",
