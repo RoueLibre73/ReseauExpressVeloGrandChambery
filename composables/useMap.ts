@@ -282,10 +282,10 @@ export const useMap = () => {
       ['zoom'],
         3, 0.08,      // monde
         6, 0.1,       // pays
-        8.5, 0.05,    // 🏘️ communal → minuscule
-        10, 0.25,     // commence à apparaître
-        12, 0.5,
-        14, 0.85,
+        8.5, 0.04,    // 🏘️ communal → minuscule
+        10, 0.15,     // commence à apparaître
+        12, 0.4,
+        14, 0.8,
         16, 1.2,
         18, 1.5
 ]
