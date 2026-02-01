@@ -282,12 +282,12 @@ export const useMap = () => {
       ['zoom'],
         3, 0.08,      // monde
         6, 0.1,       // pays
-        8.5, 0.04,    // 🏘️ communal → minuscule
-        10, 0.15,     // commence à apparaître
-        12, 0.4,
-        14, 0.8,
-        16, 1.2,
-        18, 1.5
+        8.5, 0.03,    // 🏘️ communal → minuscule
+        10, 0.1,     // commence à apparaître
+        12, 0.3,
+        14, 0.7,
+        16, 1.1,
+        18, 1.3
 ]
    }
  });
