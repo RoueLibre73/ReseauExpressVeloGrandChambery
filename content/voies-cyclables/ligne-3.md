@@ -104,6 +104,11 @@ credit: Roue Libre
 ---
 ::
 
+## Quelques points noirs de cette ligne
+
+| ![Carrefour de la Sasson](https://rouelibre.net/wp-content/uploads/2025/01/REV3-IMG_8904.jpg) <br> Traversée non sécurisée <br> *Carrefour de la Sasson - Chambéry*| ![Avenue d'Aix les Bains](https://rouelibre.net/wp-content/uploads/2024/11/Piste-3-1r.jpg) <br> Traversée non sécurisée <br> Avenue d'Aix les Bains - Chambéry |
+|---|---|
+
 ## Fil d'actu
 
 ### Lancement d'une étude de faisabilité Hauts de Chambéry via Avenue Aix les Bains par Grand Chambéry

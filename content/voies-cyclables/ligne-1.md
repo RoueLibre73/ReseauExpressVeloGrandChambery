@@ -87,5 +87,5 @@ caption: Magazine Roue libre automne hiver 1995 – 1996
 
 ## Quelques points noirs de cette ligne
 
-| ![Quai des Allobroges - Chambéry](https://rouelibre.net/wp-content/uploads/2024/11/REV.-Quai-Allobroges.jpg) <br> *Traversée cycles non sécurisée* <br> Quai des Allobroges - Chambéry| ![Route dTre l'école du Tremblay - La Motte Servolex](https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_2208.jpg) <br> *Franchissement difficile pour les cycles* <br> Route de l'école du Tremblay - La Motte Servolex |
+| ![Quai des Allobroges - Chambéry](https://rouelibre.net/wp-content/uploads/2024/11/REV.-Quai-Allobroges.jpg) <br> Traversée cycles non sécurisée <br> *Quai des Allobroges - Chambéry*| ![Route de l'école du Tremblay - La Motte Servolex](https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_2208.jpg) <br> Traversée non sécurisée <br> *Route de l'école du Tremblay* - La Motte Servolex |
 |---|---|

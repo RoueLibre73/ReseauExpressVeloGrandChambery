@@ -116,10 +116,10 @@ credit: Roue Libre
 
 ## Quelques points noirs de cette ligne
 
-| ![Rue des Barillettes - Saint Alban Leysse](https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6446.jpg) <br> *Traversée cycles non sécurisée* <br> Rue des Barillettes - Saint Alban Leysse| ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-img01.jpg) <br> *Franchissement difficile pour les cycles* <br> Chemin du Violet - Barby |
+| ![Rue des Barillettes - Saint Alban Leysse](https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6446.jpg) <br> Traversée cycles non sécurisée <br> *Rue des Barillettes - Saint Alban Leysse*| ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-img01.jpg) <br> Franchissement difficile pour les cycles <br> *Chemin du Violet - Barby* |
 |---|---|
 
-| ![Av. Jean Baptiste d'Oncieu de la Bâtie - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6487.jpg) <br> *Angles de giration inadaptés* <br>  Av. Jean Baptiste d'Oncieu de la Bâtie - Barby | ![RD1006 La Ravoire](https://rouelibre.net/wp-content/uploads/2025/07/REV4-IMG_89801.jpg) <br> *Traversée cycles non sécurisée* <br> RD1006 La Ravoire |
+| ![Av. Jean Baptiste d'Oncieu de la Bâtie - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6487.jpg) <br> Angles de giration inadaptés <br>  *Av. Jean Baptiste d'Oncieu de la Bâtie - Barby* | ![RD1006 La Ravoire](https://rouelibre.net/wp-content/uploads/2025/07/REV4-IMG_89801.jpg) <br> Traversée cycles non sécurisée <br> *RD1006 La Ravoire* |
 |---|---|
 
 

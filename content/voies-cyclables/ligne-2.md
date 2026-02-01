@@ -100,5 +100,5 @@ A ce niveau, il est possible de rejoindre la :line-link{line=1} via un aménagem
 | ![Passage à niveau - Chambéry](https://rouelibre.net/wp-content/uploads/2026/02/IMG_4012r.jpg) <br> *Bande cyclable mixte pietons -cycles* <br> Passage à niveau Landiers - Chambéry| ![Leclerc Drive - Chambéry](https://rouelibre.net/wp-content/uploads/2025/02/REV2-IMG_6425.jpg) <br> *Stationnement sauvage et boue sur la piste* <br> Leclerc Drive - Chambéry |
 |---|---|
 
-| ![Giratoire Chamnord - Chambéry](https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4023.jpg) <br> *Anneau cyclable non sécurisé* <br> Giratoire Chamnord - Chambéry| ![Traversée Nant Bruyant - Chambéry](https://rouelibre.net/wp-content/uploads/2025/02/REV2-IMG_4032.jpg) <br> *Traversée non sécurisée* <br> Traversée Nant Bruyant - Chambéry |
+| ![Giratoire Chamnord - Chambéry](https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4023.jpg) <br> Anneau cyclable non sécurisé <br> *Giratoire Chamnord - Chambéry*| ![Traversée Nant Bruyant - Chambéry](https://rouelibre.net/wp-content/uploads/2025/02/REV2-IMG_4032.jpg) <br> Traversée non sécurisée <br> *Traversée Rue du Nant Bruyant - Chambéry* |
 |---|---|
