@@ -35,27 +35,11 @@ credit: Roue Libre
 ---
 ::
 
-### Rue du Bon Pasteur
-<span style="color:blue;font-weight:bold">Satisfaisant</span> Piste bidirectionnelle sur la rue du Bon Pasteur, mais avec régulièrement du stationnement sauvage devant l'école Jean Jaurès.
-
-### Avenue Jean Jaurès
-<span style="color:red;font-weight:bold">A améliorer</span> Piste bidirectionnelle bosselée avec des arbres situés au centre de celle-ci et nombreux piétons et véhicules en stationnement minutes
-
-::content-image
----
-imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/REV9-IMG_4287.jpg
-caption: Avenue Jean Jaurès (Chambéry)
-credit: Roue Libre
----
-::
-
 ### Avenue du Comte Vert
-Variante plus directe que la Rue du Bon Pasteur et l'avenue Jean Jaurès pour rejoindre le Rond Point du Stade.
+Nouvel itinéraire tracé en 2025, plus direct que la rue du Bon Pasteur et l'avenue Jean Jaurès pour rejoindre le Rond Point du Stade.
 
 <span style="color:red;font-weight:bold">A améliorer</span> 
-Avant le ré-aménagement complet de ce secteur, la ville de Chambéry a mis en place, à l'été 2025, un aménagement cycle provisoire expérimental, par  la création d'une piste cyclable bi-directionnelle sur cette avenue.
-
-Une étude complète a été lancée en 2025 pour requalifier les espaces piétons et cycles et aménager une liaison sécrurisée pour les cycles sur ce tronçon.
+Avant le ré-aménagement complet de ce secteur, la ville de Chambéry a mis en place, à l'été 2025, un aménagement cycle expérimental, par la création d'une piste cyclable bi-directionnelle sur cette avenue. Cet aménagement provisoire doit être amélioré et perennisé pour devenir bleu de qualité satisfaisante.
 
 ::content-image
 ---
@@ -64,6 +48,8 @@ caption: Réaménagement provisoire de l'avenue du Comte Vert (septembre 2025)
 credit: Roue Libre
 ---
 ::
+
+Une étude complète a été réalisée en 2025 par Grand Chambéry pour requalifier le secteur étpiole du stade comprenant Avenue du Comte Vert, Avenue Jean Jaurès et Rond point du stade avec la réalisation d'espaces piétons et de liaisons cycles sécurisées.
 
 ### Avenue du Comte Vert Nord
 <span style="color:red;font-weight:bold">A améliorer</span> Trottoir partagé en voie verte dans le sens Sud Nord et bande cyclable le long de la voie de bus dans le sens Nord-Sud. Giratoire sécurisé pour les cyclistes créé en 2019.
