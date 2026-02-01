@@ -35,7 +35,7 @@ Lors de cet aménagement, les carrefours n'ont pas été modifiés et les connex
 
 Elle est aménagé par une piste cyclable bidirectionnelle de 3 à 3,5m de large. Elle croise le départ de la :line-link{line=2} Landiers au niveau du palais de Justice de Chambéry puis celui de la :line-link{line=9} La Motte Servolex au niveau du giratoire de la Poste.
 
-Le compteur le plus fréquenté de l'agglo y a enregistré sur l'année 2025 plus de 890 000 passages (cycles et trotinettes). L'association Roue Libre y célebre chaque année, le jour du dépassement losque 600 000 passages sont comptabilisés (jauge de l'ancien compteur remplacé en 2024)
+Ce compteur, le plus fréquenté de l'agglo, y a enregistré sur l'année 2025 plus de 890 000 passages (cycles et trotinettes). L'association Roue Libre célebre chaque année, le jour du dépassement lorsque 600 000 passages y sont comptabilisés (jauge de l'ancien compteur remplacé par un compteur 1 000 000 en 2024). [Communiqué. 600 000 passages au compteur du Verney le 6 septembre 2025. Nouveau record!](https://rouelibre.net/2025/09/16/600-000-passage-au-compteur-du-verney-le-6-septembre-2025-nouveau-record/)
 
 ::content-image
 ---
@@ -43,7 +43,7 @@ imageUrl: https://rouelibre.net/wp-content/uploads/2025/09/2025-09-Roue-Libre-60
 caption: Roue Libre
 ---
 ::
-[Communiqué. 600 000 passages au compteur du Verney le 6 septembre 2025. Nouveau record!](https://rouelibre.net/2025/09/16/600-000-passage-au-compteur-du-verney-le-6-septembre-2025-nouveau-record/)
+
 
 Il est possible de rejoindre via le giratoire de la Poste le Parc d'apprentissage vélo nommé :line-link{line=O} dans cet observatoire, parc public situé au milieu de la résidence du Paradis. 
 
@@ -93,6 +93,14 @@ credit: Roue Libre
 ---
 ::
 
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/02/2013-02-Photos-0249.jpg
+caption: Voie Verte Belle Via - La Motte Servolex
+credit: Roue Libre
+---
+::
+
 Son dernier tronçon entre Villarcher (commune de La Motte Servolex) et le lac du Bourget a été réalisé suite à la Vélorution organisée par Roue Libre et une vingtaine d’autres organisations le 21 octobre 1995 (1200 participants). 
 
 ::content-image
@@ -103,15 +111,13 @@ caption: Magazine Roue libre automne hiver 1995 – 1996
 ::
 [Vélorution "Au Lac à vélo en 1996" du 21 octobre 1995](https://rouelibre.net/2021/08/04/21-octobre-1995-velorution-au-lac-a-velo-en-96/)
 
-::content-image
----
-imageUrl: https://rouelibre.net/wp-content/uploads/2026/02/2013-02-Photos-0249.jpg
-caption: Voie Verte Belle Via - La Motte Servolex
-credit: Roue Libre
----
-::
-
 ## Quelques points noirs de cette ligne
 
-| ![Quai des Allobroges - Chambéry](https://rouelibre.net/wp-content/uploads/2024/11/REV.-Quai-Allobroges.jpg) <br> Traversée cycles non sécurisée <br> *Quai des Allobroges - Chambéry*| ![Route de l'école du Tremblay - La Motte Servolex](https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_2208.jpg) <br> Traversée non sécurisée <br> *Route de l'école du Tremblay* - La Motte Servolex |
+|  |
+|---|---|
+
+| ![Sasson - Chambéry](https://rouelibre.net/wp-content/uploads/2026/02/IMG_4523r.jpg) <br> Conflits piétons-cycles <br> *Sasson - Chambéry*| ![Quai des Allobroges - Chambéry](https://rouelibre.net/wp-content/uploads/2024/11/REV.-Quai-Allobroges.jpg) <br> Traversée cycles non sécurisée <br> *Quai des Allobroges - Chambéry*|
+|---|---|
+
+| ![Route de l'école du Tremblay - La Motte Servolex](https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_2208.jpg) <br> Traversée non sécurisée <br> *Route de l'école du Tremblay - La Motte Servolex*| ![Super U - La Motte Servolex](https://rouelibre.net/wp-content/uploads/2026/02/IMG_7737r.jpg) <br> Nouvel itinéraire inadapté <br> *Super U - La Motte Servolex* |
 |---|---|

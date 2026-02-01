@@ -6,6 +6,20 @@
       "type": "Feature",
       "properties": {
         "type": "danger",
+        "name": "La Sasson",
+        "danger": "Conflits piétons - cycles",
+        "line": "1",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/02/IMG_4523r.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.921006501102113, 45.56826279806316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
         "name": "Quai des Allobroges",
         "danger": "Traversée non sécurisée",
         "line": "1",
