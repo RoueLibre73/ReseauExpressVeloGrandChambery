@@ -84,16 +84,25 @@ credit: Roue Libre
 Cette :line-link{line=4} se termine au parking des Culées de Challes les Eaux, à proximité du plan d'eau. Il n'y a actuellement aucun jalonnement ni aménagement pour rejoindre le centre ville de Challes les Eaux.
 
 ### Variante RD1006 Nord
-<span style="color:red;font-weight:bold">A améliorer</span> Les bandes cyclables créées en 2020 aux côtés d'une voie de circulation à 70 km/h ne sont pas du tout satisfaisantes.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Une première portion de 300 m de voie verte a été réalisée lors de la création du giratoire de la Trousse en 2025. Tronçon qui s'interrompt brutalement sur la RD1006.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/07/REV4-IMG_89801.jpg
+caption: RD1006 (La Trousse - La Ravoire)
+credit: Roue Libre
+---
+
+<span style="color:red;font-weight:bold">A améliorer</span> Cette voie verte se prolonge par des bandes cyclables créées en 2020 sur la RD1006, voirie de circulation très importante.
 La sécurisation de cette liaison permettrait la création d'une variante de plus directe et efficace pour les cyclistes souhaitant rejoindre La Ravoire et Challes les Eaux que l'actuel itinéraire de Piste Bleue 4 plus touristique via la voie verte des Planeurs.
 
 ::banner{type="info"}
-Une étude pour la création d'une piste bidirectionnellede entre le giratoire de la Trousse et le carrefour avec l'Avenue Pré Renaud à LA Ravoire est en cours.
+Une étude pour la création d'une piste bidirectionnellede entre le giratoire de la Trousse et le carrefour avec l'Avenue Pré Renaud à La Ravoire a été réalisée en 2025.
 ::
 
 ### Variante RD1006 Sud
-<span style="color:red;font-weight:bold">A améliorer</span> Les bandes cyclables créées en 2020 aux côtés d'une voie de circulation à 70 km/h ne sont pas du tout satisfaisantes.
-Comme pour le tronçon précédent, la sécurisation de cette liaison permettrait la création d'une variante plus directe et efficace pour les cyclistes que l'actuelle tracé de la Piste 4. Elle pourrait se prolonger dans un premier temps jusqu'au centre de Challes les Eaux.
+<span style="color:red;font-weight:bold">A améliorer</span> Les bandes cyclables créées en 2020 aux côtés sur la RD1006, très circulatante avec des tronçons à 70 km/h.
+Comme pour le tronçon précédent, la sécurisation de cette liaison permettrait la création d'une variante plus directe et efficace pour les cyclistes que l'actuelle tracé de la Piste 4. Elle pourrait se prolonger dans un second temps jusqu'au centre de Challes les Eaux puis Saint Jeoire Prieuré.
 
 ::content-image
 ---
