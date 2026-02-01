@@ -114,6 +114,40 @@ credit: Roue Libre
 ---
 ::
 
+## Principaux points noirs de la ligne
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6446.jpg
+caption: Traversée cycles non sécurisée - Rue des Barbillettes
+credit: Roue Libre
+---
+::
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV4-img01.jpg
+caption: Franchissement difficile pour les cycles - Chemin du Violet - Barby
+credit: Roue Libre
+---
+::
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6487.jpg
+caption: Angles de giration inadaptés - Av. Jean Baptiste d'Oncieu de la Bâtie
+credit: Roue Libre
+---
+::
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/07/REV4-IMG_89801.jpg
+caption: Traversée cycles non sécurisée - RD1006
+credit: Roue Libre
+---
+::
+
 ## Fil d'actu
 
 ### 8 juillet 2025. Inauguration par Grand Chambéry de la RD1006 et du carrefour de La Trousse
