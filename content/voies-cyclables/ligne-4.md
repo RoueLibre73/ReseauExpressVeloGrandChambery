@@ -148,6 +148,10 @@ credit: Roue Libre
 ---
 ::
 
+| ![Franchissement difficile](https://rouelibre.net/wp-content/uploads/2025/02/REV4-img01.jpg) <br> *Franchissement difficile pour les cycles - Chemin du Violet - Barby* <br> Roue Libre | ![Angles de giration](https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6487.jpg) <br> *Angles de giration inadaptés - Av. Jean Baptiste d'Oncieu de la Bâtie* <br> Roue Libre |
+|---|---|
+
+
 ## Fil d'actu
 
 ### 8 juillet 2025. Inauguration par Grand Chambéry de la RD1006 et du carrefour de La Trousse
