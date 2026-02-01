@@ -280,8 +280,9 @@ export const useMap = () => {
        'interpolate',
        ['linear'],
        ['zoom'],
-       6, 0.25,   // très petit zoom → très petite icône
-       10, 0.45,
+       5, 0.18
+       7, 0.25,   // très petit zoom → très petite icône
+       9, 0.35,
        13, 0.7,
        15, 1.1,
        17, 1.6
