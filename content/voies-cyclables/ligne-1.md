@@ -35,6 +35,16 @@ Lors de cet aménagement, les carrefours n'ont pas été modifiés et les connex
 
 Elle est aménagé par une piste cyclable bidirectionnelle de 3 à 3,5m de large. Elle croise le départ de la :line-link{line=2} Landiers au niveau du palais de Justice de Chambéry puis celui de la :line-link{line=9} La Motte Servolex au niveau du giratoire de la Poste.
 
+Le compteur le plus fréquenté de l'agglo y a enregistré sur l'année 2025 plus de 890 000 passages (cycles et trotinettes). L'association Roue Libre y célebre chaque année, le jour du dépassement losque 600 000 passages sont comptabilisés (jauge de l'ancien compteur remplacé en 2024)
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2025/09/2025-09-Roue-Libre-600-000-i3-768x576.jpg
+caption: Roue Libre
+---
+::
+[Communiqué. 600 000 passages au compteur du Verney le 6 septembre 2025. Nouveau record!](https://rouelibre.net/2025/09/16/600-000-passage-au-compteur-du-verney-le-6-septembre-2025-nouveau-record/)
+
 Il est possible de rejoindre via le giratoire de la Poste le Parc d'apprentissage vélo nommé :line-link{line=O} dans cet observatoire, parc public situé au milieu de la résidence du Paradis. 
 
 Elle longe ensuite la rivière la Leysse par le Quai des Allobroges.
@@ -75,6 +85,14 @@ credit: Roue Libre
 ---
 ::
 
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/02/IMG_6388r.jpg
+caption: Belle Via - Chambéry
+credit: Roue Libre
+---
+::
+
 Son dernier tronçon entre Villarcher (commune de La Motte Servolex) et le lac du Bourget a été réalisé suite à la Vélorution organisée par Roue Libre et une vingtaine d’autres organisations le 21 octobre 1995 (1200 participants). 
 
 ::content-image
@@ -84,6 +102,14 @@ caption: Magazine Roue libre automne hiver 1995 – 1996
 ---
 ::
 [Vélorution "Au Lac à vélo en 1996" du 21 octobre 1995](https://rouelibre.net/2021/08/04/21-octobre-1995-velorution-au-lac-a-velo-en-96/)
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/02/2013-02-Photos-0249.jpg
+caption: Voie Verte Belle Via - La Motte Servolex
+credit: Roue Libre
+---
+::
 
 ## Quelques points noirs de cette ligne
 
