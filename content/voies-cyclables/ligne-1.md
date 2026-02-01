@@ -5,7 +5,7 @@ lineName: Piste 1 Bourget du Lac
 lineNameShort: 1
 from: Chambéry (Eléphants)
 to: Bourget du Lac
-description: La Piste Bleue 1 permet de relier Chambéry au Bourget du Lac par la voie verte Nord - Belle Via (ex V63). Cette ligne a la particularité d'accueillir le trafic vélo le plus élevé d'agglomération au niveau du compteur du palais de justice de Chambéry.
+description: La Piste Bleue 1 permet de relier Chambéry au Bourget du Lac par la voie verte Nord - Belle Via (ex V63). Cette ligne accueille le trafic annuel vélos (et trotinettes) le plus élevé d'agglomération au niveau du compteur du palais de justice de Chambéry.
 trafic: 2500 vélos/jour
 cover: https://rouelibre.net/wp-content/uploads/2022/11/IMG_1555.jpg
 ---
@@ -33,7 +33,7 @@ Lors de cet aménagement, les carrefours n'ont pas été modifiés et les connex
 ::
 
 
-Elle est aménagé par une piste cyclable bidirectionnelle de 3 à 3,5m de large. Elle croise le départ de la :line-link{line=2} Landiers au niveau du palais de Justice de Chambéry puis celui de la :line-link{line=9} La Motte Servolex au niveau du giratoire de la Poste.
+Elle est aménagé avec une piste cyclable bidirectionnelle de 3 à 3,5m de large. Elle croise le départ de la :line-link{line=2} Landiers au niveau du palais de Justice de Chambéry puis celui de la :line-link{line=9} La Motte Servolex au niveau du giratoire de la Poste.
 
 Ce compteur, le plus fréquenté de l'agglo, y a enregistré sur l'année 2025 plus de 890 000 passages (cycles et trotinettes). L'association Roue Libre célebre chaque année, le jour du dépassement lorsque 600 000 passages y sont comptabilisés (jauge de l'ancien compteur remplacé par un compteur 1 000 000 en 2024). [Communiqué. 600 000 passages au compteur du Verney le 6 septembre 2025. Nouveau record!](https://rouelibre.net/2025/09/16/600-000-passage-au-compteur-du-verney-le-6-septembre-2025-nouveau-record/)
 
@@ -45,9 +45,9 @@ caption: Roue Libre
 ::
 
 
-Il est possible de rejoindre via le giratoire de la Poste le Parc d'apprentissage vélo nommé :line-link{line=O} dans cet observatoire, parc public situé au milieu de la résidence du Paradis. 
+Il est possible de rejoindre via le giratoire de la Poste le Parc d'apprentissage vélo Annie Londonderry numeroté :line-link{line=O} dans cet observatoire, parc public situé au ventre de la résidence du Paradis. [Présentation, photos, vidéo en lien](https://bulletintransition73.fr/decouvrez-le-parc-dapprentissage-velo-de-chambery/)
 
-Elle longe ensuite la rivière la Leysse par le Quai des Allobroges.
+La piste longe ensuite la rivière la Leysse via le Quai des Allobroges.
 
 ### Rue de la Savoisienne
 
@@ -112,9 +112,6 @@ caption: Magazine Roue libre automne hiver 1995 – 1996
 [Vélorution "Au Lac à vélo en 1996" du 21 octobre 1995](https://rouelibre.net/2021/08/04/21-octobre-1995-velorution-au-lac-a-velo-en-96/)
 
 ## Quelques points noirs de cette ligne
-
-|  |
-|---|---|
 
 | ![Sasson - Chambéry](https://rouelibre.net/wp-content/uploads/2026/02/IMG_4523r.jpg) <br> Conflits piétons-cycles <br> *Sasson - Chambéry*| ![Quai des Allobroges - Chambéry](https://rouelibre.net/wp-content/uploads/2024/11/REV.-Quai-Allobroges.jpg) <br> Traversée cycles non sécurisée <br> *Quai des Allobroges - Chambéry*|
 |---|---|
