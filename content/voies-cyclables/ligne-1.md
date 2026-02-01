@@ -84,3 +84,8 @@ caption: Magazine Roue libre automne hiver 1995 – 1996
 ---
 ::
 [Vélorution "Au Lac à vélo en 1996" du 21 octobre 1995](https://rouelibre.net/2021/08/04/21-octobre-1995-velorution-au-lac-a-velo-en-96/)
+
+## Quelques points noirs de cette ligne
+
+| ![Quai des Allobroges - Chambéry](https://rouelibre.net/wp-content/uploads/2024/11/REV.-Quai-Allobroges.jpg) <br> *Traversée cycles non sécurisée* <br> Quai des Allobroges - Chambéry| ![Route dTre l'école du Tremblay - La Motte Servolex](https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_2208.jpg) <br> *Franchissement difficile pour les cycles* <br> Route de l'école du Tremblay - La Motte Servolex |
+|---|---|

@@ -94,3 +94,11 @@ credit: Roue Libre
 La voie verte et la Piste Bleue n°2 se terminent quelques dizaines de mètres avant le siège de Grand Chambéry.
 
 A ce niveau, il est possible de rejoindre la :line-link{line=1} via un aménagement sécurisé le long de la rue du Nant Bruyant et le passage au-dessus de la Voie Rapide Urbaine.
+
+## Quelques points noirs de cette ligne
+
+| ![Passage à niveau - Chambéry](https://rouelibre.net/wp-content/uploads/2026/02/IMG_4012r.jpg) <br> *Bande cyclable mixte pietons -cycles* <br> Passage à niveau Landiers - Chambéry| ![Leclerc Drive - Chambéry](https://rouelibre.net/wp-content/uploads/2025/02/REV2-IMG_6425.jpg) <br> *Stationnement sauvage et boue sur la piste* <br> Leclerc Drive - Chambéry |
+|---|---|
+
+| ![Giratoire Chamnord - Chambéry](https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4023.jpg) <br> *Anneau cyclable non sécurisé* <br> Giratoire Chamnord - Chambéry| ![Traversée Nant Bruyant - Chambéry](https://rouelibre.net/wp-content/uploads/2025/02/REV2-IMG_4032.jpg) <br> *Traversée non sécurisée* <br> Traversée Nant Bruyant - Chambéry |
+|---|---|

@@ -6,6 +6,19 @@
       "type": "Feature",
       "properties": {
         "type": "danger",
+        "name": "Passage à niveau",
+        "danger": "Bande cyclable mixte pietons -cycles",
+        "line": "2",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/02/IMG_4012r.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9064563404855335, 45.5877361876108]
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
         "name": "Leclerc Drive",
         "danger": "Stationnement sauvage et boue sur la piste",
         "line": "2",
