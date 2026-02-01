@@ -272,20 +272,20 @@ export const useMap = () => {
    type: 'symbol',
    source: 'dangers',
    layout: {
-     'icon-image': 'danger-icon',
-     'icon-allow-overlap': true,
- 
-     // 👇 Taille qui s’adapte au zoom
-      'icon-size': [
-        'interpolate',
-      ['exponential', 1.5],
+    'icon-size': [
+      'interpolate',
+      ['linear'],
       ['zoom'],
-      3, 0.1,
-      7, 0.2,
-      11, 0.4,
+      3, 0.1,      // monde
+      6, 0.12,     // pays
+      8.5, 0.06,   // 🏘️ communal → minuscule
+      10, 0.25,    // commence à redevenir visible
+      12, 0.5,
       14, 0.8,
-      17, 1.4
-]
+      16, 1.1,
+      18, 1.4
+    ]
+
    }
  });
 
