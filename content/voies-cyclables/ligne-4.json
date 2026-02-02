@@ -312,9 +312,9 @@
         "properties": {
           "line": "4",
           "name": "Rue du Nivolet",
-          "quality": "bad",
+          "quality": "fair",
           "status": "postponed",
-          "type": "aucun",
+          "type": "chaucidou",
           "link": "/rev-4#rue-du-nivolet"
         },
         "geometry": {

@@ -50,15 +50,10 @@ credit: Roue Libre
 ::
 
 ### Rue du Nivolet
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Ce tronçon à Barby n'est pas aménagé pour les cycles.
+<span style="color:red;font-weight:bold">A améliorer</span> En 2025, un chaucidou (chaussée à voie centrale banalisée) a été dessiné sur cette large voirie. Cependant, ce type d'aménagement ne correspond pas au reférenciel des [Réseaux Cyclables à Haut Niveau de Service](/blog/reseauchns){:target="_blank"} du CEREMA.
 
-::content-image
----
-imageUrl: https://rouelibre.net/wp-content/uploads/2024/11/Piste4-IMG_2680.jpg
-caption: Rue du Nivolet (Barby)
-credit: Roue Libre
----
-::
+| !(https://rouelibre.net/wp-content/uploads/2024/11/Piste4-IMG_2680.jpg) <br> Avant <br>  *Rue du Nivolet La Ravoire* | !(https://rouelibre.net/wp-content/uploads/2026/02/REV4-Rue-du-Nicvolet-Gd-Chy.jpg) <br> Après <br> *Rue du Nivolet La Ravoire* |
+|---|---|
 
 ### Voie verte des Planeurs
 <span style="color:blue;font-weight:bold">Satisfaisant</span> 
