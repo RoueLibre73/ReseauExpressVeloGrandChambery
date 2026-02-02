@@ -35,7 +35,7 @@ credit: Roue Libre
 ::
 
 ### Rue des Carpinelles
-<span style="color:red;font-weight:bold">A améliorer</span> La création récente d'un chaucidou (chaussée à voie centrale banalisée) n'apporte que peu de sécurisation pour les cycles.
+<span style="color:red;font-weight:bold">A améliorer</span> En 2025, un chaucidou (chaussée à voie centrale banalisée) a été dessiné sur cette voirie. Cependant, ce type d'aménagement ne correspond pas au reférenciel des [Réseaux Cyclables à Haut Niveau de Service](/blog/reseauchns){:target="_blank"} du CEREMA.
 
 ::content-image
 ---
@@ -55,3 +55,8 @@ caption: Rue des Barreaux (La Ravoire)
 credit: Roue Libre
 ---
 ::
+
+## Quelques points noirs sur cette ligne
+
+| ![Rue de Joigny](https://rouelibre.net/wp-content/uploads/2025/02/REV6-IMG_6587.jpg) <br> Traversée non sécurisée pour les cycles <br>  *Rue de Joigny - La Ravoire* | ![RD1006 La Ravoire](https://rouelibre.net/wp-content/uploads/2025/02/REV6-IMG_4118.jpg) <br> Giratoire non sécurisé <br> *Route Royale Rue des Belledonnes La Ravoire* |
+|---|---|

@@ -109,7 +109,7 @@ credit: Roue Libre
 ---
 ::
 
-## Quelques points noirs de cette ligne
+## Quelques points noirs sur cette ligne
 
 | ![Rue des Barillettes - Saint Alban Leysse](https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6446.jpg) <br> Traversée cycles non sécurisée <br> *Rue des Barillettes - Saint Alban Leysse*| ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-img01.jpg) <br> Franchissement difficile pour les cycles <br> *Chemin du Violet - Barby* |
 |---|---|
