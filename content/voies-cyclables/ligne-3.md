@@ -104,7 +104,7 @@ credit: Roue Libre
 ---
 ::
 
-## Quelques points noirs de cette ligne
+## Quelques points noirs sur cette ligne
 
 | ![Carrefour de la Sasson](https://rouelibre.net/wp-content/uploads/2025/01/REV3-IMG_8904.jpg) <br> Traversée non sécurisée <br> *Carrefour de la Sasson - Chambéry*| ![Avenue d'Aix les Bains](https://rouelibre.net/wp-content/uploads/2024/11/Piste-3-1r.jpg) <br> Traversée non sécurisée <br> Avenue d'Aix les Bains - Chambéry |
 |---|---|
@@ -127,7 +127,6 @@ credit: Roue Libre
 ---
 ::
 
-
 ### Action Roue Libre lors du passage du Tour de France
 20 juillet 2023
 ::content-image
@@ -137,9 +136,6 @@ caption: Capture image Tour de France 2023
 credit: France 3
 ---
 ::
-
-### Lancement d'une étude de faisabilité Hauts de Chambéry via Avenue Mendès France par Grand Chambéry
-janvier 2024
 
 ### Vélorution Les Hauts à vélo
 18 mars 2023
