@@ -65,11 +65,12 @@
 
           <!-- Points noirs / danger -->
           <div class="my-auto flex justify-center">
-            <span icon-image="danger-icon" class="h-5 w-5"></span>
+            <div class="danger-icon h-5 w-5 bg-contain bg-no-repeat bg-center"></div>
           </div>
           <div>
             points noirs
           </div>
+          
             </div>
           </div>
 
