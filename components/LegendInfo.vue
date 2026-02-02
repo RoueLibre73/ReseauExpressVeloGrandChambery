@@ -63,14 +63,6 @@
           </div>
           <div>non balisée</div>
 
-          <!-- Points noirs / danger -->
-          <div class="my-auto flex justify-center">
-            <div class="danger-icon h-5 w-5 bg-contain bg-no-repeat bg-center"></div>
-          </div>
-          <div>
-            points noirs
-          </div>
-          
             </div>
           </div>
 
