@@ -50,9 +50,9 @@ credit: Roue Libre
 ::
 
 ### Rue du Nivolet
-<span style="color:red;font-weight:bold">A améliorer</span> En 2025, un chaucidou (chaussée à voie centrale banalisée) a été dessiné sur cette large voirie. Cependant, ce type d'aménagement ne correspond pas au reférenciel des [Réseaux Cyclables à Haut Niveau de Service](/blog/reseauchns){:target="_blank"} du CEREMA.
+<span style="color:red;font-weight:bold">A améliorer</span> En 2025, un chaucidou (chaussée à voie centrale banalisée) a été dessiné sur cette voirie. Cependant, ce type d'aménagement ne correspond pas au reférenciel des [Réseaux Cyclables à Haut Niveau de Service](/blog/reseauchns){:target="_blank"} du CEREMA.
 
-| !(https://rouelibre.net/wp-content/uploads/2024/11/Piste4-IMG_2680.jpg) <br> Avant <br>  *Rue du Nivolet La Ravoire* | !(https://rouelibre.net/wp-content/uploads/2026/02/REV4-Rue-du-Nicvolet-Gd-Chy.jpg) <br> Après <br> *Rue du Nivolet La Ravoire* |
+| ![avant](https://rouelibre.net/wp-content/uploads/2024/11/Piste4-IMG_2680.jpg) <br> Avant <br>  *Rue du Nivolet La Ravoire* | ![prs](https://rouelibre.net/wp-content/uploads/2026/02/REV4-Rue-du-Nicvolet-Gd-Chy.jpg) <br> Après <br> *Crédit Grand Chambéry* |
 |---|---|
 
 ### Voie verte des Planeurs
