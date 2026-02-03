@@ -123,5 +123,5 @@ credit: Roue Libre
 | ![Carrefour de la Libération](https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4257.jpg) <br> Jonction au Pont des Amours non aménagée <br>  *Carrefour de la Libération - Chambéry* | ![Giratoire Paul Chevalier](https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4206.jpg) <br> Giratoire non sécurisé <br> *Giratoire Paul Chevalier - Chambéry* |
 |---|---|
 
-| ![Pont des Carmes](https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4271.jpg) <br> Aucun aménagement pour les cycles <br>  *Pont des Carmes - Chambéry* | ![Route d'Apremont](https://rouelibre.net/wp-content/uploads/2025/02/REV7-IMG_4176.jpg) <br> Traversée pietons cycles à mieux sécurisée <br> *Route d'Apremont - La Ravoire* |
+| ![Pont des Carmes](https://rouelibre.net/wp-content/uploads/2026/02/IMG_1955r.jpg) <br> Aucun aménagement pour les cycles <br>  *Pont des Carmes - Chambéry* | ![Route d'Apremont](https://rouelibre.net/wp-content/uploads/2025/02/REV-IMG_4173.jpg) <br> Traversée pietons cycles à mieux sécurisée <br> *Route d'Apremont - La Ravoire* |
 |---|---|

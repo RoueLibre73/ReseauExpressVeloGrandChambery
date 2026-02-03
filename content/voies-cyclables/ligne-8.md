@@ -94,6 +94,14 @@ credit: Roue Libre
 ### Cognin
 <span style="color:black;font-weight:bold">Non satisfaisant</span> Puis aucun aménagement dans le centre ville de Cognin
 
+## Quelques points noirs sur cette ligne
+
+| ![Place Monge](https://rouelibre.net/wp-content/uploads/2026/02/IMG_1289r.jpg) <br> Potelets contraignants pour tous les usagers <br>  *Place Monge - Chambéry* | ![Place Caffe](https://rouelibre.net/wp-content/uploads/2025/02/REV8-IMG_59231.jpg) <br> Giratoire non sécurisé <br> *Place Caffe - Chambéry* |
+|---|---|
+
+| ![Place Lucien Biset](https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_0141.jpg) <br> Giratoire non sécurisé <br>  *Place Lucien Biset - Chambéry* | ![Carrefour chemin du Biollay](https://rouelibre.net/wp-content/uploads/2024/12/REV8-carrefour-du-biollay.jpg) <br> Carrefour accidentogène pour les cycles <br> *Carrefour chemin du Biollay - Chambéry* |
+|---|---|
+
 ## Fil d'actu
 
 ### Lancement d'une étude de faisabilité Cognin et Chambéry par Grand Chambéry

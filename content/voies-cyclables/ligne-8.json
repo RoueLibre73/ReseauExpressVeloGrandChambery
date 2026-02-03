@@ -1,12 +1,26 @@
 {
   "type": "FeatureCollection",
   "features": [
+        {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Place Monge",
+        "danger": "Potelets contraignants pour tous les usagers",
+        "line": "8",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/02/IMG_1289r.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.922573934417272, 45.56359306949744]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
         "type": "danger",
         "name": "Place Caffe",
-        "danger": "Circulation des cycles sur l'anneau routier",
+        "danger": "Giratoire non sécurisé",
         "line": "8",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV8-IMG_59231.jpg"
       },
@@ -20,7 +34,7 @@
       "properties": {
         "type": "danger",
         "name": "Place Lucien Biset",
-        "danger": "Circulation des cycles sur l'anneau routier",
+        "danger": "Giratoire non sécurisé",
         "line": "8",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_0141.jpg"
       },
@@ -33,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "type": "danger",
-        "name": "Carrefour du Biollay",
+        "name": "Carrefour chemin du Biollay",
         "danger": "Carrefour accidentogène pour les cycles",
         "line": "8",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2024/12/REV8-carrefour-du-biollay.jpg"
