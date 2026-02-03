@@ -117,3 +117,11 @@ credit: Roue Libre
 ### Avenue Verte Sud
 
 <span style="color:black;font-weight:bold">Non satisfaisant/span> A la fin actuelle de la voie verte aménagée, la piste se poursuit jusqu'au Lac Saint André, sur la communauté de communes Coeur de Savoie sans aménagement cyclable.
+
+## Quelques points noirs sur cette ligne
+
+| ![Carrefour de la Libération](https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4257.jpg) <br> Jonction au Pont des Amours non aménagée <br>  *Carrefour de la Libération - Chambéry* | ![Giratoire Paul Chevalier](https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4206.jpg) <br> Giratoire non sécurisé <br> *Giratoire Paul Chevalier - Chambéry* |
+|---|---|
+
+| ![Pont des Carmes](https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4271.jpg) <br> Aucun aménagement pour les cycles <br>  *Pont des Carmes - Chambéry* | ![Route d'Apremont](https://rouelibre.net/wp-content/uploads/2025/02/REV7-IMG_4176.jpg) <br> Traversée pietons cycles à mieux sécurisée <br> *Route d'Apremont - La Ravoire* |
+|---|---|
