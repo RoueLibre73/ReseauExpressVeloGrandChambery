@@ -111,17 +111,14 @@ credit: Roue Libre
 
 ## Quelques points noirs sur cette ligne
 
-| ![Rue des Barillettes - Saint Alban Leysse](https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6446.jpg) <br> Traversée cycles non sécurisée <br> *Rue des Barillettes - Saint Alban Leysse*| ![Chemin du Violet - Barby] <br>     <br> *   * |
-|---|---|
-
-| ![Av. Jean Baptiste d'Oncieu de la Bâtie - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6487.jpg) <br> Angles de giration inadaptés <br>  *Av. Jean Baptiste d'Oncieu de la Bâtie - Barby* | ![RD1006 La Ravoire](https://rouelibre.net/wp-content/uploads/2025/07/REV4-IMG_89801.jpg) <br> Traversée cycles non sécurisée <br> *RD1006 La Ravoire* |
+| ![Rue des Barillettes - Saint Alban Leysse](https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6446.jpg) <br> Traversée cycles non sécurisée <br> *Rue des Barillettes - Saint Alban Leysse*| ![Av. Jean Baptiste d'Oncieu de la Bâtie - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6487.jpg) <br> Angles de giration inadaptés <br>  *Av. Jean Baptiste d'Oncieu de la Bâtie - Barby* |
 |---|---|
 
 
 ## Fil d'actu
 
 ### Un point noir de moins !
-| ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-img01.jpg) <br> Avant. Franchissement difficile pour les cycles <br> *Chemin du Violet - Barby* | ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2026/02/IMG_2341r.jpg <br> En 2026, merci* |
+| ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-img01.jpg) <br> Avant. Franchissement difficile pour les cycles <br> *Chemin du Violet - Barby* | ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2026/02/IMG_2341r.jpg) <br> En 2026* |
 |---|---|
 
 ### 8 juillet 2025. Inauguration par Grand Chambéry de la RD1006 et du carrefour de La Trousse
