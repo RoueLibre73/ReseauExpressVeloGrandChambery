@@ -52,7 +52,7 @@ credit: Roue Libre
 ### Rue du Nivolet
 <span style="color:red;font-weight:bold">A améliorer</span> En 2025, un chaucidou (chaussée à voie centrale banalisée) a été dessiné sur cette voirie. Cependant, ce type d'aménagement ne correspond pas au reférenciel des [Réseaux Cyclables à Haut Niveau de Service](/blog/reseauchns){:target="_blank"} du CEREMA.
 
-| ![avant](https://rouelibre.net/wp-content/uploads/2024/11/Piste4-IMG_2680.jpg) <br> Avant <br>  *Rue du Nivolet La Ravoire* | ![prs](https://rouelibre.net/wp-content/uploads/2026/02/REV4-Rue-du-Nicvolet-Gd-Chy.jpg) <br> Après <br> *Crédit Grand Chambéry* |
+| ![avant](https://rouelibre.net/wp-content/uploads/2024/11/Piste4-IMG_2680.jpg) <br> Avant <br>  *Rue du Nivolet La Ravoire* | ![prs](https://rouelibre.net/wp-content/uploads/2026/02/IMG_2335r.jpg) <br> Après - automne 2025 <br> *Crédit Roue Libre* |
 |---|---|
 
 ### Voie verte des Planeurs
@@ -121,7 +121,7 @@ credit: Roue Libre
 ## Fil d'actu
 
 ### Un point noir de moins !
-| ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-img01.jpg) <br> Avant Franchissement difficile pour les cycles <br> *Chemin du Violet - Barby* | ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-img01.jpg) <br> En 2026, merci* |
+| ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-img01.jpg) <br> Avant. Franchissement difficile pour les cycles <br> *Chemin du Violet - Barby* | ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2026/02/IMG_2341r.jpg <br> En 2026, merci* |
 |---|---|
 
 ### 8 juillet 2025. Inauguration par Grand Chambéry de la RD1006 et du carrefour de La Trousse
