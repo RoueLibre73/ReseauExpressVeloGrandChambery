@@ -71,6 +71,20 @@
         "coordinates": [5.908176318332551, 45.562913181553114]
       }
     },
+        {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Chemin des Vieux Capucins",
+        "danger": "Carrefour non sécurisé",
+        "line": "8",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV-8-20260204_162528r.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.901912216581195, 45.56260180370083]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
