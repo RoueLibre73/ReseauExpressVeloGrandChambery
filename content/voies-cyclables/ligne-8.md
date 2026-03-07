@@ -107,10 +107,13 @@ credit: Roue Libre
 
 ## Fil d'actu
 
-### Lancement d'une étude de faisabilité Cognin et Chambéry par Grand Chambéry
-Depuis le printemps 2024, suite à la mobilisation de Roue Libre et des organisations locales, une étude de faisabilité d'une liaison cyclable à Haut Niveau de Service entre Cognin et la Préfecture (place Caffe) est en cours. Roue Libre a été convié à deux réunions de travail avec le Bureau d'Étude.
+### 2026. Toujours rien
+Malheureusement rien dans le budget d'investissement 2026 de Grand Chambéry pour cette liaison
 
-### Fausse inauguration Piste Rouge Cognin Chambéry par Roue Libre
+### 2024. Lancement d'une étude de faisabilité Cognin et Chambéry par Grand Chambéry
+Depuis le printemps 2024, suite à la mobilisation de Roue Libre et des organisations locales, une étude de faisabilité d'une liaison cyclable à Haut Niveau de Service entre Cognin et la Préfecture (place Caffe) est en cours. Roue Libre a été conviée à deux réunions de travail avec le Bureau d'Étude.
+
+### 2024. Fausse inauguration Piste Rouge Cognin Chambéry par Roue Libre
 15 octobre 2024
 
 ::banner{type="info"}
@@ -127,7 +130,7 @@ credit: Roue Libre
 
 [Communiqué, revue de presse, photos](https://rouelibre.net/2024/10/15/15-oct-2024-roue-libre-inaugure-la-piste-rouge-n8-cognin-chambery/){:target="_blank"}
 
-### Action Roue Libre lors du passage du Tour de France
+### 2024. Action Roue Libre lors du passage du Tour de France
 3 juillet 2024
 ::content-image
 ---
@@ -137,13 +140,13 @@ credit: France 3
 ---
 ::
 
-### Courrier Roue Libre pour la pérennisation et continuité de l'aménagement cyclable Caffe - Monge
+### 2022. Courrier Roue Libre pour la pérennisation et continuité de l'aménagement cyclable Caffe - Monge
 novembre 2022
 
 [Courrier](https://rouelibre.net/2022/11/28/28-juin-cp-roue-libre-pour-la-realisation-dune-continuite-cyclable-securisee-entre-place-caffe-et-place-monge-des-2021/){:target="_blank"}
 
 
-### Vélorution Cognin - Chambéry
+### 2022. Vélorution Cognin - Chambéry
 26 mars 2022
 
 [Photos, communiqué, signataires, proposition technique](https://rouelibre.net/2024/07/03/26-mars-2022-velorution-cognin-chambery/){:target="_blank"}

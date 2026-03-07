@@ -117,6 +117,9 @@ credit: Roue Libre
 
 ## Fil d'actu
 
+### 6 mars 2026. Roue Libre ouvre le hors piste cyclable Carrefour de la Trousse – Challes les eaux
+[Communiquén reportage photos, revue de presse Dauphiné et France 3"](https://rouelibre.net/2026/03/06/6-mars-2026-roue-libre-ouvre-le-hors-piste-trousse-challes-les-eaux/){:target="_blank"}
+
 ### Un point noir de moins !
 | ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2025/02/REV4-img01.jpg) <br> Avant. Franchissement difficile pour les cycles  | ![Chemin du Violet - Barby](https://rouelibre.net/wp-content/uploads/2026/02/IMG_2341r.jpg) <br> En 2026 <br> *Chemin du Violet - Barby* |
 |---|---|
