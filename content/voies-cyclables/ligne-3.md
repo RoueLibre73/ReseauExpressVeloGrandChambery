@@ -55,13 +55,9 @@ credit: Roue Libre
 ### Faubourg Reclus
 <span style="color:black;font-weight:bold">Non satisfaisant</span> La Piste traverse le carrefour du centenaire où elle croise la :line-link{line=1} puis emprunte le Faubourg Reclus, sans aménagement.
 
-::content-image
----
-imageUrl: https://rouelibre.net/wp-content/uploads/2023/02/IMG_8490-768x511.jpg
-caption: Faubourg Reclus
-credit: Roue Libre
----
-::
+| ![Carrefour du Centenaire](https://rouelibre.net/wp-content/uploads/2026/03/REV3-IMG_2756r.jpg) <br> Section jalonnée non sécurisée <br> *Carrefour du Centenaire - Chambéry*| ![Faubourg Reclus](https://rouelibre.net/wp-content/uploads/2023/02/IMG_8490-768x511.jpg) <br> Section non sécurisée <br> *Faubourg Reclus - Chambéry* |
+|---|---|
+
 
 ### Avenue de Aix les Bains Sud
 <span style="color:black;font-weight:bold">Non satisfaisant</span> Un cheminement des cycles sur le trottoir est actuellement conseillé.
