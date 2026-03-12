@@ -63,15 +63,11 @@ credit: Roue Libre
 
 ### Avenue des Landiers
 
-<span style="color:blue;font-weight:bold">Satisfaisant</span> La voie verte est continue du passage à niveau au carrefour du Nant Bruyant. Une bande cyclable est également présente sur la chaussée dans le sens Sud-Nord.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> La voie verte est continue du passage à niveau au carrefour du Nant Bruyant. Une bande cyclable jalonnée est également présente sur la chaussée dans le sens Sud-Nord.
 
-::content-image
----
-imageUrl: https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4019.jpg
-caption: Avenue des Landiers(Chambéry)
-credit: Roue Libre
----
-::
+| ![Avenue des Landiers](https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4019.jpg) <br> *Piste bidirectionnelle* <br> Avenue des Landiers - Chambéry| ![Avenue des Landiers](https://rouelibre.net/wp-content/uploads/2026/03/REV2-IMG_2783r.jpg) <br> *Bande cyclable en parallèle de la piste* <br> Avenue des Landiers - Chambéry |
+|---|---|
+
 
 ::banner{type="unsecured"}
 Les traversées des carrefours et des sorties de commerces sont matérialisées par un simple marquage au sol. Des véhicules sont régulièrement stationnés sur la piste et apportent de la boue sur certaines portions.
@@ -79,11 +75,9 @@ Les traversées des carrefours et des sorties de commerces sont matérialisées 
 Et le passage non sécurisé à contresens du rond point Landiers Sud (Carrefour, Boulanger...) reste un point noir pour les cyclistes.
 ::
 
-
-
 ::content-image
 ---
-imageUrl: https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4023.jpg
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/03/REV2-IMG_2785r.jpg
 caption: Giratoire Chamnord - Avenue des Landiers (Chambéry)
 credit: Roue Libre
 ---
