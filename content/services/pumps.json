@@ -6,13 +6,12 @@
       "properties": {
         "type": "pump",
         "id": 368988925,
-        "name": "Quai Romain Rolland"
+        "name": "Place Caffe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8289044,
-          45.7620645
+          5.919604334736249, 45.56387984261352
         ]
       }
     },
