@@ -85,6 +85,20 @@
         "coordinates": [5.901912216581195, 45.56260180370083]
       }
     },
+            {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "name": "Place Caffe",
+        "danger": "pompe, pied d'atelier et de réparation libre service",
+        "line": "8",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV8-IMG_2401r.jpg"
+      },
+      "geometry": {
+        "type": "point",
+        "coordinates": [5.919604334736249, 45.56387984261352]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
