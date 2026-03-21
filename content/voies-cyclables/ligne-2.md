@@ -83,11 +83,19 @@ credit: Roue Libre
 ---
 ::
 
+La voie verte se termine quelques dizaines de mètres avant le siège de Grand Chambéry au niveau du giratoire de la Rue du Nant Bruyant, d'où il est possible de rejoindre la :line-link{line=1} via un aménagement sécurisé et passage au-dessus de la Voie Rapide Urbaine.
+
 ### Landiers Nord
 
-La voie verte et la Piste Bleue n°2 se terminent quelques dizaines de mètres avant le siège de Grand Chambéry.
+<span style="color:red;font-weight:bold">A améliorer</span> Le jalonnement de la Piste Bleue n°2 a été prolongée en 2026, la voie verte est remplacée par des bandes cyclables sur l'avenue des Landiers puis sur la Rue de Belle-Eau, voirie à fort trafic dont de nombreux véhicules utilitaires et poids lourds.
 
-A ce niveau, il est possible de rejoindre la :line-link{line=1} via un aménagement sécurisé le long de la rue du Nant Bruyant et le passage au-dessus de la Voie Rapide Urbaine.
+### Liaison Borolan
+
+<span style="color:blue;font-weight:bold">Satisfaisant</span> La Piste Bleue n°2 se poursuit pour rejoindre la voie verte Belle Via et :line-link{line=1} par la liaison voie verte Borolan créée en 2025.
+
+### Rue des Epinettes
+
+<span style="color:red;font-weight:bold">A améliorer</span> Passage en bandes cyclables montantes au dessus de la Voie Rapide Urbaine pour rejoindre la voie verte Belle Via et :line-link{line=1}.
 
 ## Quelques points noirs de cette ligne
 
