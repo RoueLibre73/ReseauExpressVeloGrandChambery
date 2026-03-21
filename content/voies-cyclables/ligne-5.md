@@ -62,8 +62,8 @@ credit: Roue Libre
 ::
 
 ### Avenue de la Liberté
-<span style="color:black;font-weight:bold">Non satisfaisant</span>
-Connexion avec le départ de la :line-link{line=6} sur l'avenue de la Liberté, rue sans aménagement cyclable.
+<span style="color:red;font-weight:bold">A améliorer</span>
+Connexion avec le départ de la :line-link{line=6} sur l'avenue de la Liberté, rue large avec peu de trafic mais sans aménagement cyclable.
 
 ::content-image
 ---
