@@ -114,9 +114,7 @@ credit: Roue Libre
 ---
 ::
 
-### Avenue Verte Sud
-
-<span style="color:black;font-weight:bold">Non satisfaisant/span> A la fin actuelle de la voie verte aménagée, la piste se poursuit jusqu'au Lac Saint André, sur la communauté de communes Coeur de Savoie sans aménagement cyclable.
+La voie verte se termine sur la commune de Saint Jeoire Prieuré, le jalonnement de la piste 7 se poursuit le long de la belle via jusqu'au Lac Saint André sur la communauté de communes Coeur de Savoie, sans aménagement cyclable.
 
 ## Quelques points noirs sur cette ligne
 

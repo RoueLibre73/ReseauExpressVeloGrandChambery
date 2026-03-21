@@ -67,7 +67,7 @@ credit: Roue Libre
 ### Voie Verte Nord
 *tronçon de la Belle Via*
 
-<span style="color:blue;font-weight:bold">Satisfaisant</span> Voie verte historique de Grand Chambéry jusqu'au Bourget du Lac (communauté d'agglomération Grand Lac).
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Voie verte historique de Grand Chambéry le long de la Leysse, sur les communes de Chambéry puis La Motte Servolex
 
 ::content-image
 ---
@@ -111,10 +111,12 @@ caption: Magazine Roue libre automne hiver 1995 – 1996
 ::
 [Vélorution "Au Lac à vélo en 1996" du 21 octobre 1995](https://rouelibre.net/2021/08/04/21-octobre-1995-velorution-au-lac-a-velo-en-96/)
 
+Le jalonnement de la piste 1 se poursuit ensuite le long de la voie verte belle via jusqu'au Lac du Bourget sur la communauté d'agglomération Grand Lac.
+
 ## Quelques points noirs de cette ligne
 
 | ![Sasson - Chambéry](https://rouelibre.net/wp-content/uploads/2026/02/IMG_4523r.jpg) <br> Conflits piétons-cycles <br> *Sasson - Chambéry*| ![Quai des Allobroges - Chambéry](https://rouelibre.net/wp-content/uploads/2024/11/REV.-Quai-Allobroges.jpg) <br> Traversée cycles non sécurisée <br> *Quai des Allobroges - Chambéry*|
 |---|---|
 
-| ![Route de l'école du Tremblay - La Motte Servolex](https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_2208.jpg) <br> Traversée non sécurisée <br> *Route de l'école du Tremblay - La Motte Servolex*| ![Super U - La Motte Servolex](https://rouelibre.net/wp-content/uploads/2026/02/IMG_7737r.jpg) <br> Nouvel itinéraire inadapté <br> *Super U - La Motte Servolex* |
+| ![Route de l'école du Tremblay - La Motte Servolex](https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_2208.jpg) <br> Traversée non sécurisée <br> *Route de l'école du Tremblay - La Motte Servolex*| ![Jonction Villarcher](https://rouelibre.net/wp-content/uploads/2026/03/REV1-Villarcher-Google-Maps.jpg) <br> Jonction Villarcher non sécurisée <br> *Giratoire Villarcher - Voglans - Google Map* |
 |---|---|

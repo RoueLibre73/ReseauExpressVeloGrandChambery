@@ -30,6 +30,20 @@
         "coordinates": [5.914882,45.575518]
       }
     },
+        {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Traversée Villarcher",
+        "danger": "Traversée cycles non sécurisée",
+        "line": "1",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV1-Villarcher-Google-Maps.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.8832447830490935, 45.61641330624883]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -62,7 +76,6 @@
     ]
   }
 },
-
 {
   "type": "Feature",
   "properties": {
@@ -177,24 +190,6 @@
         [5.868931,45.639706],
         [5.868791,45.640201],
         [5.868491,45.640808]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": "1",
-        "name": "Voie Verte Belle Via Le Bourget",
-        "quality": "good",
-        "doneAt": "01\/01\/1998",
-        "status": "done",
-        "type": "voie-verte",
-        "link": "/rev-1#voie-verte-nord"
-      },
-      "geometry":{
-      "type": "LineString",
-      "coordinates":[
-        [5.868414,45.640923],[5.866097,45.645811],[5.864337,45.64731],[5.862579,45.649087],[5.861848,45.650578],[5.862149,45.652766],[5.862429,45.655414]
         ]
       }
     }
