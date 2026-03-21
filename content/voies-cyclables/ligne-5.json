@@ -89,11 +89,11 @@
         "type": "Feature",
         "properties": {
           "line": "5",
-          "name": "Rue de la Liberté",
+          "name": "AVenue de la Liberté",
           "quality": "fair",
           "status": "postponed",
           "type": "aucun",
-          "link": "/rev-5#rue-de-la-liberte"
+          "link": "/rev-5#avenue-de-la-liberte"
         },
         "geometry": {
           "type": "LineString",
