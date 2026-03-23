@@ -118,7 +118,7 @@ export const useStats = () => {
         class: 'text-lvv-blue-800 font-semibold'
       },
       done: {
-        name: 'Réalisés',
+        name: 'Réalisés 2020-2026',
         distance: doneDistance - alreadyExistingDistance,
         percent: getPercent(doneDistance) - getPercent(alreadyExistingDistance),
         class: 'text-lvv-blue-600 font-semibold'
