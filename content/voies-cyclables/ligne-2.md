@@ -15,6 +15,14 @@ cover: https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_3959.jpg
 ### Rue de la gare
 <span style="color:blue;font-weight:bold">Satisfaisant</span> La piste démarre de la :line-link{line=1} sur la place du Palais de Justice par une piste cyclable.
 
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/03/REV2.-IMG_2820.jpg
+caption: Palais de justice (Chambéry)
+credit: Roue Libre
+---
+::
+
 ### Place de la gare
 <span style="color:blue;font-weight:bold">Satisfaisant</span> La piste se prolonge devant la gare de Chambéry en voie de bus partagée, marquage cycles réalisé fin 2024.
 
@@ -87,11 +95,11 @@ La voie verte se termine quelques dizaines de mètres avant le siège de Grand C
 
 ### Landiers Nord
 
-<span style="color:red;font-weight:bold">A améliorer</span> Le jalonnement de la Piste Bleue n°2 a été prolongée en 2026, la voie verte est remplacée par des bandes cyclables sur l'avenue des Landiers puis sur la Rue de Belle-Eau, voirie à fort trafic dont de nombreux véhicules utilitaires et poids lourds.
+<span style="color:red;font-weight:bold">A améliorer</span> Le jalonnement de la Piste Bleue n°2 a été prolongée au Nord en 2026 sur des bandes cyclables réalisées sur l'avenue des Landiers puis sur la Rue de Belle-Eau, voirie à fort trafic dont de nombreux véhicules utilitaires et poids lourds.
 
 ### Liaison Borolan
 
-<span style="color:blue;font-weight:bold">Satisfaisant</span> La Piste Bleue n°2 se poursuit pour rejoindre la voie verte Belle Via et :line-link{line=1} par la liaison voie verte Borolan créée en 2025.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> La Piste Bleue n°2 va ensuite rejoindre la voie verte Belle Via et :line-link{line=1} par la jonction Borolan créée en voie verte en 2025.
 
 ### Rue des Epinettes
 
