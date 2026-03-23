@@ -14,7 +14,7 @@
           </p>
         </div>
       </div>
-      <ProgressBar :voies="voies" class="mt-8 md:mt-10" />
+      <ProgressBar :voies="voies" :precision="1" class="mt-8 md:mt-10" />
       <Stats :voies="voies" class="mt-8" />
           </div>
     <div class="max-w-7xl mx-auto mt-14 px-4 sm:px-6 lg:px-8 lg:mt-24">
