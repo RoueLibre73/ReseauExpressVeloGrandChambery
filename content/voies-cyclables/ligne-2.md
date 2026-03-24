@@ -97,13 +97,8 @@ La voie verte se termine quelques dizaines de mètres avant le siège de Grand C
 
 <span style="color:red;font-weight:bold">A améliorer</span> Le jalonnement de la Piste Bleue n°2 a été prolongée au Nord en 2026 sur des bandes cyclables réalisées sur l'avenue des Landiers puis sur la Rue de Belle-Eau, voirie à fort trafic dont de nombreux véhicules utilitaires et poids lourds.
 
-### Liaison Borolan
+A la fin de la Piste Bleue n°2, possibilité pour les cyclistes de rejoindre la voie verte Belle Via et la :line-link{line=1} par la jonction Borolan créée en 2025 puis la rue des Epinettes.
 
-<span style="color:blue;font-weight:bold">Satisfaisant</span> La Piste Bleue n°2 va ensuite rejoindre la voie verte Belle Via et :line-link{line=1} par la jonction Borolan créée en voie verte en 2025.
-
-### Rue des Epinettes
-
-<span style="color:red;font-weight:bold">A améliorer</span> Passage en bandes cyclables montantes au dessus de la Voie Rapide Urbaine pour rejoindre la voie verte Belle Via et :line-link{line=1}.
 
 ## Quelques points noirs de cette ligne
 
