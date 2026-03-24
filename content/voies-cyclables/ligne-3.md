@@ -31,7 +31,8 @@ credit: Roue Libre
 ### Boulevard de la Colonne
 *Rue de Boigne - Boulevard de la Colonne*
 
- <span style="color:red;font-weight:bold">A améliorer</span> Le tracé actuel de cette piste via le bas de la rue piétonne de Boigne et la place des Éléphants engendre des conflits avec les piétons, non compatible avec un réseau cyclable à Haut Niveau de Service. Des bandes cyclables ont été récemment tracées sur le Boulevard de la Colonne. 
+ <span style="color:red;font-weight:bold">A améliorer</span> Le tracé actuel de cette piste via le bas de la rue piétonne de Boigne et la place des Éléphants engendre de nombreux conflits avec les piétons, itinéraire non compatible avec un réseau cyclable à Haut Niveau de Service. 
+ L'itinéraire se poursuit avec des bandes cyclables peu confortables (stationnement réguliers de véhicules) sur le Boulevard de la Colonne.
 
 ::content-image
 ---
@@ -42,7 +43,7 @@ credit: Roue Libre
 ::
 
 ### Rue Favre
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Variante via la rue Favre et la rue Saint Antoine proposée par l'association Roue Libre pour libérer du trafic cyles de transit la zone pietonne de la partie haute de la rue de Boigne, de la place des Eléphants et du Boulevard de la Colonne.
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Variante via la rue Favre et la rue Saint Antoine proposée par l'association Roue Libre pour libérer le trafic cyles de la zone pietonne de la partie basse de la rue de Boigne, de la place des Eléphants et du Boulevard de la Colonne.
 
 ::content-image
 ---
@@ -53,14 +54,14 @@ credit: Roue Libre
 ::
 
 ### Faubourg Reclus
-<span style="color:black;font-weight:bold">Non satisfaisant</span> La Piste traverse le carrefour du centenaire où elle croise la :line-link{line=1} puis emprunte le Faubourg Reclus, sans aménagement.
+<span style="color:black;font-weight:bold">Non satisfaisant</span> La Piste traverse le carrefour du centenaire où elle croise la :line-link{line=1} puis emprunte le Faubourg Reclus, sans aménagement cyclable.
 
 | ![Carrefour du Centenaire](https://rouelibre.net/wp-content/uploads/2026/03/REV3-IMG_2756r.jpg) <br> Section jalonnée non sécurisée <br> *Carrefour du Centenaire - Chambéry*| ![Faubourg Reclus](https://rouelibre.net/wp-content/uploads/2023/02/IMG_8490-768x511.jpg) <br> Section non sécurisée <br> *Faubourg Reclus - Chambéry* |
 |---|---|
 
 
 ### Avenue de Aix les Bains Sud
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Un cheminement des cycles sur le trottoir est actuellement conseillé.
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Un cheminement des cycles sur le trottoir est actuellement conseillé !
 
 ::content-image
 ---
@@ -71,7 +72,7 @@ credit: Roue Libre
 ::
 
 ### Avenue de Aix les Bains Centre
-<span style="color:red;font-weight:bold">À améliorer</span> Les deux bandes cyclables aménagées sur la partie supérieure de l'Avenue d'Aix les Bains ne respectent pas les recommandations du CEREMA en présence d'un trafic automobile supérieur à 9000 véhicules / jour.
+<span style="color:red;font-weight:bold">À améliorer</span> Les deux bandes cyclables aménagées sur la partie supérieure de l'Avenue d'Aix les Bains ne respectent pas les recommandations du CEREMA pour un Réseau Cyclable à Haut Niveau de Service d'un aménagement séparatif avec ici la présence d'un trafic automobile supérieur à 9000 véhicules / jour.
 
 ::content-image
 ---
@@ -89,7 +90,7 @@ credit: Roue Libre
 *Hauts de Chambéry*
 
 <span style="color:red;font-weight:bold">À améliorer</span>
-Présence de bandes cyclables jusqu’à Maison Brûlée, fin du jalonnement de la piste 3. Aménagement à améliorer au vu du trafic routier et de sa vitesse pour répondre aux exigences d'un réseau à Haut Niveau de Service.
+Présence de bandes cyclables jusqu’à Maison Brûlée, fin du jalonnement de la piste 3. Aménagement à améliorer au vu du trafic routier et de sa vitesse pour répondre aux exigences d'un réseau cyclable à Haut Niveau de Service.
 Les bandes cyclables sont prolongées vers Sonnaz et le Viviers-du-Lac sur la D991.
 
 ::content-image
