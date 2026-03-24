@@ -93,7 +93,7 @@ credit: Roue Libre
 
 La voie verte se termine quelques dizaines de mètres avant le siège de Grand Chambéry au niveau du giratoire de la Rue du Nant Bruyant, d'où il est possible de rejoindre la :line-link{line=1} via un aménagement sécurisé et passage au-dessus de la Voie Rapide Urbaine.
 
-### Landiers Nord
+### Avenue des Landiers Nord
 
 <span style="color:red;font-weight:bold">A améliorer</span> Le jalonnement de la Piste Bleue n°2 a été prolongée au Nord en 2026 sur des bandes cyclables réalisées sur l'avenue des Landiers puis sur la Rue de Belle-Eau, voirie à fort trafic dont de nombreux véhicules utilitaires et poids lourds.
 
