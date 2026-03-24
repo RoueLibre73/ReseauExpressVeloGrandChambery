@@ -35,7 +35,7 @@ Lors de cet aménagement, les carrefours n'ont pas été modifiés et les connex
 
 Elle est aménagé avec une piste cyclable bidirectionnelle de 3 à 3,5m de large. Elle croise le départ de la :line-link{line=2} Landiers au niveau du palais de Justice de Chambéry puis celui de la :line-link{line=9} La Motte Servolex au niveau du giratoire de la Poste.
 
-Ce compteur, le plus fréquenté de l'agglo, y a enregistré sur l'année 2025 plus de 890 000 passages (cycles et trotinettes). L'association Roue Libre célebre chaque année, le jour du dépassement lorsque 600 000 passages y sont comptabilisés (jauge de l'ancien compteur remplacé par un compteur 1 000 000 en 2024). [Communiqué. 600 000 passages au compteur du Verney le 6 septembre 2025. Nouveau record!](https://rouelibre.net/2025/09/16/600-000-passage-au-compteur-du-verney-le-6-septembre-2025-nouveau-record/)
+Ce compteur, le plus fréquenté de l'agglo, y a enregistré 4703 passages le jeudi 18 septembre 2025 et plus de 890 000 passages (cycles et trotinettes) sur l'année 2025. L'association Roue Libre célebre chaque année, le jour du dépassement lorsque 600 000 passages y sont comptabilisés (jauge de l'ancien compteur remplacé par un compteur 1 000 000 en 2024). [Communiqué. 600 000 passages au compteur du Verney le 6 septembre 2025. Nouveau record!](https://rouelibre.net/2025/09/16/600-000-passage-au-compteur-du-verney-le-6-septembre-2025-nouveau-record/)
 
 ::content-image
 ---
@@ -62,12 +62,12 @@ credit: Roue Libre
 ::
 
 ### Avenue des Chevaliers Tireurs
-<span style="color:blue;font-weight:bold">Satisfaisant</span> Deux pistes unidirectionnelles.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Deux pistes unidirectionnelles de faible largeur, ne rendant pas possible les dépassements.
 
 ### Voie Verte Nord
 *tronçon de la Belle Via*
 
-<span style="color:blue;font-weight:bold">Satisfaisant</span> Voie verte historique de Grand Chambéry le long de la Leysse, sur les communes de Chambéry puis La Motte Servolex
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Voie verte historique V63 nommée Belle Via depuis 2024, tracée dans les années 80 sur la digue de la Leysse, sur les communes de Chambéry et La Motte Servolex.
 
 ::content-image
 ---
@@ -101,7 +101,7 @@ credit: Roue Libre
 ---
 ::
 
-Son dernier tronçon entre Villarcher (commune de La Motte Servolex) et le lac du Bourget a été réalisé suite à la Vélorution organisée par Roue Libre et une vingtaine d’autres organisations le 21 octobre 1995 (1200 participants). 
+Son dernier tronçon entre Villarcher (commune de La Motte Servolex) et le lac du Bourget a été réalisé suite à la Vélorution, balade festive à vélo, avec 1200 participants, organisée par Roue Libre et une vingtaine d’autres organisations le 21 octobre 1995. 
 
 ::content-image
 ---
@@ -111,7 +111,7 @@ caption: Magazine Roue libre automne hiver 1995 – 1996
 ::
 [Vélorution "Au Lac à vélo en 1996" du 21 octobre 1995](https://rouelibre.net/2021/08/04/21-octobre-1995-velorution-au-lac-a-velo-en-96/)
 
-Le jalonnement de la piste 1 se poursuit ensuite le long de la voie verte belle via jusqu'au Lac du Bourget sur la communauté d'agglomération Grand Lac.
+Le jalonnement de la piste 1 se poursuit ensuite le long de la voie verte belle via jusqu'au Lac du Bourget (commune du Bourget du Lac situé sur la communauté d'agglomération Grand Lac).
 
 ## Quelques points noirs de cette ligne
 

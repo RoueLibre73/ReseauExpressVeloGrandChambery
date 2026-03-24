@@ -5,8 +5,8 @@ lineName: Piste 2 Landiers
 lineNameShort: 2
 from: Chambéry
 to: Chambéry (Landiers)
-description: La Piste Bleue 2 permet de relier le centre ville de Chambéry à la zone des Landiers Sud via la gare de Chambéry.
-trafic: 560 vélos/jour
+description: La Piste Bleue 2 permet de relier le centre ville de Chambéry à la zone des Landiers Nord via la gare de Chambéry.
+trafic: 680 vélos/jour
 cover: https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_3959.jpg
 ---
 
@@ -34,15 +34,15 @@ credit: Roue Libre
 ---
 ::
 
-Il est possible de rejoindre le Parc d'apprentissage vélo nommé :line-link{line=O} dans cet observatoire, parc situé au milieu de la résidence du Paradis. 
+Il est possible de rejoindre le Parc d'apprentissage vélo numéroté :line-link{line=O} dans cet observatoire, parc situé au milieu de la résidence du Paradis. 
 
 
 ### Avenue de la Boisse Sud
-<span style="color:red;font-weight:bold">A améliorer</span> De la gare de Chambéry, la piste se poursuit sur l'avenue de la Boisse en voie verte tracée sur le trottoir jusqu'à la jonction vers la Cassine / Vetrotex. Ce trottoir mixte piétons cycles n'est pas adapté aux flux de déplacements.
+<span style="color:red;font-weight:bold">A améliorer</span> De la gare de Chambéry, la piste se poursuit sur l'avenue de la Boisse en voie verte dessinée sur le trottoir jusqu'à la passerelle d'accès au nouveau quartier Vetrotex et au souterain de liaison vers le quartier de la Cassine. Ce trottoir d'accès à la gare jalonné en mixté piétons cycles ne correspond pas au standart attendu d'un réseau cyclable structurant.
 
 ### Avenue de la Boisse Nord
 
-<span style="color:blue;font-weight:bold">Satisfaisant</span> La piste se en voie verte sur l'avenue de la Boisse puis passe sous la VRU (Voie Rapide Urbaine) au niveau du Pont des chèvres.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> La voie verte se poursuit, toujours sur l'avenue de la Boisse, puis passe sous la VRU (Voie Rapide Urbaine) au niveau du Pont des chèvres.
 
 ::content-image
 ---
@@ -53,13 +53,13 @@ credit: Roue Libre
 ::
 
 ::banner{type="info"}
-Passerelle Vetrotex. En mars 2021, lors de l’inauguration de la nouvelle passerelle Vetrotex, Roue Libre a adressé un courrier à la Mairie de Chambéry pour demander la mise en place d’une connexion cyclable continue, cohérente et sécurisée avec les quartiers Cassine et Vétrotex. Sans aménagement satisfaisant observé à ce jour. <a href="https://rouelibre.net/wp-content/uploads/2023/05/2021-03-Courrier-RL-a-Chambery.-Liaison-Vetrotex-Cassine-BAT.pdf/" target="_blank">Courrier du 9 mars 2021</a>
+Passerelle Vetrotex. En mars 2021, lors de l’inauguration de la nouvelle passerelle Vetrotex, Roue Libre a adressé un courrier à la Mairie de Chambéry pour demander la mise en place d’une connexion cyclable continue, cohérente et sécurisée avec les quartiers Cassine et Vétrotex. Sans aménagements satisfaisants réalisées à ce jour. <a href="https://rouelibre.net/wp-content/uploads/2023/05/2021-03-Courrier-RL-a-Chambery.-Liaison-Vetrotex-Cassine-BAT.pdf/" target="_blank">Courrier du 9 mars 2021</a>
 ::
 
 ### Passage à niveau
 
-<span style="color:red;font-weight:bold">À améliorer</span> Bandes cyclables mixte avec la circulation des piétons.
-Les traversées cyclables et jonctions avec la voie verte de la Boisse et la voie verte des Landiers ne sont pas satisfaisantes. La manoeuvre pour rejoindre la voie verte des Landiers est particulièrement dangereuse.
+<span style="color:red;font-weight:bold">À améliorer</span> Bandes cyclables piétons - cycles non sécurisées.
+La jonction entre la voie verte de la Boisse et la voie verte des Landiers n'est pas satisfaisante pour les cycles. La manoeuvre pour rejoindre la voie verte des Landiers est particulièrement dangereuse.
 
 ::content-image
 ---
@@ -71,14 +71,14 @@ credit: Roue Libre
 
 ### Avenue des Landiers
 
-<span style="color:blue;font-weight:bold">Satisfaisant</span> La voie verte est continue du passage à niveau au carrefour du Nant Bruyant. Une bande cyclable jalonnée est également présente sur la chaussée dans le sens Sud-Nord.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Une voie verte relie le passage à niveau de l'avenue des landiers au carrefour du Nant Bruyant. Une bande cyclable jalonnée est également présente sur la chaussée dans le sens Sud-Nord.
 
 | ![Avenue des Landiers](https://rouelibre.net/wp-content/uploads/2024/11/REV2-IMG_4019.jpg) <br> *Piste bidirectionnelle* <br> Avenue des Landiers - Chambéry| ![Avenue des Landiers](https://rouelibre.net/wp-content/uploads/2026/03/REV2-IMG_2783r.jpg) <br> *Bande cyclable en parallèle de la piste* <br> Avenue des Landiers - Chambéry |
 |---|---|
 
 
 ::banner{type="unsecured"}
-Les traversées des carrefours et des sorties de commerces sont matérialisées par un simple marquage au sol. Des véhicules sont régulièrement stationnés sur la piste et apportent de la boue sur certaines portions.
+Les traversées des carrefours et des sorties de commerces sont matérialisées par un simple marquage au sol. Des véhicules sont régulièrement stationnés sur la piste et déposent de la boue sur ce tronçon.
 
 Et le passage non sécurisé à contresens du rond point Landiers Sud (Carrefour, Boulanger...) reste un point noir pour les cyclistes.
 ::
