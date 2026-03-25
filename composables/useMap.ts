@@ -309,13 +309,14 @@ map.addLayer({
   minzoom: 10, // la couche apparaît à partir du zoom 10
   layout: {
     'icon-image': 'pump-icon',
-    // 'icon-size' varie avec le zoom : de 0 à 0.8 entre zoom 10 et 15
+    // 'icon-size' varie avec le zoom : de 0 à 1 entre zoom 10 et 15
     'icon-size': [
       'interpolate',
       ['linear'],
       ['zoom'],
-      10, 0.5,   // à zoom 10 -> taille 0.5
-      15, 1.0    // à zoom 15 -> taille 1.0
+      10, 0,   // invisible à zoom 10
+      12, 0.5, // commence à apparaître
+      15, 1.0  // pleine taille à zoom 15
     ],
     'icon-offset': [0, 0],
     'icon-allow-overlap': true,
