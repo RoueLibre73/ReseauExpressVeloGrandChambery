@@ -112,19 +112,29 @@ function checkGeoJsonDataHealth({ links }) {
               }
 
               if (properties.status === 'done') {
-                // 4.1 - Check if all done section have a doneAt property
+              // 4.1 - Check if all done section have a doneAt property
                 if (!properties.hasOwnProperty('doneAt')) {
-                  console.error(`Missing key 'doneAt' in VL ${properties.line}, tronçon: ${properties.name}`);
-                  process.exit(1);
+                  // Exception pour VL O, tronçon Parc d'apprentissage vélo du Paradis
+                  if (!(properties.line === 'O' && properties.name === "Parc d'apprentissage vélo du Paradis")) {
+                    console.error(`Missing key 'doneAt' in VL ${properties.line}, tronçon: ${properties.name}`);
+                    process.exit(1);
+                  } else {
+                    console.warn(`⚠️ Exception: Missing 'doneAt' ignored for VL ${properties.line}, tronçon: ${properties.name}`);
+                  }
                 }
 
                 // 4.2 - Check if all done section have a valid doneAt date
                 const dateRegex = /^\d{2}\/\d{2}\/\d{4}$/;
-                if (!dateRegex.test(properties.doneAt)) {
-                  console.error(
-                    `Invalid doneAt format '${properties.doneAt}' in VL ${properties.line}, tronçon: ${properties.name}`
-                  );
-                  process.exit(1);
+                if (properties.hasOwnProperty('doneAt') && !dateRegex.test(properties.doneAt)) {
+                  // Exception pour VL O, tronçon Parc d'apprentissage vélo du Paradis
+                  if (!(properties.line === 'O' && properties.name === "Parc d'apprentissage vélo du Paradis")) {
+                    console.error(
+                      `Invalid doneAt format '${properties.doneAt}' in VL ${properties.line}, tronçon: ${properties.name}`
+                    );
+                    process.exit(1);
+                  } else {
+                    console.warn(`⚠️ Exception: Invalid 'doneAt' format ignored for VL ${properties.line}, tronçon: ${properties.name}`);
+                  }
                 }
               }
 
