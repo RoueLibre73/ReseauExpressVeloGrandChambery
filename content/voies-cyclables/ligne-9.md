@@ -111,7 +111,7 @@ credit: Roue Libre
 ::
 
 ### Résidence Sainte Anne
-<span style="color:red;font-weight:bold">A améliorer</span> Ancienne voie verte sinueuse et avec de nombreuses traversées routières non sécurisées
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Voie verte historique assez sinueuse
 
 ::content-image
 ---
