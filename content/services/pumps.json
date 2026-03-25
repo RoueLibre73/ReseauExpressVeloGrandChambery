@@ -5,20 +5,6 @@
       "type": "Feature",
       "properties": {
         "type": "pump",
-        "id": 368988925,
-        "name": "Place Caffe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.919604334736249, 45.56387984261352
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "pump",
         "id": 1480228037,
         "name": "Cycle Service"
       },
