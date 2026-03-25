@@ -303,8 +303,20 @@ export const useMap = () => {
       return;
     }
 map.addLayer({
+      id: 'pumps',
+      source: 'pumps',
+      type: 'circle',
+        minzoom: 10,
+  paint: {
+    'circle-radius': 15,        // taille du cercle
+    'circle-color': '#4CAF50',  // cercle vert
+    'circle-stroke-color': '#ffffff', // contour blanc
+    'circle-stroke-width': 3
+      }
+      });
+  map.addLayer({
   id: 'pumps',
-  source: 'pumps',
+  source: 'pumps',   
   type: 'symbol',
   minzoom: 10, // la couche apparaît à partir du zoom 10
   layout: {
@@ -323,7 +335,7 @@ map.addLayer({
     'icon-ignore-placement': true
   },
   paint: {
-    'icon-color': '#4A6FA5'
+    'icon-color': '#394658'
   }
 });
   }
