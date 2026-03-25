@@ -307,9 +307,25 @@ export const useMap = () => {
       source: 'pumps',
       type: 'symbol',
       layout: {
-        'icon-image': 'pump-icon',
-        'icon-size': 0.5,
-        'icon-offset': [-25, -25],
+    'icon-image': 'pump-icon',
+    'icon-allow-overlap': true,
+
+    'icon-size': [
+      'interpolate',
+      ['exponential', 1.5],
+      ['zoom'],
+      3, 0.08,
+      6, 0.1,
+      8.5, 0.03,
+      10, 0.1,
+      12, 0.3,
+      14, 0.7,
+      16, 1.1,
+      18, 1.3
+    ],
+
+    'icon-offset': [0, 0]
+  },
         'icon-allow-overlap': true,
         'icon-ignore-placement': true
       },
