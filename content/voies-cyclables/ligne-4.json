@@ -46,20 +46,6 @@
         }
       },
       {
-      "type": "Feature",
-      "properties": {
-        "type": "pump",
-        "name": "Carrefour de la Trousse - Saint-Alban-Leysse",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "4",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV4-PUMP-GC_151018_BD.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [5.958520540629536, 45.57232149611286]
-      }
-    },
-      {
         "type": "Feature",
         "properties": {
           "line": "4",

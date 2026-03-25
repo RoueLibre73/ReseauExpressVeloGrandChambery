@@ -31,20 +31,6 @@
         }
       },
       {
-      "type": "Feature",
-      "properties": {
-        "type": "pump",
-        "name": "Place du Forum",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "3",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV-3-PUMP-Grand-Chambery-GC_151002_BD.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [5.919125028764313, 45.5926445284596]
-      }
-    },
-      {
         "type": "Feature",
         "properties": {
           "line": "3",

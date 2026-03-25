@@ -16,34 +16,6 @@
         }
       },
       {
-      "type": "Feature",
-      "properties": {
-        "type": "pump",
-        "name": "Espace culturel Jean Blanc - La Ravoire ",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "5",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV5-PUM-Grand-Chambery-_151003_BD.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [5.96437026730564, 45.55869001179104]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "pump",
-        "name": "Pont de la Villette - La Ravoire ",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "5",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV-5-PUMP-Grand-Chambery_151006_BD.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [5.95419707205096, 45.554325597729985]
-      }
-    },
-      {
         "type": "Feature",
         "properties": {
           "line": "5",
