@@ -310,18 +310,17 @@ export const useMap = () => {
     'icon-image': 'pump-icon',
     'icon-allow-overlap': true,
 
-    'icon-size': [
-      'interpolate',
-      ['exponential', 1.5],
-      ['zoom'],
-      3, 0.08,
-      6, 0.1,
-      8.5, 0.03,
-      10, 0.1,
-      12, 0.3,
-      14, 0.7,
-      16, 1.1,
-      18, 1.3
+  map.setLayoutProperty('pumps', 'icon-size', [
+  'interpolate',
+  ['exponential', 1.5],
+  ['zoom'],
+  3, 0.04,
+  6, 0.06,
+  10, 0.08,
+  12, 0.2,
+  14, 0.4,
+  16, 0.75,
+  18, 0.95
     ],
 
     'icon-offset': [0, 0]
