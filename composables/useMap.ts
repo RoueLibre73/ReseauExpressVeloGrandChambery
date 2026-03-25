@@ -302,21 +302,29 @@ export const useMap = () => {
     if (upsertMapSource(map, 'pumps', pumps)) {
       return;
     }
-    map.addLayer({
-      id: 'pumps',
-      source: 'pumps',
-      type: 'symbol',
-      layout: {
-        'icon-image': 'pump-icon',
-        'icon-size': 0.5,
-        'icon-offset': [0, 0]
-        'icon-allow-overlap': true,
-        'icon-ignore-placement': true
-      },
-      paint: {
-        'icon-color': '#4A6FA5'
-      }
-    });
+map.addLayer({
+  id: 'pumps',
+  source: 'pumps',
+  type: 'symbol',
+  minzoom: 10, // la couche apparaît à partir du zoom 10
+  layout: {
+    'icon-image': 'pump-icon',
+    // 'icon-size' varie avec le zoom : de 0 à 0.8 entre zoom 10 et 15
+    'icon-size': [
+      'interpolate',
+      ['linear'],
+      ['zoom'],
+      10, 0.5,   // à zoom 10 -> taille 0.5
+      15, 1.0    // à zoom 15 -> taille 1.0
+    ],
+    'icon-offset': [0, 0],
+    'icon-allow-overlap': true,
+    'icon-ignore-placement': true
+  },
+  paint: {
+    'icon-color': '#4A6FA5'
+  }
+});
   }
 
   function plotCompteurs({ map, features }: { map: Map; features: Feature[] }) {
