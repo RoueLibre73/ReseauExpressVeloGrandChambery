@@ -34,7 +34,7 @@
       "type": "Feature",
       "properties": {
         "type": "pump",
-        "name": "Place du Forum - Hauts de Chambéry",
+        "name": "Place du Forum",
         "danger": "pompe, pied d'atelier et de réparation libre service",
         "line": "3",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV-3-PUMP-Grand-Chambery-GC_151002_BD.jpg"
