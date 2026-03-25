@@ -1,7 +1,6 @@
 {
     "type": "FeatureCollection",
     "features": [
-
       {
         "type": "Feature",
         "properties": {
@@ -58,6 +57,20 @@
           "coordinates": [5.94861725991359, 45.557626229338865]
         }
       },
+      {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "name": "Place Paul Chevallier",
+        "danger": "pompe, pied d'atelier et de réparation libre service",
+        "line": "7",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV7-PUMP-IMG_2762.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.934402182162927, 45.56603180501793]
+      }
+    },
       {
     "type": "Feature",
     "properties": {
