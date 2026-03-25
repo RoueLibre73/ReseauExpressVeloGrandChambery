@@ -330,7 +330,7 @@ export const useMap = () => {
         'icon-ignore-placement': true
       },
       paint: {
-        'icon-color': '#152B68'
+        'icon-color': '#4A6FA5'
       }
     });
   }
