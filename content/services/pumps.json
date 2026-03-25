@@ -19,10 +19,8 @@
       "type": "Feature",
       "properties": {
         "type": "pump",
-        "name": "Carrefour de la Trousse - Saint-Alban-Leysse",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "4",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV4-PUMP-GC_151018_BD.jpg"
+        "id": 368988921,
+        "name": "Carrefour de la Trousse - Saint-Alban-Leysse"
       },
       "geometry": {
         "type": "Point",
@@ -33,10 +31,7 @@
       "type": "Feature",
       "properties": {
         "type": "pump",
-        "name": "Palais de justice- Chambery",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "1",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV4-PUMP-GC_151018_BD.jpg"
+        "name": "Palais de justice- Chambery"
       },
       "geometry": {
         "type": "Point",
@@ -47,10 +42,7 @@
       "type": "Feature",
       "properties": {
         "type": "pump",
-        "name": "Place du Forum",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "3",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV-3-PUMP-Grand-Chambery-GC_151002_BD.jpg"
+        "name": "Place du Forum"
       },
       "geometry": {
         "type": "Point",
@@ -61,10 +53,7 @@
       "type": "Feature",
       "properties": {
         "type": "pump",
-        "name": "Espace culturel Jean Blanc - La Ravoire ",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "5",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV5-PUM-Grand-Chambery-_151003_BD.jpg"
+        "name": "Espace culturel Jean Blanc - La Ravoire "
       },
       "geometry": {
         "type": "Point",
@@ -75,10 +64,7 @@
       "type": "Feature",
       "properties": {
         "type": "pump",
-        "name": "Pont de la Villette - La Ravoire ",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "5",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV-5-PUMP-Grand-Chambery_151006_BD.jpg"
+        "name": "Pont de la Villette - La Ravoire "
       },
       "geometry": {
         "type": "Point",
@@ -89,10 +75,7 @@
       "type": "Feature",
       "properties": {
         "type": "pump",
-        "name": "Place Ecole Louis Pergaud - La Motte Servolex ",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "9",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV9-PUMP-phot-Grand-Chambery_151011_BD.jpg"
+        "name": "Place Ecole Louis Pergaud - La Motte Servolex "
       },
       "geometry": {
         "type": "Point",
@@ -103,10 +86,7 @@
       "type": "Feature",
       "properties": {
         "type": "pump",
-        "name": "Place Paul Chevallier",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "7",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV7-PUMP-IMG_2762.jpg"
+        "name": "Place Paul Chevallier"
       },
       "geometry": {
         "type": "Point",
@@ -117,10 +97,7 @@
       "type": "Feature",
       "properties": {
         "type": "pump",
-        "name": "Place Caffe",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "8",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV8-IMG_2401r.jpg"
+        "name": "Place Caffe"
       },
       "geometry": {
         "type": "Point",
