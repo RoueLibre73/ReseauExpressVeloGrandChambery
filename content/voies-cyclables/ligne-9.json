@@ -36,6 +36,20 @@
       }
     },
     {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "name": "Place Ecole Louis Pergaud - La Motte Servolex ",
+        "danger": "pompe, pied d'atelier et de réparation libre service",
+        "line": "9",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV9-PUMP-phot-Grand-Chambery_151011_BD.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.875999073919189, 45.59743733718423]
+      }
+    },
+    {
   "type": "Feature",
   "properties": {
     "line": "9",
