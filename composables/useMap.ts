@@ -309,7 +309,9 @@ export const useMap = () => {
       layout: {
         'icon-image': 'pump-icon',
         'icon-size': 0.5,
-        'icon-offset': [-25, -25]
+        'icon-offset': [-25, -25],
+        'icon-allow-overlap': true,
+        'icon-ignore-placement': true
       },
       paint: {
         'icon-color': '#152B68'
