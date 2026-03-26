@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "type": "danger",
-        "name": "Place Caffe",
+        "name": "Giratoire Caffe",
         "danger": "Giratoire non sécurisé",
         "line": "8",
         "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV8-IMG_59231.jpg"
@@ -92,7 +92,7 @@
         "name": "Place Caffe",
         "danger": "pompe, pied d'atelier et de réparation libre service",
         "line": "8",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV8-IMG_2401r.jpg"
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV8-PUMP-IMG_2363.jpg"
       },
       "geometry": {
         "type": "Point",
