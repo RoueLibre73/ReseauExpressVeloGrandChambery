@@ -314,9 +314,14 @@ map.addLayer({
       'interpolate',
       ['linear'],
       ['zoom'],
-      10, 0,   // invisible à zoom 10
-      12, 0.5, // commence à apparaître
-      15, 1.0  // pleine taille à zoom 15
+        3, 0.08,      // monde
+        6, 0.1,       // pays
+        8.5, 0.03,    // 🏘️ communal → minuscule
+        10, 0.1,     // commence à apparaître
+        12, 0.3,
+        14, 0.7,
+        16, 1.1,
+        18, 1.3
     ],
     'icon-offset': [0, 0],
     'icon-allow-overlap': true,
