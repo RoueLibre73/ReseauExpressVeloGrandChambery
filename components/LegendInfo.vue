@@ -63,6 +63,12 @@
           </div>
           <div>non balisée</div>
 
+              <div class="flex items-center gap-2">
+                <img src="/icons/pump.png" alt="terminé" class="h-5 w-5 object-contain" />
+                <div class="flex items-center gap-2 w-max">
+                <div>pied d'atelier libre service </div>
+              </div>
+
             </div>
           </div>
 
@@ -113,7 +119,8 @@
 
               <div class="flex items-center gap-2">
                 <img src="/icons/pump.png" alt="terminé" class="h-5 w-5 object-contain" />
-                <div>pied d'atelier</div>
+                <div class="flex items-center gap-2 w-max">
+                <div>pied d'atelier libre service </div>
               </div>
 
             </div>
@@ -163,6 +170,12 @@
               </div>
               <div>
                 aucun
+              </div>
+
+              <div class="flex items-center gap-2">
+                <img src="/icons/pump.png" alt="terminé" class="h-5 w-5 object-contain" />
+                <div class="flex items-center gap-2 w-max">
+                <div>pied d'atelier libre service </div>
               </div>
 
             </div>
