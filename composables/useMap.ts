@@ -322,9 +322,6 @@ map.addLayer({
     'icon-allow-overlap': true,
     'icon-ignore-placement': true
   },
-  paint: {
-    'icon-color': '#394658'
-  }
 });
   }
 
