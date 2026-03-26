@@ -486,7 +486,7 @@ map.addLayer({
           const feature = features.find(f => f.properties.name === mapFeature.properties.name);
           return { feature };
         },
-        component: DangerTooltip
+        component: PumpTooltip
       },
       {
         id: 'perspectives',
