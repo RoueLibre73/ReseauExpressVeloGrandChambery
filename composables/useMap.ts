@@ -307,7 +307,7 @@ map.addLayer({
       id: 'pumps',
       source: 'pumps',
       type: 'symbol',
-      minzoom: 12, // la couche apparaît à partir du zoom 12
+      minzoom: 10, // la couche apparaît à partir du zoom 10
       layout: {
     'icon-image': 'pump-icon',
     // 'icon-size' varie avec le zoom : de 0 à 1 entre zoom 10 et 15
