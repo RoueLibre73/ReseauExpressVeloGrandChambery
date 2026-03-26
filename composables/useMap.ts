@@ -120,7 +120,7 @@ export const useMap = () => {
     map.addImage('camera-icon', camera.data, { sdf: true });
 
     const pump = await map.loadImage('/icons/pump.png');
-    map.addImage('pump-icon', pump.data, { sdf: true });
+    map.addImage('pump-icon', pump.data, { sdf: false });
 
     const danger = await map.loadImage('/icons/danger.png');
     map.addImage('danger-icon', danger.data, { sdf: false });
