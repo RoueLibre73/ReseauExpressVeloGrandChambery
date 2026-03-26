@@ -8,6 +8,7 @@ import { ref } from 'vue';
 import PerspectiveTooltip from '~/components/tooltips/PerspectiveTooltip.vue';
 import CounterTooltip from '~/components/tooltips/CounterTooltip.vue';
 import DangerTooltip from '~/components/tooltips/DangerTooltip.vue';
+import PumpTooltip from '~/components/tooltips/PumpTooltip.vue';
 import LineTooltip from '~/components/tooltips/LineTooltip.vue';
 
 type ColoredLineStringFeature = LineStringFeature & { properties: { color: string } };
@@ -468,6 +469,20 @@ map.addLayer({
         },
         getTooltipProps: () => {
           const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['dangers'] })[0];
+          const feature = features.find(f => f.properties.name === mapFeature.properties.name);
+          return { feature };
+        },
+        component: DangerTooltip
+      },
+            {
+        id: 'pump',
+        isClicked: () => {
+          if (!map.getLayer('pumps')) { return false; }
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['pumps'] });
+          return mapFeature.length > 0;
+        },
+        getTooltipProps: () => {
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['pumps'] })[0];
           const feature = features.find(f => f.properties.name === mapFeature.properties.name);
           return { feature };
         },
