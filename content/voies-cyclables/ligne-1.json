@@ -58,6 +58,20 @@
         "coordinates": [5.873706510352406, 45.62802713698596]
       }
     },
+          {
+    "type": "Feature",
+    "properties": {
+              "type": "pump",
+        "name": "Palais de justice",
+        "danger": "pompe, pied d'atelier et de réparation libre service",
+        "line": "1",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV7-PUMP-IMG_2762.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.9190537664114515, 45.568702343798265]
+      }
+    },
     {
   "type": "Feature",
   "properties": {
