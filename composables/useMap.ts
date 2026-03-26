@@ -305,21 +305,9 @@ export const useMap = () => {
 map.addLayer({
       id: 'pumps',
       source: 'pumps',
-      type: 'circle',
-        minzoom: 12,
-  paint: {
-    'circle-radius': 12,        // taille du cercle
-    'circle-color': '#458ae4',  // cercle bleu
-    'circle-stroke-color': '#ffffff', // contour blanc
-    'circle-stroke-width': 3
-      }
-      });
-  map.addLayer({
-  id: 'pumps',
-  source: 'pumps',   
-  type: 'symbol',
-  minzoom: 12, // la couche apparaît à partir du zoom 12
-  layout: {
+      type: 'symbol',
+      minzoom: 12, // la couche apparaît à partir du zoom 12
+      layout: {
     'icon-image': 'pump-icon',
     // 'icon-size' varie avec le zoom : de 0 à 1 entre zoom 10 et 15
     'icon-size': [
