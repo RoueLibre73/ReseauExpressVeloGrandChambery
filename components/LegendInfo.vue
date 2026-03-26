@@ -121,14 +121,18 @@
                 souhaité
               </div>
 
-            <div class="flex items-center gap-2 bg-gray-100 rounded-md px-2 py-1 w-fit">
-              <img src="/icons/danger.png" class="h-4 w-4" />
-              <span class="text-sm">points noirs</span>
+              <div class="flex items-center gap-2">
+              <img src="/icons/danger.png" class="h-5 w-5 flex-shrink-0" />
+              <span class="whitespace-nowrap text-sm text-gray-700">
+                points noirs
+              </span>
             </div>
 
-            <div class="flex items-center gap-2 bg-gray-100 rounded-md px-2 py-1 w-fit">
-              <img src="/icons/pump.png" class="h-4 w-4" />
-              <span class="text-sm">pieds d'atelier</span>
+            <div class="flex items-center gap-2">
+              <img src="/icons/pump.png" class="h-5 w-5 flex-shrink-0" />
+              <span class="whitespace-nowrap text-sm text-gray-700">
+                pieds d'atelier
+              </span>
             </div>
 
             </div>
