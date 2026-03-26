@@ -65,12 +65,12 @@
 
               <div class="flex items-center gap-2">
                 <img src="/icons/danger.png" alt="terminé" class="h-5 w-5 object-contain" />
-                <div class="whitespace-nowrap flex-shrink-0">point noir</div>
+                <div class="whitespace-nowrap flex-shrink-0">points noirs</div>
               </div>
-              
+
               <div class="flex items-center gap-2">
                 <img src="/icons/pump.png" alt="terminé" class="h-5 w-5 object-contain" />
-                <div class="whitespace-nowrap flex-shrink-0">pied d'atelier</div>
+                <div class="whitespace-nowrap flex-shrink-0">pieds d'atelier</div>
               </div>
 
             </div>
@@ -121,15 +121,15 @@
                 souhaité
               </div>
 
-              <div class="flex items-center gap-2">
-                <img src="/icons/danger.png" alt="terminé" class="h-5 w-5 object-contain" />
-                <div class="whitespace-nowrap flex-shrink-0">point noir</div>
-              </div>
+            <div class="flex items-center gap-2 bg-gray-100 rounded-md px-2 py-1 w-fit">
+              <img src="/icons/danger.png" class="h-4 w-4" />
+              <span class="text-sm">points noirs</span>
+            </div>
 
-              <div class="flex items-center gap-2">
-                <img src="/icons/pump.png" alt="terminé" class="h-5 w-5 object-contain" />
-                <div class="whitespace-nowrap flex-shrink-0">pied d'atelier</div>
-              </div>
+            <div class="flex items-center gap-2 bg-gray-100 rounded-md px-2 py-1 w-fit">
+              <img src="/icons/pump.png" class="h-4 w-4" />
+              <span class="text-sm">pieds d'atelier</span>
+            </div>
 
             </div>
           </div>
