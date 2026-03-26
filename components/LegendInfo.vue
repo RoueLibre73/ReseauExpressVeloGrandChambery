@@ -63,6 +63,11 @@
           </div>
           <div>non balisée</div>
 
+              <div class="flex items-center gap-2">
+                <img src="/icons/pump.png" alt="terminé" class="h-5 w-5 object-contain" />
+                <div class="whitespace-nowrap flex-shrink-0">pied d'atelier</div>
+              </div>
+              
             </div>
           </div>
 
