@@ -134,5 +134,5 @@ credit: Roue Libre
 
 ## Quelques points noirs sur cette ligne
 
-| ![Rond Point du stade](https://rouelibre.net/wp-content/uploads/2024/06/IMG_1096-300x225.jpg) <br>  Circulation des cycles non sécurisée sur l'anneau routier <br>  *Rond Point du stade - Chambéry* | ![Carrefour route de l'Epine](https://rouelibre.net/wp-content/uploads/2025/02/REV9-IMG_6301.jpg) <br> Traversée non sécurisée <br> *Carrefour route de l'Epine- Chambéry* |
+| ![Rond Point du stade](https://rouelibre.net/wp-content/uploads/2024/06/IMG_1096.jpg) <br>  Circulation des cycles non sécurisée sur l'anneau routier <br>  *Rond Point du stade - Chambéry* | ![Carrefour route de l'Epine](https://rouelibre.net/wp-content/uploads/2025/02/REV9-IMG_6301.jpg) <br> Traversée non sécurisée <br> *Carrefour route de l'Epine- Chambéry* |
 |---|---|
