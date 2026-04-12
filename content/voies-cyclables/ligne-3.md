@@ -103,7 +103,7 @@ credit: Roue Libre
 
 ## Quelques points noirs sur cette ligne
 
-| ![Carrefour de la Sasson](https://rouelibre.net/wp-content/uploads/2025/01/REV3-IMG_8904.jpg) <br> ⚫ Traversée non sécurisée <br> *Carrefour de la Sasson - Chambéry*| ![Boulevard de la colonne](https://rouelibre.net/wp-content/uploads/2026/04/IMG_2884.jpg) <br> ⚫ Stationnements fréquents sur le double sens cyclable <br> Boulevard de la colonne - Chambéry |
+| ![Carrefour du Centenaire](https://rouelibre.net/wp-content/uploads/2025/01/REV3-IMG_8904.jpg) <br> ⚫ Discontinuité pour les cycles <br> *Carrefour du Centenaire - Chambéry*| ![Boulevard de la colonne](https://rouelibre.net/wp-content/uploads/2026/04/IMG_2884.jpg) <br> ⚫ Stationnements fréquents sur le double sens cyclable <br> Boulevard de la colonne - Chambéry |
 |---|---|
 
 | ![Avenue d'Aix les Bains](https://rouelibre.net/wp-content/uploads/2024/11/Piste-3-1r.jpg) <br> ⚫ Traversée non sécurisée <br> *Avenue d'Aix les Bains - Chambéry*| ![Avenue d'Aix les Bains](https://rouelibre.net/wp-content/uploads/2026/04/IMG_3332.jpg) <br> ⚫ Avaloir en contrebas de la chaussée sur la bande cyclable <br> Avenue d'Aix les Bains - Chambéry |
