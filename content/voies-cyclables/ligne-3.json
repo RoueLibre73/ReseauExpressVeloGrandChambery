@@ -47,14 +47,14 @@
         "type": "Feature",
         "properties": {
           "type": "danger",
-          "name": "Carrefour de la Sasson",
-          "danger": "Traversée non sécurisée",
+          "name": "Carrefour du centenaire",
+          "danger": "Discontinuité pour les cycles",
           "line": "3",
           "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/01/REV3-IMG_8904.jpg"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [5.921412557236351, 45.5683772569177]
+          "coordinates": [5.921416811351605, 45.568534908525265]
         }
       },
       {
