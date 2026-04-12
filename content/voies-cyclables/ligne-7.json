@@ -19,6 +19,20 @@
             "type": "Feature",
             "properties": {
               "type": "danger",
+              "name": "Quai de la Rize",
+              "danger": "Avaloirs en contrebas de la chaussée sur le double sens cyclable",
+              "line": "7",
+              "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/04/IMG_3313.jpg"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [5.931516036645178, 45.56743630595207]
+            }
+          },
+      {
+            "type": "Feature",
+            "properties": {
+              "type": "danger",
               "name": "Giratoire Paul Chevalier",
               "danger": "Giratoire non sécurisé",
               "line": "7",
@@ -28,7 +42,7 @@
               "type": "Point",
               "coordinates": [5.9344862602858655, 45.565996965545025]
             }
-          },
+          },          
       {
         "type": "Feature",
         "properties": {
@@ -41,20 +55,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [5.929719552199174,45.56720755356375]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "type": "danger",
-          "name": "Route d'Apremont",
-          "danger": "Traversée pietons cycles à mieux sécurisée",
-          "line": "7",
-          "imgUrl": "https://rouelibre.net/wp-content/uploads/2025/02/REV-IMG_4173.jpg"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [5.94861725991359, 45.557626229338865]
         }
       },
       {

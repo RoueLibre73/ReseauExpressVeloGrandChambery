@@ -118,8 +118,8 @@ La voie verte se termine sur la commune de Saint Jeoire Prieuré, le jalonnement
 
 ## Quelques points noirs sur cette ligne
 
-| ![Carrefour de la Libération](https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4257.jpg) <br> Jonction au Pont des Amours non aménagée <br>  *Carrefour de la Libération - Chambéry* | ![Giratoire Paul Chevalier](https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4206.jpg) <br> Giratoire non sécurisé <br> *Giratoire Paul Chevalier - Chambéry* |
+| ![Carrefour de la Libération](https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4257.jpg) <br> Jonction au Pont des Amours non aménagée <br>  *Carrefour de la Libération - Chambéry* | ![Quai de la Rize](https://rouelibre.net/wp-content/uploads/2026/04/IMG_3313.jpg) <br> Avaloirs en contrebas de la chaussée sur le double sens cyclable <br>  *Quai de la Rize - Chambéry* |
 |---|---|
 
-| ![Pont des Carmes](https://rouelibre.net/wp-content/uploads/2026/02/IMG_1955r.jpg) <br> Aucun aménagement pour les cycles <br>  *Pont des Carmes - Chambéry* | ![Route d'Apremont](https://rouelibre.net/wp-content/uploads/2025/02/REV-IMG_4173.jpg) <br> Traversée pietons cycles à mieux sécurisée <br> *Route d'Apremont - La Ravoire* |
+| ![Pont des Carmes](https://rouelibre.net/wp-content/uploads/2026/02/IMG_1955r.jpg) <br> Aucun aménagement pour les cycles <br>  *Pont des Carmes - Chambéry* | ![Giratoire Paul Chevalier](https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4206.jpg) <br> Giratoire non sécurisé <br> *Giratoire Paul Chevalier - Chambéry* |
 |---|---|
