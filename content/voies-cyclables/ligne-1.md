@@ -115,8 +115,8 @@ Le jalonnement de la piste 1 se poursuit ensuite le long de la voie verte belle 
 
 ## Quelques points noirs de cette ligne
 
-| ![Sasson - Chambéry](https://rouelibre.net/wp-content/uploads/2026/02/IMG_4523r.jpg) <br> Conflits piétons-cycles <br> *Sasson - Chambéry*| ![Quai des Allobroges - Chambéry](https://rouelibre.net/wp-content/uploads/2024/11/REV.-Quai-Allobroges.jpg) <br> Traversée cycles non sécurisée <br> *Quai des Allobroges - Chambéry*|
+| ![Sasson - Chambéry](https://rouelibre.net/wp-content/uploads/2026/02/IMG_4523r.jpg) <br> ⚫ Conflits piétons-cycles <br> *Sasson - Chambéry*| ![Quai des Allobroges - Chambéry](https://rouelibre.net/wp-content/uploads/2024/11/REV.-Quai-Allobroges.jpg) <br> ⚫ Traversée des cycles non sécurisée <br> *Quai des Allobroges - Chambéry*|
 |---|---|
 
-| ![Route de l'école du Tremblay - La Motte Servolex](https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_2208.jpg) <br> Traversée non sécurisée <br> *Route de l'école du Tremblay - La Motte Servolex*| ![Jonction Villarcher](https://rouelibre.net/wp-content/uploads/2026/03/REV1-Villarcher-Google-Maps.jpg) <br> Jonction Villarcher non sécurisée <br> *Giratoire Villarcher - Voglans - Google Map* |
+| ![Route de l'école du Tremblay - La Motte Servolex](https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_2208.jpg) <br> ⚫ Traversée non sécurisée <br> *Route de l'école du Tremblay - La Motte Servolex*| ![Jonction Villarcher](https://rouelibre.net/wp-content/uploads/2026/03/REV1-Villarcher-Google-Maps.jpg) <br> ⚫ Jonction Villarcher non sécurisée <br> *Giratoire Villarcher - Voglans - Google Map* |
 |---|---|

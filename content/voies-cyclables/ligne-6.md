@@ -58,5 +58,5 @@ credit: Roue Libre
 
 ## Quelques points noirs sur cette ligne
 
-| ![Rue de Joigny](https://rouelibre.net/wp-content/uploads/2026/04/IMG_3106.jpg) <br> Traversée non sécurisée pour les cycles <br>  *Rue de Joigny - La Ravoire* | ![RD1006 La Ravoire](https://rouelibre.net/wp-content/uploads/2025/02/REV6-IMG_4118.jpg) <br> Giratoire non sécurisé <br> *Route Royale Rue des Belledonnes La Ravoire* |
+| ![Rue de Joigny](https://rouelibre.net/wp-content/uploads/2026/04/IMG_3106.jpg) <br> ⚫ Traversée non sécurisée pour les cycles <br>  *Rue de Joigny - La Ravoire* | ![RD1006 La Ravoire](https://rouelibre.net/wp-content/uploads/2025/02/REV6-IMG_4118.jpg) <br> ⚫ Giratoire non sécurisé <br> *Route Royale Rue des Belledonnes La Ravoire* |
 |---|---|
