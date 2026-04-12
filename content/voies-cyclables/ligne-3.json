@@ -23,7 +23,7 @@
           "name": "Avenue d'Aix les Bains",
           "danger": "Stationnements sur double sens cyclable",
           "line": "3",
-          "imgUrl": "hhttps://rouelibre.net/wp-content/uploads/2026/04/IMG_2884.jpg"
+          "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/04/IMG_2884.jpg"
         },
         "geometry": {
           "type": "Point",
