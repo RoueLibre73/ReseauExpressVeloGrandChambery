@@ -7,7 +7,7 @@ from: La Ravoire
 to: Challes les Eaux (Les Massettes)
 description: Avec 1,6 km de longueur, la Piste Bleue 6 est la plus petite ligne du réseau des Pistes Bleues. Elle permet depuis la Piste 5 de rejoindre le Lycée du Granier et le carrefour d'entrée de la zone Médipôle de Savoie.
 trafic: non connu
-cover: https://rouelibre.net/wp-content/uploads/2025/01/Piste6-IMG_4110.jpg
+cover: https://rouelibre.net/wp-content/uploads/2026/04/IMG_3109.jpg
 ---
 
 ## Les tronçons (du Sud au Nord)
@@ -58,5 +58,5 @@ credit: Roue Libre
 
 ## Quelques points noirs sur cette ligne
 
-| ![Rue de Joigny](https://rouelibre.net/wp-content/uploads/2025/02/REV6-IMG_6587.jpg) <br> Traversée non sécurisée pour les cycles <br>  *Rue de Joigny - La Ravoire* | ![RD1006 La Ravoire](https://rouelibre.net/wp-content/uploads/2025/02/REV6-IMG_4118.jpg) <br> Giratoire non sécurisé <br> *Route Royale Rue des Belledonnes La Ravoire* |
+| ![Rue de Joigny](https://rouelibre.net/wp-content/uploads/2026/04/IMG_3106.jpg) <br> Traversée non sécurisée pour les cycles <br>  *Rue de Joigny - La Ravoire* | ![RD1006 La Ravoire](https://rouelibre.net/wp-content/uploads/2025/02/REV6-IMG_4118.jpg) <br> Giratoire non sécurisé <br> *Route Royale Rue des Belledonnes La Ravoire* |
 |---|---|
