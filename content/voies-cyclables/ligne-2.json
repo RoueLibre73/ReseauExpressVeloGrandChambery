@@ -58,20 +58,6 @@
       }
     },
     {
-    "type": "Feature",
-    "properties": {
-              "type": "pump",
-        "name": "Belle Via Porte de la Boisse",
-        "danger": "pompe, pied d'atelier et de réparation libre service",
-        "line": "2",
-        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/03/REV7-PUMP-IMG_2762.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [5.903763506086165, 45.58638304273566]
-      }
-    },
-    {
       "type": "Feature",
       "properties": {
         "line": "2",

@@ -72,6 +72,20 @@
         "coordinates": [5.9190537664114515, 45.568702343798265]
       }
     },
+        {
+    "type": "Feature",
+    "properties": {
+              "type": "pump",
+        "name": "Belle Via Porte de la Boisse",
+        "danger": "pompe, pied d'atelier et de réparation libre service",
+        "line": "1",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/04/IMG_3096.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.903763506086165, 45.58638304273566]
+      }
+    },
     {
   "type": "Feature",
   "properties": {
