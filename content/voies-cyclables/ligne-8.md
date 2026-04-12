@@ -49,7 +49,7 @@ Devant la médiathèque, elle pourrait un jour croiser la nouvelle :line-link{li
 
 ::content-image
 ---
-imageUrl: https://rouelibre.net/wp-content/uploads/2026/01/REV-3-4032-3024-max.jpg
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/04/IMG_3067.jpg
 caption: Place Monge
 credit: Roue Libre
 ---
@@ -96,7 +96,7 @@ credit: Roue Libre
 
 ## Quelques points noirs sur cette ligne
 
-| ![Avenue Marius Berroir](https://rouelibre.net/wp-content/uploads/2026/03/REV8-IMG_2401r.jpg) <br>  fin de bande cyclable non sécurisée et stationnement des cars <br>  *Avenue Marius Berroir - Chambéry* | ![Place Monge](https://rouelibre.net/wp-content/uploads/2026/02/IMG_1289r.jpg) <br> Potelets contraignants pour tous les usagers <br> *Place Monge- Chambéry* |
+| ![Avenue Marius Berroir](https://rouelibre.net/wp-content/uploads/2026/03/REV8-IMG_2401r.jpg) <br>  fin de bande cyclable non sécurisée et stationnement des cars <br>  *Avenue Marius Berroir - Chambéry* | ![Place Monge](https://rouelibre.net/wp-content/uploads/2026/04/IMG_3067.jpg) <br> :green_circle: [MAJ 2025] Potelets déplacés pour un meilleur accès à la piste <br> *Place Monge- Chambéry* |
 |---|---|
 
 | ![Place Caffe](https://rouelibre.net/wp-content/uploads/2025/02/REV8-IMG_59231.jpg) <br> Giratoire non sécurisé <br> *Place Caffe - Chambéry* | ![Place Lucien Biset](https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_0141.jpg) <br> Giratoire non sécurisé <br>  *Place Lucien Biset - Chambéry* |
