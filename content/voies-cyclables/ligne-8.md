@@ -7,7 +7,7 @@ from: Chambéry (Buisson rond)
 to: Cognin
 description: La Piste Bleue 8 permet de relier Chambéry (Buisson Rond) à Cognin (Rond point des Pyramides) via l'Hôpital de Chambéry.
 trafic: 1000 vélos/jour
-cover: https://rouelibre.net/wp-content/uploads/2024/10/Avenue-de-Lyon-liaison-Cognin-Chambery2.jpg
+cover: https://rouelibre.net/wp-content/uploads/2026/04/REV-8-20260414_090942.jpg
 ---
 
 ## Les tronçons (du Sud au Nord)
@@ -62,8 +62,8 @@ Au niveau de la place Caffe, cette piste se connecte à la :line-link{line=3}. L
 
 ::content-image
 ---
-imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_1229.jpg
-caption: Avenue de Lyon (Prefecture)
+imageUrl: https://rouelibre.net/wp-content/uploads/2024/10/Avenue-de-Lyon-liaison-Cognin-Chambery2.jpg
+caption: Avenue de Lyon
 credit: Roue Libre
 ---
 ::
