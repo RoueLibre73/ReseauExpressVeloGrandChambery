@@ -57,6 +57,14 @@ credit: Roue Libre
 
 Au niveau de la place Caffe, cette piste se connecte à la :line-link{line=3}. La place Caffe pourrait également être le point de départ d'une nouvelle :line-link{line=Y} proposée par Roue Libre pour rejoindre Jacob par le boulevard de Bellevue.
 
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/04/REV-8-IMG_3360.jpg
+caption: Place Caffe
+credit: Roue Libre
+---
+::
+
 ### Avenue de Lyon
 <span style="color:red;font-weight:bold">A améliorer</span> Bandes cyclables incompatibles avec un trafic automobile de près de 8000 véhicules / jour.
 
