@@ -6,7 +6,7 @@ lineNameShort: 5
 from: La Ravoire (Villette)
 to: Challes les Eaux
 description: La Piste Bleue 5 permet de relier Challes les Eaux depuis la voie Verte Sud via La Ravoire.
-trafic: 500 à 1000 vélos/jour
+trafic: 660 vélos/jour (2025)
 cover: https://rouelibre.net/wp-content/uploads/2025/02/REV5-IMG_5418.jpg
 ---
 

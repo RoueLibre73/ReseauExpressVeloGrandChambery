@@ -6,7 +6,7 @@ lineNameShort: 3
 from: Chambéry (Préfecture)
 to: Hauts de Chambéry
 description: La Piste Bleue 3 permet de rejoindre Sonnaz via les Hauts de Chambéry. Sa partie centrale a une pente moyenne de 4% sur une distance d'environ 2,5 kilomètres.
-trafic: 400 vélos/jour
+trafic: 330 vélos/jour (2025)
 cover: https://rouelibre.net/wp-content/uploads/2026/04/REV-3-IMG_3355.jpg
 ---
 

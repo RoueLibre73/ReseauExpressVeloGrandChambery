@@ -6,7 +6,7 @@ lineNameShort: 9
 from: Chambéry (Poste du Vernay)
 to: La Motte Servolex
 description: La Piste Bleue 9 permet de relier Chambéry à La Motte Servolex par La Mairie de Bissy et la Croix de Bissy.
-trafic: 1200 vélos/jour
+trafic: 1400 vélos/jour (2025)
 cover: https://rouelibre.net/wp-content/uploads/2026/04/IMG_3350.jpg
 ---
 

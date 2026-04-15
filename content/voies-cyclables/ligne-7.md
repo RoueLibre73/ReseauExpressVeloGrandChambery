@@ -6,8 +6,8 @@ lineNameShort: 7
 from: Chambéry (Eléphants)
 to: Saint Baldoph
 description: La Piste Bleue 7 est dessinée sur la voie Verte Belle Via (ex V63). Elle permet de relier Chambéry à Saint Baldoph sur le territoire de Grand Chambéry, puis de poursuivre vers Myans et le lac Saint André. L'aménagement de la Belle Via vers Montmélian puis Albertville ou Grenoble est en cours de réflexion (projet porté par le Département de la Savoie).
-trafic: 1000 vélos/jour
-cover: https://rouelibre.net/wp-content/uploads/2024/11/REV-7-IMG_4183.jpg
+trafic: 1300 vélos/jour (2025)
+cover: https://rouelibre.net/wp-content/uploads/2026/04/REV7-IMG_3380r.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)

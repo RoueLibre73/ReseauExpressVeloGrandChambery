@@ -6,7 +6,7 @@ lineNameShort: 1
 from: Chambéry (Eléphants)
 to: Bourget du Lac
 description: La Piste Bleue 1 permet de relier Chambéry au Bourget du Lac par la voie verte Nord - Belle Via (ex V63). Cette ligne accueille le trafic annuel vélos (et trotinettes) le plus élevé d'agglomération au niveau du compteur du palais de justice de Chambéry.
-trafic: 2500 vélos/jour
+trafic: 2400 vélos/jour (2025)
 cover: https://rouelibre.net/wp-content/uploads/2022/11/IMG_1555.jpg
 ---
 

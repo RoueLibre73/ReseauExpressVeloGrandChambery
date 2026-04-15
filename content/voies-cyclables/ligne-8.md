@@ -6,7 +6,7 @@ lineNameShort: 8
 from: Chambéry (Buisson rond)
 to: Cognin
 description: La Piste Bleue 8 permet de relier Chambéry (Buisson Rond) à Cognin (Rond point des Pyramides) via l'Hôpital de Chambéry.
-trafic: 1000 vélos/jour
+trafic: 550 vélos/jour (2025)
 cover: https://rouelibre.net/wp-content/uploads/2026/04/REV-8-20260414_090942.jpg
 ---
 

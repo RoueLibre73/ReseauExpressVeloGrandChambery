@@ -6,7 +6,7 @@ lineNameShort: 2
 from: Chambéry
 to: Chambéry (Landiers)
 description: La Piste Bleue 2 permet de relier le centre ville de Chambéry à la zone des Landiers Nord via la gare de Chambéry.
-trafic: 680 vélos/jour
+trafic: 650 vélos/jour (2025)
 cover: https://rouelibre.net/wp-content/uploads/2026/04/IMG_2820.jpg
 ---
 
