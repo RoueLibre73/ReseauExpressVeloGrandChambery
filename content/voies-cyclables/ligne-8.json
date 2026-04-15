@@ -28,6 +28,20 @@
         "type": "Point",
         "coordinates": [5.919361845717958, 45.56369378859844]
       }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Place Caffe",
+        "danger": "Bande cyclable non sécurisée",
+        "line": "8",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/04/IMG_3367r.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.918832969163816, 45.56369691452426]
+      }
     }, 
     {
       "type": "Feature",
