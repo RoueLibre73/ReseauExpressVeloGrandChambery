@@ -132,6 +132,14 @@ credit: Roue Libre
 ---
 ::
 
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/04/REV-9-IMG_3600.jpg
+caption: Passerelle Pré Marquis
+credit: Roue Libre
+---
+::
+
 ## Quelques points noirs sur cette ligne
 
 | ![Rond Point du stade](https://rouelibre.net/wp-content/uploads/2024/06/IMG_1096.jpg) <br>  ⚫ Circulation non sécurisée des cycles sur l'anneau routier <br>  *Rond Point du stade - Chambéry* | ![Carrefour route de l'Epine](https://rouelibre.net/wp-content/uploads/2025/02/REV9-IMG_6301.jpg) <br> ⚫ Traversée non sécurisée <br> *Carrefour route de l'Epine- Chambéry* |
