@@ -28,20 +28,38 @@
           "coordinates": [5.963834254173349, 45.552431643075295]
         }
       },
-      {
+            {
         "type": "Feature",
         "properties": {
           "line": "6",
-          "name": "Route Royale",
-          "quality": "fair",
-          "status": "postponed",
-          "type": "bandes-cyclables",
-          "link": "/rev-6#route-royale"
+          "name": "Rue des Barreaux",
+          "quality": "good",
+          "doneAt": "01\/01\/2010",
+          "status": "done",
+          "type": "voie-verte",
+          "link": "/rev-6#rue-des-barreaux"
         },
         "geometry": {
           "type": "LineString",
           "coordinates": [
-            [5.972056,45.54706],[5.969304,45.551428]
+            [5.963841,45.552442],[5.96335,45.552717],[5.963031,45.552914],[5.962864,45.553077],[5.962717,45.553492],[5.962698,45.554289],[5.962655,45.554586],[5.96262,45.554725],[5.962379,45.555114],[5.9621,45.555575],[5.961848,45.555924],[5.961805,45.556116],[5.961746,45.556337]
+            ]
+        }
+      },
+            {
+        "type": "Feature",
+        "properties": {
+          "line": "6",
+          "name": "Rue des Carpinelles",
+          "quality": "fair",
+          "status": "postponed",
+          "type": "chaucidou",
+          "link": "/rev-6#rue-des-carpinelles"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [5.965147,45.550805],[5.964723,45.550753],[5.96468,45.551061],[5.964444,45.551766],[5.964257,45.552194],[5.964101,45.55233],[5.963843,45.552438]
             ]
         }
       },
@@ -67,16 +85,16 @@
         "type": "Feature",
         "properties": {
           "line": "6",
-          "name": "Rue des Carpinelles",
+          "name": "Route Royale Nord",
           "quality": "fair",
           "status": "postponed",
-          "type": "chaucidou",
-          "link": "/rev-6#rue-des-carpinelles"
+          "type": "bandes-cyclables",
+          "link": "/rev-6#route-royale-nord"
         },
         "geometry": {
           "type": "LineString",
           "coordinates": [
-            [5.965147,45.550805],[5.964723,45.550753],[5.96468,45.551061],[5.964444,45.551766],[5.964257,45.552194],[5.964101,45.55233],[5.963843,45.552438]
+            [5.972056,45.54706],[5.969304,45.551428]
             ]
         }
       },
@@ -84,17 +102,16 @@
         "type": "Feature",
         "properties": {
           "line": "6",
-          "name": "Rue des Barreaux",
-          "quality": "good",
-          "doneAt": "01\/01\/2010",
-          "status": "done",
+          "name": "Route Royale Sud",
+          "quality": "offtrail",
+          "status": "postponed",
           "type": "voie-verte",
-          "link": "/rev-6#rue-des-barreaux"
+          "link": "/rev-6#route-royale-sud"
         },
         "geometry": {
           "type": "LineString",
           "coordinates": [
-            [5.963841,45.552442],[5.96335,45.552717],[5.963031,45.552914],[5.962864,45.553077],[5.962717,45.553492],[5.962698,45.554289],[5.962655,45.554586],[5.96262,45.554725],[5.962379,45.555114],[5.9621,45.555575],[5.961848,45.555924],[5.961805,45.556116],[5.961746,45.556337]
+            [5.978773,45.544046],[5.979867,45.543719],[5.980371,45.543667],[5.980859,45.543704],[5.981471,45.543806],[5.982378,45.54396],[5.983214,45.54393],[5.983987,45.543614],[5.985746,45.542427],[5.987415,45.541236],[5.989233,45.539996],[5.989547,45.539819],[5.989987,45.53969]
             ]
         }
       }
