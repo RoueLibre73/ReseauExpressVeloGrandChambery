@@ -31,8 +31,16 @@ credit: Roue Libre
 ### Boulevard de la Colonne
 *Rue de Boigne - Boulevard de la Colonne*
 
- <span style="color:red;font-weight:bold">A améliorer</span> Le tracé actuel de cette piste via le bas de la rue piétonne de Boigne et la place des Éléphants engendre de nombreux conflits avec les piétons, itinéraire non compatible avec un réseau cyclable à Haut Niveau de Service. 
+ <span style="color:black;font-weight:bold">Non satisfaisant</span> Le tracé actuel de la piste passe par le haut de la rue de Boigne aménagée en zone piétonne en 2026 puis par la place des Éléphants ; ce qui crée de nombreux conflits piétons - cyles. Cet itinéraire n'est pas compatible avec un réseau Vélo à Haut Niveau de Service. 
  L'itinéraire se poursuit avec des bandes cyclables peu confortables (stationnement réguliers de véhicules) sur le Boulevard de la Colonne.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/04/REV3-IMG_3644.jpg
+caption: Haut de la rue de Boigne - Chambery
+credit: Roue Libre
+---
+::
 
 ::content-image
 ---
@@ -43,7 +51,7 @@ credit: Roue Libre
 ::
 
 ### Rue Favre
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Variante via la rue Favre et la rue Saint Antoine proposée par l'association Roue Libre pour libérer le trafic cyles de la zone pietonne de la partie basse de la rue de Boigne, de la place des Eléphants et du Boulevard de la Colonne.
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Variante via la rue Favre puis la rue Saint Antoine proposée par l'association Roue Libre pour libérer le trafic cyles de la zone pietonne de la partie haute de la rue de Boigne, de la place des Eléphants et du Boulevard de la Colonne.
 
 ::content-image
 ---
