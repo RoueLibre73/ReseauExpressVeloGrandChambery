@@ -5,7 +5,7 @@ lineName: Piste 6 Médipôle
 lineNameShort: 6
 from: La Ravoire
 to: Challes les Eaux (Les Massettes)
-description: Avec 1,6 km de longueur, la Piste Bleue 6 est la plus petite ligne du réseau des Pistes Bleues. Elle permet depuis la Piste 5 de rejoindre le Lycée du Granier et le carrefour d'entrée de la zone Médipôle de Savoie.
+description: Avec 1,6 km de longueur, la Piste Bleue 6 est la plus petite ligne du réseau des Pistes Bleues. Elle permet depuis la Piste 5 de rejoindre le Lycée du Granier et le carrefour d'entrée de la zone Médipôle de Savoie. Pour Roue Libre, sa prolongation de 1,7 km jusqu'à Challes les Eaux serait justifiée pour compléter le maillage du réseau Vélo à Haut Niveau de Service de l'agglomération.
 trafic: non mesuré
 cover: https://rouelibre.net/wp-content/uploads/2026/04/IMG_3109.jpg
 ---
