@@ -17,7 +17,7 @@ cover: https://rouelibre.net/wp-content/uploads/2026/04/IMG_3109.jpg
 
 ::content-image
 ---
-imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/Piste6-IMG_4124.jpg
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/04/REV6-IMG_4213.jpg
 caption: Rue des Barreaux (La Ravoire)
 credit: Roue Libre
 ---
@@ -39,7 +39,7 @@ credit: Roue Libre
 
 ::content-image
 ---
-imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV6-IMG_4120.jpg
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/04/REV6-IMG_4216.jpg
 caption: Avenue Joseph Fontanet (La Ravoire)
 credit: Roue Libre
 ---
@@ -50,7 +50,7 @@ credit: Roue Libre
 
 ::content-image
 ---
-imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/Piste6-IMG_4113.jpg
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/04/REV6-IMG_6594.jpg
 caption: Route Royale (Challes les Eaux)
 credit: Roue Libre
 ---
