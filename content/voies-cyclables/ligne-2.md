@@ -95,9 +95,25 @@ La voie verte se termine quelques dizaines de mètres avant le siège de Grand C
 
 ### Avenue des Landiers Nord
 
-<span style="color:red;font-weight:bold">A améliorer</span> Le jalonnement de la Piste Bleue n°2 a été prolongée au Nord en 2026 sur des bandes cyclables réalisées sur l'avenue des Landiers puis sur la Rue de Belle-Eau, voirie à fort trafic dont de nombreux véhicules utilitaires et poids lourds.
+<span style="color:red;font-weight:bold">A améliorer</span> Le jalonnement de la Piste Bleue n°2 a été prolongée au Nord en 2026 sur des bandes cyclables réalisées sur l'avenue des Landiers (siege de Grand Chambéry) puis sur la Rue de Belle-Eau, voirie à fort trafic dont de nombreux véhicules utilitaires et poids lourds.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/04/REV2-IMG_3637.jpg
+caption: Avenue des Landiers (Chambéry)
+credit: Roue Libre
+---
+::
 
 A la fin de la Piste Bleue n°2, possibilité pour les cyclistes de rejoindre la voie verte Belle Via et la :line-link{line=1} par la jonction Borolan créée en 2025 puis la rue des Epinettes.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/04/IMG_3613.jpg
+caption: Rue de Belle Eau (Chambéry)
+credit: Roue Libre
+---
+::
 
 
 ## Quelques points noirs de cette ligne

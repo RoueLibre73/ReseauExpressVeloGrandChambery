@@ -93,6 +93,16 @@ credit: Roue Libre
 ---
 ::
 
+Connexion au niveau de la passerelle Pré Marquis avec le départ de la :line-link{line=9} La Motte Servolex - Chambéry.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/04/REV1-IMG_3601.jpg
+caption: Belle Via - Chambéry
+credit: Roue Libre
+---
+::
+
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2026/02/2013-02-Photos-0249.jpg
