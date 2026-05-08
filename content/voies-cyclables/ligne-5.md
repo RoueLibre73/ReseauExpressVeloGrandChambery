@@ -7,15 +7,17 @@ from: La Ravoire (Villette)
 to: Challes les Eaux
 description: La Piste Bleue 5 permet de relier Challes les Eaux depuis la voie Verte Sud via La Ravoire.
 trafic: 660 vélos/jour (2025)
-cover: https://rouelibre.net/wp-content/uploads/2025/02/REV5-IMG_5418.jpg
+cover: https://rouelibre.net/wp-content/uploads/2026/05/REV5-IMG_3812r-1.jpg
 ---
 
 ## Les tronçons (de Challes les Eaux à La Ravoire)
 
-Le jonction au centre ville de Challes les Eaux n'est actuellement ni jalonnée ni sécurisée.
+La jonction avec le centre ville de Challes les Eaux n'est actuellement ni jalonnée ni sécurisée.
+
+
 
 ### Voie Verte des Planeurs
-<span style="color:blue;font-weight:bold">Satisfaisant</span> La Piste Bleue 5 débute du parking de la Base de loisirs de Challes les Eaux. Elle croise la voie verte des planeurs, point de départ de la :line-link{line=4} . La Piste 5 suit la Voie verte des planneurs jusqu’au giratoire Aviateur Joseph Thoret.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> La Piste Bleue 5 débute du parking de la Base de loisirs de Challes les Eaux. Elle suite un tronçon de la voie verte des planeurs et croise le départ de la :line-link{line=4} au sud de l'aérodrome de Challes les Eaux. 
 
 ::content-image
 ---
@@ -25,8 +27,11 @@ credit: Roue Libre
 ---
 ::
 
+Elle longe la base de loisirs jusqu’au [Pumptrack (créé en 2025 dans le cadre du Budget citoyen du Département de la Savoie)](https://www.ville-challesleseaux.fr/decouvrir-et-bouger-au-quotidien/cadre-de-vie-mobilite-et-environnement/equipements-sportifs-1/pumptrack){:target="_blank"} et au  sur la RD1006.
+
+
 ### Voie Verte de la Mère
-<span style="color:blue;font-weight:bold">Satisfaisant</span> Après la travsersée de la RD1006, avec un plateau pietons-cycles, l'itinéraire se poursuite par la Voie Verte de la Mère.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> Après la travsersée de la RD1006 au niveau du giratoire Aviateur Joseph Thoret par un plateau pietons-cycles, l'itinéraire se poursuite par la Voie Verte de la Mère.
 
 ::content-image
 ---
