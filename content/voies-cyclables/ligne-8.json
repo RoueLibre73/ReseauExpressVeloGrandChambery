@@ -121,9 +121,9 @@
       "properties": {
         "line": "8",
         "name": "Rue de la République Sud",
-        "quality": "bad",
+        "quality": "fair",
         "status": "postponed",
-        "type": "bandes-cyclables",
+        "type": "aucun",
         "link": "/rev-8#rue-de-la-république-sud"
       },
       "geometry": {

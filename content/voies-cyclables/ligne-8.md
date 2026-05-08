@@ -28,12 +28,12 @@ credit: Roue Libre
 ::
 
 ### Rue de la République Sud
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Aucun aménagement Rue de la République Sud (Manège).
+<span style="color:red;font-weight:bold">A améliorer</span> Le tronçon de voirie situé devant le Centre des Congrès « Le Manège » à Chambéry est actuellement soumis à une limitation de vitesse fixée à 20 km/h. Toutefois, malgré cette vitesse réglementaire réduite, cet espace ne fait pas l’objet d’un classement officiel en zone de rencontre, ni en vélorue ce qui ne lui confère pas les priorités et aménagements spécifiques habituellement associés à ces dispositifs de modération de la circulation.
 
 ::content-image
 ---
-imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_0163.jpg
-caption: Avenue de la République
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/05/REV8-Rue-Republiquer.jpg
+caption: Rue de la République
 credit: Roue Libre
 ---
 ::
