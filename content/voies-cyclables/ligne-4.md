@@ -74,7 +74,7 @@ credit: Roue Libre
 ---
 ::
 
-Et elle permet de rejoindre en toute sécurité le plan d'eau de Challes les Eaux et le départ de la :line-link{line=5} au sud de l'aérodrome et à proximité du plan d'eau de Challes les Eaux.
+Elle permet de rejoindre en sécurité le sud de l'aérodrome et se termine au plan d'eau de Challes les Eaux, à la jonction avec la :line-link{line=5}.
 
 ::content-image
 ---
