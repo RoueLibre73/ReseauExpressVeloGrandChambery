@@ -56,7 +56,7 @@ credit: Roue Libre
 |---|---|
 
 ### Voie verte des Planeurs
-<span style="color:blue;font-weight:bold">Satisfaisant</span> 
+<span style="color:blue;font-weight:bold">Satisfaisant</span> La piste rejoint ensuite la voie verte des planeurs au niveau de la commune de Barby.
 
 ::content-image
 ---
@@ -66,8 +66,6 @@ credit: Roue Libre
 ---
 ::
 
-La Voie verte historique des planeurs permet ensuite de rejoindre en toute sécurité le plan d'eau de Challes les Eaux et le départ de la :line-link{line=5}.
-
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2025/02/REV4-IMG_6510.jpg
@@ -76,7 +74,16 @@ credit: Roue Libre
 ---
 ::
 
-Cette :line-link{line=4} se termine au parking des Culées de Challes les Eaux, à proximité du plan d'eau. Il n'y a actuellement aucun jalonnement ni aménagement pour rejoindre le centre ville de Challes les Eaux.
+Et elle permet de rejoindre en toute sécurité le plan d'eau de Challes les Eaux et le départ de la :line-link{line=5} au sud de l'aérodrome et à proximité du plan d'eau de Challes les Eaux.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/05/REV4-IMG_3815r.jpg
+caption: Plan d'eau (Challes les Eaux)
+credit: Roue Libre
+---
+::
+
 
 ### Variante RD1006 Nord
 <span style="color:blue;font-weight:bold">Satisfaisant</span> Une première portion de 300 m de voie verte a été réalisée lors de la création du giratoire de la Trousse en 2025.
