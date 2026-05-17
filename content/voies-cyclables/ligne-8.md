@@ -67,6 +67,7 @@ credit: Roue Libre
 
 ### Avenue de Lyon
 <span style="color:red;font-weight:bold">A améliorer</span> Bandes cyclables incompatibles avec un trafic automobile de près de 8000 véhicules / jour.
+La piste traverse ensuite l'avenue de Lyon pour rejoindre le Chemin des Vieux Capucins.
 
 ::content-image
 ---
@@ -93,14 +94,34 @@ Avril 2024 Lancement d'une étude de faisabilité Cognin et Chambéry par Grand 
 
 ::content-image
 ---
-imageUrl: https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_0145.jpg
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/05/REV8-Chemin-des-capucins.jpg
 caption: Chemin des Capucins
 credit: Roue Libre
 ---
 ::
 
 ### Cognin
-<span style="color:black;font-weight:bold">Non satisfaisant</span> Puis aucun aménagement dans le centre ville de Cognin
+<span style="color:black;font-weight:bold">Non satisfaisant</span> Puis la piste rejoint Cognin par le Pont Vieux
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/05/REV8-pont-vieux.jpg
+caption: Pont Vieux - Cognin
+credit: Roue Libre
+---
+::
+
+<span style="color:black;font-weight:bold">Non satisfaisant</span> La piste contourne ensuite le centre-ville de Cognin, sans accès aménagé vers celui-ci.
+
+La piste se termine au Rond Point des Pyramides.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/05/REV8-fin-piste.jpg
+caption: Giratoire des Pyramides - Cognin
+credit: Roue Libre
+---
+::
 
 ## Quelques points noirs sur cette ligne
 
@@ -110,7 +131,10 @@ credit: Roue Libre
 | ![Place Caffe](https://rouelibre.net/wp-content/uploads/2026/04/IMG_3367r.jpg) <br> ⚫ Bande cyclable non sécurisée <br> *Place Caffe - Chambéry* | ![Place Lucien Biset](https://rouelibre.net/wp-content/uploads/2025/01/REV8-IMG_0141.jpg) <br> ⚫ Giratoire non sécurisé <br>  *Place Lucien Biset - Chambéry* |
 |---|---|
 
-| ![Carrefour chemin du Biollay](https://rouelibre.net/wp-content/uploads/2024/12/REV8-carrefour-du-biollay.jpg) <br> ⚫ Carrefour accidentogène pour les cycles <br> *Carrefour chemin du Biollay - Chambéry* | ![Chemin des Vieux Capucins](https://rouelibre.net/wp-content/uploads/2026/03/REV-8-20260204_162528r.jpg) <br> ⚫ Carrefour non sécurisé <br> *Chemin des Vieux Capucins - Chambéry* |
+| ![Carrefour chemin du Biollay](https://rouelibre.net/wp-content/uploads/2024/12/REV8-carrefour-du-biollay.jpg) <br> ⚫ Carrefour accidentogène pour les cycles <br> *Carrefour chemin du Biollay - Chambéry* | ![Av Clémenceau](https://rouelibre.net/wp-content/uploads/2026/05/REV8-IMG_3935.jpg) <br> ⚫ Carrefour non sécurisé <br> *Av. Clémenceau - Chambéry* |
+|---|---|
+
+| !     <br> ⚫      <br>     | ![Chemin des Vieux Capucins](https://rouelibre.net/wp-content/uploads/2026/03/REV-8-20260204_162528r.jpg) <br> ⚫ Carrefour non sécurisé <br> *Chemin des Vieux Capucins - Chambéry* |
 |---|---|
 
 ## Fil d'actu

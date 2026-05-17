@@ -75,6 +75,20 @@
       "type": "Feature",
       "properties": {
         "type": "danger",
+        "name": "Carrefour Biollay Av. Clémenceau",
+        "danger": "Aucun aménagement pour les cycles",
+        "line": "8",
+        "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/05/REV8-IMG_3935.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.905281512092984, 45.563393235220246]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
         "name": "Chemin des Vieux Capucins",
         "danger": "Carrefour non sécurisé",
         "line": "8",
