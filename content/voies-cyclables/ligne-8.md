@@ -157,11 +157,12 @@ credit: Roue Libre
 ### 2024. Lancement d'une étude de faisabilité Cognin et Chambéry par Grand Chambéry
 Depuis le printemps 2024, suite à la mobilisation de Roue Libre et des organisations locales, une étude de faisabilité d'une liaison cyclable à Haut Niveau de Service entre Cognin et la Préfecture (place Caffe) est en cours. Roue Libre a été conviée à deux réunions de travail avec le Bureau d'Étude.
 
-### 2024. Fausse inauguration Piste Rouge Cognin Chambéry par Roue Libre
-15 octobre 2024
+### 15 octobre 2024. Fausse inauguration Piste Rouge Cognin Chambéry par Roue Libre
+Suite à l’inauguration de pistes cyclables bleues par Grand Chambéry, en clin d’œil au contexte alpin, Roue Libre annonce l’ouverture de la piste rouge n°8 entre Chambéry et Cognin. 
 
 ::banner{type="info"}
 Conformément au référentiel des pistes de ski, Roue Libre classe cette piste en couleur rouge : il s’agit d’une piste difficile qui ne respecte pas les recommandations du CEREMA en matière de sécurisation. En effet, les bandes cyclables, dépourvues de séparateurs de la chaussée automobile, exposent les cyclistes à un trafic routier de près de 8000 véhicules par jour. De plus, la présence de plusieurs points noirs identifiés comme dangereux par les usagers du vélo, notamment aux intersections et giratoires, justifie son caractère technique, pour cyclistes expérimentés.
+::
 
 ::content-image
 ---
@@ -173,8 +174,9 @@ credit: Roue Libre
 
 [Communiqué, revue de presse, photos](https://rouelibre.net/2024/10/15/15-oct-2024-roue-libre-inaugure-la-piste-rouge-n8-cognin-chambery/){:target="_blank"}
 
-### 2024. Action Roue Libre lors du passage du Tour de France
-3 juillet 2024
+### 3 juillet 2024. Action Roue Libre lors du passage du Tour de France
+Comme les coureurs du Tour de France aujourd’hui en Savoie, les cyclistes savoyards exigent une sécurisation de leurs déplacements du quotidien et de loisir. L’association Roue Libre renouvelle à l’occasion du passage du Tour sur l’avenue de Lyon à Chambéry sa demande de création d’une piste cyclable large, continue et sécurisée entre Chambéry et Cognin.
+
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2024/07/Tour-de-France-Cognin-1536x700.jpg
@@ -183,14 +185,14 @@ credit: France 3
 ---
 ::
 
-### 2022. Courrier Roue Libre pour la pérennisation et continuité de l'aménagement cyclable Caffe - Monge
-novembre 2022
+### novembre 2022. Courrier Roue Libre pour la pérennisation et continuité de l'aménagement cyclable Caffe - Monge
+Suite à la réalisation en novembre 2021, du tronçon provisoire de la piste cyclable reliant la place Caffe à la place Monge, après une année d’expérimentation, Roue Libre a écrit à la mairie de Chambéry un courrier pour demander la pérennisation et l’amélioration des connexions aux voies adjacentes. Ce tracé constitue un chaînon important de la liaison Est-Ouest de l’agglomération.
 
 [Courrier](https://rouelibre.net/2022/11/28/28-juin-cp-roue-libre-pour-la-realisation-dune-continuite-cyclable-securisee-entre-place-caffe-et-place-monge-des-2021/){:target="_blank"}
 
 
-### 2022. Vélorution Cognin - Chambéry
-26 mars 2022
+### 26 mars 2022. Vélorution Cognin - Chambéry
+200 cyclistes ont vélorutionné samedi 26 mars sous un magnifique soleil entre la Mairie de Cognin et le centre ville de Chambéry pour demander la création de nouveaux aménagements cyclables continus et sécurisés.
 
 [Photos, communiqué, signataires, proposition technique](https://rouelibre.net/2024/07/03/26-mars-2022-velorution-cognin-chambery/){:target="_blank"}
 ::content-image
