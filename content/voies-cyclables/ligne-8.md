@@ -139,8 +139,20 @@ credit: Roue Libre
 
 ## Fil d'actu
 
-### 2026. Toujours rien
-Malheureusement rien dans le budget d'investissement 2026 de Grand Chambéry pour cette liaison
+### 21 mai 2026. Roue Libre déroule une piste bleue pour une politique cyclable ambitieuse à Grand Chambery
+Des bénévoles de l’association ont déroulé une piste bleue symbolique de 10 mètres de long sur 3,5 mètres de large sur l’avenue de Lyon. Les études préalables à l’implantation d’un tel aménagement entre Chambéry et Cognin sont finalisées, et sa réalisation figure comme priorité au programme des équipes municipales récemment élues.
+
+Cet événement est l’occasion pour Roue Libre de publier une lettre ouverte aux élus municipaux et communautaires pour les appeler à concrétiser sans attendre leurs engagements, et à changer de braquet pour la politique cyclable. Seulement la moitié du réseau requis des pistes bleues est aménagée de façon satisfaisante : Roue Libre demande la mobilisation d’un budget spécifique pour leur déploiement.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/05/image2recadr-768x576.jpg
+caption: Action Roue Libre du 21 mai 2026
+credit: Roue Libre
+---
+::
+
+[Communiqué, revue de presse, photos](https://rouelibre.net/2026/05/21/21-mai-roue-libre-deroule-une-piste-bleue-pour-une-politique-cyclable-ambitieuse/){:target="_blank"}
 
 ### 2024. Lancement d'une étude de faisabilité Cognin et Chambéry par Grand Chambéry
 Depuis le printemps 2024, suite à la mobilisation de Roue Libre et des organisations locales, une étude de faisabilité d'une liaison cyclable à Haut Niveau de Service entre Cognin et la Préfecture (place Caffe) est en cours. Roue Libre a été conviée à deux réunions de travail avec le Bureau d'Étude.
@@ -150,7 +162,6 @@ Depuis le printemps 2024, suite à la mobilisation de Roue Libre et des organisa
 
 ::banner{type="info"}
 Conformément au référentiel des pistes de ski, Roue Libre classe cette piste en couleur rouge : il s’agit d’une piste difficile qui ne respecte pas les recommandations du CEREMA en matière de sécurisation. En effet, les bandes cyclables, dépourvues de séparateurs de la chaussée automobile, exposent les cyclistes à un trafic routier de près de 8000 véhicules par jour. De plus, la présence de plusieurs points noirs identifiés comme dangereux par les usagers du vélo, notamment aux intersections et giratoires, justifie son caractère technique, pour cyclistes expérimentés.
-::
 
 ::content-image
 ---
