@@ -61,7 +61,7 @@
                 >
                   Evolution du réseau
                 </NuxtLink>
-                <NuxtLink to="https://rouelibre.net/wp-content/uploads/2026/01/Nouveau-plan-domN-cyclableR.jpg" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
+                <NuxtLink to="https://rouelibre.net/wp-content/uploads/2026/05/2026-05-carte_postale_recto-BATr.jpg" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-lvv-blue-600 hover:shadow-lg sm:px-8 transition duration-300 transform hover:scale-105">
                   Plan du domaine cyclable
                 </NuxtLink>
               </div>
@@ -74,7 +74,7 @@
               <NuxtLink to="/carte-interactive" class="relative block w-full bg-white rounded-lg overflow-hidden">
                 <img
                   class="w-full opacity-90"
-                  src="https://rouelibre.net/wp-content/uploads/2026/01/Nouveau-plan-domN-cyclableR.jpg"
+                  src="https://rouelibre.net/wp-content/uploads/2026/05/2026-02-affiche-electionsr.jpg"
                   alt="Plan des Pistes"
                 />
               </NuxtLink>
