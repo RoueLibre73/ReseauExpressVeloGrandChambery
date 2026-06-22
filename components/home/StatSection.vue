@@ -49,15 +49,22 @@
   </div>
 
       <!-- Nouveau bloc -->
-<div class="mt-16 max-w-5xl mx-auto px-4 sm:px-6">
-  <h3 class="text-2xl font-bold text-gray-900 text-center">
-    Pistes bleues, rouges, noires ou hors pistes ?
-  </h3>
+<div class="mt-16 max-w-5xl mx-auto px-4">
+  <h2 class="text-2xl font-bold text-gray-900 text-center">
+    Pistes Bleues, Rouges, Noires ou Hors Pistes ?
+  </h2>
 
   <div class="mt-4 text-lg text-gray-600 text-left space-y-4">
     <p>
       Pour chaque tronçon de Piste Bleue, Roue Libre observe s'il était conforme aux caractéristiques
-      d'un Réseau Cyclable à Haut Niveau de Service tel que préconisé par le CEREMA
+      d'un Réseau Cyclable à Haut Niveau de Service tel que préconisé par le <a
+  href="https://observatoire.rouelibre.net/blog/reseauchns"
+  target="_blank"
+  rel="noopener noreferrer"
+  class="underline"
+>
+  CEREMA
+</a>
       (Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement).
     </p>
 
@@ -75,10 +82,17 @@
 
     <p>
       Enfin, nous avons ajouté un
-      <span class="font-semibold text-green-600">Hors Piste</span> pour les itinéraires qui ne sont pas
+      <span class="font-semibold text-gray-700">Hors Piste</span> pour les itinéraires qui ne sont pas
       référencés "Pistes Bleues" par Grand Chambéry mais qui mériteraient de l'être selon les usagers cyclistes.
       Ces itinéraires hors pistes ne sont pas balisés et sont en général pas ou peu aménagés selon les
-      caractéristiques attendues d'un réseau cyclable à Haut Niveau de Service.
+      caractéristiques attendues d'un <a
+  href="https://observatoire.rouelibre.net/blog/reseauchns"
+  target="_blank"
+  rel="noopener noreferrer"
+  class="underline"
+>
+  réseau cyclable à Haut Niveau de Service
+</a>.
     </p>
   </div>
 
@@ -148,7 +162,10 @@
         alt="Roue Libre ouvre un Hors Piste"
         class="w-full h-48 object-cover rounded-lg shadow-md group-hover:shadow-xl transition"
       />
-      <p class="mt-2 text-sm text-center text-gray-900 font-medium">
+      <p class="text-xs text-center text-gray-500">
+        21 mai 2026
+      </p>
+      <p class="mt-2 text-sm text-center text-gray-700 font-medium">
         Roue Libre ouvre un Hors Piste
       </p>
     </a>
