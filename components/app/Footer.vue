@@ -39,16 +39,11 @@
     <!-- BRAND / SIGNATURE -->
     <div class="mt-6 text-center">
       <p class="text-sm text-gray-400">
-        <a
-          href="https://rouelibre.net"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="text-sm text-gray-400 hover:text-gray-900 font-medium transition"
-        >
-          {{ getAssoName() }}
-        </a>
+        {{ getAssoName() }}
       </p>
     </div>
+
+  </div>
 </footer>
 </template>
 
