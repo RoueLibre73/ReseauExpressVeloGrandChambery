@@ -26,8 +26,8 @@
       </svg>
     </div>
 
-    <div class="relative pt-2 pb-8 sm:pb-12 lg:pb-16">
-     <div class="mt-4 mx-auto max-w-7xl px-4 sm:mt-8 sm:px-6 lg:mt-12">
+    <div class="relative pt-6 pb-8 sm:pb-12 lg:pb-16">
+     <div class="mt-6 sm:mt-10 lg:mt-12 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="lg:grid lg:grid-cols-12 lg:gap-8">
           <div
             class="sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left"
