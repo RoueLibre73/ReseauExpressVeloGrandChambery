@@ -11,7 +11,46 @@
         </p>
       </div>
     </div>
-    <!-- Nouveau bloc -->
+
+</div>
+    <div class="mt-10 bg-white">
+      <div class="relative">
+        <div class="absolute inset-0 h-1/2 bg-white" />
+        <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="max-w-4xl mx-auto">
+            <dl class="rounded-lg bg-white shadow-lg sm:grid sm:grid-cols-3">
+              <div class="flex flex-col border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r">
+                <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
+                  Lignes
+                </dt>
+                <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
+                  11
+                </dd>
+              </div>
+              <div class="flex flex-col border-t border-b border-gray-100 p-6 text-center sm:border-0 sm:border-l sm:border-r">
+                <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
+                  Distance
+                </dt>
+                <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
+                  63km
+                </dd>
+              </div>
+              <div class="flex flex-col border-t border-gray-100 p-6 text-center sm:border-0 sm:border-l" id=ou-on-en-est>
+                <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
+                  Budget
+                </dt>
+                <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
+                  Inconnu
+                </dd>
+              </div>
+            </dl>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+      <!-- Nouveau bloc -->
 <div class="mt-16 max-w-5xl mx-auto px-4 sm:px-6">
   <h2 class="text-2xl font-bold text-gray-900 text-center">
     Pistes bleues, rouges noires ou hors pistes ?
@@ -20,7 +59,14 @@
   <div class="mt-4 text-lg text-gray-600 text-center space-y-4">
     <p>
       Pour chaque tronçon de Piste Bleue, Roue Libre observe s'il était conforme aux caractéristiques
-      d'un Réseau Cyclable à Haut Niveau de Service tel que préconisé par le CEREMA
+      d'un Réseau Cyclable à Haut Niveau de Service tel que préconisé par le <a
+  href="https://observatoire.rouelibre.net/blog/reseauchns"
+  target="_blank"
+  rel="noopener noreferrer"
+  class="text-blue-600 hover:text-blue-800 underline font-medium"
+>
+  CEREMA
+</a>
       (Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement).
     </p>
 
@@ -38,10 +84,17 @@
 
     <p>
       Enfin, nous avons ajouté un
-      <span class="font-semibold text-green-600">Hors Piste</span> pour les itinéraires qui ne sont pas
+      <span class="font-semibold text-gray-900">Hors Piste</span> pour les itinéraires qui ne sont pas
       référencés "Pistes Bleues" par Grand Chambéry mais qui mériteraient de l'être selon les usagers cyclistes.
       Ces itinéraires hors pistes ne sont pas balisés et sont en général pas ou peu aménagés selon les
-      caractéristiques attendues d'un réseau cyclable à Haut Niveau de Service.
+      caractéristiques attendues d'un <a
+  href="https://observatoire.rouelibre.net/blog/reseauchns"
+  target="_blank"
+  rel="noopener noreferrer"
+  class="text-blue-600 hover:text-blue-800 underline font-medium"
+>
+  réseau cyclable à Haut Niveau de Service
+</a>.
     </p>
   </div>
 
@@ -115,44 +168,6 @@
         Roue Libre ouvre un Hors Piste
       </p>
     </a>
-
-  </div>
-</div>
-    <div class="mt-10 bg-white">
-      <div class="relative">
-        <div class="absolute inset-0 h-1/2 bg-white" />
-        <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div class="max-w-4xl mx-auto">
-            <dl class="rounded-lg bg-white shadow-lg sm:grid sm:grid-cols-3">
-              <div class="flex flex-col border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r">
-                <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                  Lignes
-                </dt>
-                <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  11
-                </dd>
-              </div>
-              <div class="flex flex-col border-t border-b border-gray-100 p-6 text-center sm:border-0 sm:border-l sm:border-r">
-                <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                  Distance
-                </dt>
-                <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  63km
-                </dd>
-              </div>
-              <div class="flex flex-col border-t border-gray-100 p-6 text-center sm:border-0 sm:border-l" id=ou-on-en-est>
-                <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                  Budget
-                </dt>
-                <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  Inconnu
-                </dd>
-              </div>
-            </dl>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 </template>
 
