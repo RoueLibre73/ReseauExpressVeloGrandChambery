@@ -7,66 +7,20 @@
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
           C'est le nom du projet de réseau structurant lancé en 2024 par la Communauté d'agglomération de Grand Chambéry.
-          <br> Concrètement, une {{ getRevName('singular') }} est un itinéraire cyclable suffisamment large (3 à 4 mètres), sécurisée, efficace, attractive et confortable, souvent sous forme de piste bidirectionnelle et séparée du trafic routier conformément aux recommandations du CEREMA. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte l'ensemble des territoires de l'agglomération de Grand Chambéry.
+          <br> Concrètement, une {{ getRevName('singular') }} est un itinéraire cyclable suffisamment large (3 à 4 mètres), sécurisée, efficace, attractive et confortable, souvent sous forme de piste bidirectionnelle et séparée du trafic routier. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte l'ensemble des territoires de l'agglomération de Grand Chambéry.
         </p>
       </div>
     </div>
-
-</div>
-    <div class="mt-10 bg-white">
-      <div class="relative">
-        <div class="absolute inset-0 h-1/2 bg-white" />
-        <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div class="max-w-4xl mx-auto">
-            <dl class="rounded-lg bg-white shadow-lg sm:grid sm:grid-cols-3">
-              <div class="flex flex-col border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r">
-                <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                  Lignes
-                </dt>
-                <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  11
-                </dd>
-              </div>
-              <div class="flex flex-col border-t border-b border-gray-100 p-6 text-center sm:border-0 sm:border-l sm:border-r">
-                <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                  Distance
-                </dt>
-                <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  63km
-                </dd>
-              </div>
-              <div class="flex flex-col border-t border-gray-100 p-6 text-center sm:border-0 sm:border-l" id=ou-on-en-est>
-                <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                  Budget
-                </dt>
-                <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  Inconnu
-                </dd>
-              </div>
-            </dl>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-      <!-- Nouveau bloc -->
+    <!-- Nouveau bloc -->
 <div class="mt-16 max-w-5xl mx-auto px-4 sm:px-6">
-  <h2 class="text-2xl font-bold text-gray-900 text-center">
+  <h3 class="text-2xl font-bold text-gray-900 text-center">
     Pistes bleues, rouges noires ou hors pistes ?
   </h3>
 
-  <div class="mt-4 text-lg text-gray-600 text-center space-y-4">
+  <div class="mt-4 text-lg text-gray-600 text-left space-y-4">
     <p>
       Pour chaque tronçon de Piste Bleue, Roue Libre observe s'il était conforme aux caractéristiques
-      d'un Réseau Cyclable à Haut Niveau de Service tel que préconisé par le <a
-  href="https://observatoire.rouelibre.net/blog/reseauchns"
-  target="_blank"
-  rel="noopener noreferrer"
-  class="text-blue-600 hover:text-blue-800 underline font-medium"
->
-  CEREMA
-</a>
+      d'un Réseau Cyclable à Haut Niveau de Service tel que préconisé par le CEREMA
       (Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement).
     </p>
 
@@ -84,17 +38,10 @@
 
     <p>
       Enfin, nous avons ajouté un
-      <span class="font-semibold text-gray-900">Hors Piste</span> pour les itinéraires qui ne sont pas
+      <span class="font-semibold text-green-600">Hors Piste</span> pour les itinéraires qui ne sont pas
       référencés "Pistes Bleues" par Grand Chambéry mais qui mériteraient de l'être selon les usagers cyclistes.
       Ces itinéraires hors pistes ne sont pas balisés et sont en général pas ou peu aménagés selon les
-      caractéristiques attendues d'un <a
-  href="https://observatoire.rouelibre.net/blog/reseauchns"
-  target="_blank"
-  rel="noopener noreferrer"
-  class="text-blue-600 hover:text-blue-800 underline font-medium"
->
-  réseau cyclable à Haut Niveau de Service
-</a>.
+      caractéristiques attendues d'un réseau cyclable à Haut Niveau de Service.
     </p>
   </div>
 
@@ -168,6 +115,44 @@
         Roue Libre ouvre un Hors Piste
       </p>
     </a>
+
+  </div>
+</div>
+    <div class="mt-10 bg-white">
+      <div class="relative">
+        <div class="absolute inset-0 h-1/2 bg-white" />
+        <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="max-w-4xl mx-auto">
+            <dl class="rounded-lg bg-white shadow-lg sm:grid sm:grid-cols-3">
+              <div class="flex flex-col border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r">
+                <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
+                  Lignes
+                </dt>
+                <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
+                  11
+                </dd>
+              </div>
+              <div class="flex flex-col border-t border-b border-gray-100 p-6 text-center sm:border-0 sm:border-l sm:border-r">
+                <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
+                  Distance
+                </dt>
+                <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
+                  63km
+                </dd>
+              </div>
+              <div class="flex flex-col border-t border-gray-100 p-6 text-center sm:border-0 sm:border-l" id=ou-on-en-est>
+                <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
+                  Budget
+                </dt>
+                <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
+                  Inconnu
+                </dd>
+              </div>
+            </dl>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
