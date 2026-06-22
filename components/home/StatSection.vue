@@ -7,17 +7,17 @@
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
           C'est le nom du projet de réseau structurant lancé en 2024 par la Communauté d'agglomération de Grand Chambéry.
-          <br> Concrètement, une {{ getRevName('singular') }} est un itinéraire cyclable suffisamment large (3 à 4 mètres), sécurisée, efficace, attractive et confortable, souvent sous forme de piste bidirectionnelle et séparée du trafic routier. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte l'ensemble des territoires de l'agglomération de Grand Chambéry.
+          <br> Concrètement, une {{ getRevName('singular') }} est un itinéraire cyclable suffisamment large (3 à 4 mètres), sécurisée, efficace, attractive et confortable, souvent sous forme de piste bidirectionnelle et séparée du trafic routier conformément aux recommandations du CEREMA. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte l'ensemble des territoires de l'agglomération de Grand Chambéry.
         </p>
       </div>
     </div>
     <!-- Nouveau bloc -->
-<div class="mt-16">
-  <h3 class="text-2xl font-bold text-gray-900">
-    Pistes bleues, rouges ou hors pistes ?
+<div class="mt-16 max-w-5xl mx-auto px-4 sm:px-6">
+  <h2 class="text-2xl font-bold text-gray-900 text-center">
+    Pistes bleues, rouges noires ou hors pistes ?
   </h3>
 
-  <div class="mt-4 text-lg text-gray-600 text-left space-y-4">
+  <div class="mt-4 text-lg text-gray-600 text-center space-y-4">
     <p>
       Pour chaque tronçon de Piste Bleue, Roue Libre observe s'il était conforme aux caractéristiques
       d'un Réseau Cyclable à Haut Niveau de Service tel que préconisé par le CEREMA
@@ -57,6 +57,9 @@
         alt="Piste Bleue déroulée par Roue Libre"
         class="w-full h-48 object-cover rounded-lg shadow-md group-hover:shadow-xl transition"
       />
+      <p class="text-xs text-center text-gray-500">
+        21 mai 2026
+      </p>
       <p class="mt-2 text-sm text-center text-blue-600 font-medium">
         Piste Bleue déroulée par Roue Libre
       </p>
@@ -72,6 +75,9 @@
         alt="Piste Rouge inaugurée par Roue Libre"
         class="w-full h-48 object-cover rounded-lg shadow-md group-hover:shadow-xl transition"
       />
+      <p class="text-xs text-center text-gray-500">
+        15 octobre 2024
+      </p>
       <p class="mt-2 text-sm text-center text-red-600 font-medium">
         Piste Rouge inaugurée par Roue Libre
       </p>
@@ -87,6 +93,9 @@
         alt="Piste Noire inaugurée par Roue Libre"
         class="w-full h-48 object-cover rounded-lg shadow-md group-hover:shadow-xl transition"
       />
+      <p class="text-xs text-center text-gray-500">
+        14 janvier 2025
+      </p>
       <p class="mt-2 text-sm text-center text-gray-900 font-medium">
         Piste Noire inaugurée par Roue Libre
       </p>
@@ -102,7 +111,7 @@
         alt="Roue Libre ouvre un Hors Piste"
         class="w-full h-48 object-cover rounded-lg shadow-md group-hover:shadow-xl transition"
       />
-      <p class="mt-2 text-sm text-center text-green-600 font-medium">
+      <p class="mt-2 text-sm text-center text-gray-900 font-medium">
         Roue Libre ouvre un Hors Piste
       </p>
     </a>
