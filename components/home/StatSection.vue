@@ -11,8 +11,6 @@
         </p>
       </div>
     </div>
-
-</div>
     <div class="mt-10 bg-white">
       <div class="relative">
         <div class="absolute inset-0 h-1/2 bg-white" />
@@ -49,9 +47,10 @@
       </div>
     </div>
   </div>
+
       <!-- Nouveau bloc -->
 <div class="mt-16 max-w-5xl mx-auto px-4 sm:px-6">
-  <h2 class="text-2xl font-bold text-gray-900 text-center">
+  <h3 class="text-2xl font-bold text-gray-900 text-center">
     Pistes bleues, rouges, noires ou hors pistes ?
   </h3>
 
@@ -76,7 +75,7 @@
 
     <p>
       Enfin, nous avons ajouté un
-      <span class="font-semibold text-gray-700">Hors Piste</span> pour les itinéraires qui ne sont pas
+      <span class="font-semibold text-green-600">Hors Piste</span> pour les itinéraires qui ne sont pas
       référencés "Pistes Bleues" par Grand Chambéry mais qui mériteraient de l'être selon les usagers cyclistes.
       Ces itinéraires hors pistes ne sont pas balisés et sont en général pas ou peu aménagés selon les
       caractéristiques attendues d'un réseau cyclable à Haut Niveau de Service.
@@ -134,7 +133,7 @@
       <p class="text-xs text-center text-gray-500">
         14 janvier 2025
       </p>
-      <p class="mt-2 text-sm text-center text-gray-700 font-medium">
+      <p class="mt-2 text-sm text-center text-gray-900 font-medium">
         Piste Noire inaugurée par Roue Libre
       </p>
     </a>
@@ -155,6 +154,7 @@
     </a>
 
   </div>
+</div>
 </template>
 
 <script setup lang="ts">
