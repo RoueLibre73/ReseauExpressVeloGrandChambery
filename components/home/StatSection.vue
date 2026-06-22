@@ -1,17 +1,17 @@
 <template>
-  <div class="bg-white pt-12 sm:pt-16">
+  <div class="bg-white pt-2 sm:pt-4">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="max-w-4xl mx-auto text-center">
         <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">
           Les {{ getRevName() }}, c'est quoi ?
         </h2>
-        <p class="mt-3 text-xl text-gray-500 sm:mt-4">
+        <p class="mt-4 text-xl text-gray-500 sm:mt-4">
           C'est le nom du projet de réseau structurant lancé en 2024 par la Communauté d'agglomération de Grand Chambéry.
           <br> Concrètement, une {{ getRevName('singular') }} est un itinéraire cyclable suffisamment large (3 à 4 mètres), sécurisée, efficace, attractive et confortable, souvent sous forme de piste bidirectionnelle et séparée du trafic routier. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte l'ensemble des territoires de l'agglomération de Grand Chambéry.
         </p>
       </div>
     </div>
-    <div class="mt-10 bg-white">
+    <div class="mt-4 bg-white">
       <div class="relative">
         <div class="absolute inset-0 h-1/2 bg-white" />
         <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

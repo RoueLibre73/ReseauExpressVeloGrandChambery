@@ -44,7 +44,7 @@
               </span>
             </h1>
             <p
-              class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
+              class="mt-4 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
             >
               Une initiative de l'association <strong>{{ assoName }}</strong> pour suivre et évaluer le développement d'un réseau vélo structurant continu, sécurisé, capacitaire et efficace, généralement appelé <a href="/blog/reseauchns" style="color:lvv-blue-600;font-weight:bold">Réseau Cyclable à Haut Niveau de Service (RCHNS) ou Réseau Express Vélo (REV) </a>.
             </p>
