@@ -21,7 +21,7 @@
           <a
             href="https://rouelibre.net/"
             target="_blank"
-            class="mt-3 w-full flex items-center justify-center px-5 py-3 rounded-md text-base font-medium text-white bg-velocite-green-1 transition transform hover:scale-105 sm:w-auto sm:ml-3"
+            class="mt-3 w-full flex items-center justify-center px-5 py-3 rounded-md text-base font-medium text-velocite-green-1 bg-white transition transform hover:scale-105 sm:w-auto sm:ml-3"
           >
             En savoir +
           </a>

@@ -1,28 +1,50 @@
 <template>
-  <footer class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 lg:max-w-7xl bg-white border-t border-gray-200">
-    <div class="max-w-7xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
-      <nav class="-mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
-        <div v-for="item in links" :key="item.name" class="px-5 py-2">
-          <NuxtLink :to="item.path" class="text-base text-gray-500 hover:text-gray-900">
-            {{ item.name }}
-          </NuxtLink>
-        </div>
-      </nav>
-      <div class="mt-4 border-t border-gray-200 pt-4 md:flex md:items-center md:justify-between">
-        <div class="flex justify-center space-x-6 md:order-2">
-          <a v-for="item in socials" :key="item.name" :href="item.href" target="_blank" class="text-gray-500 hover:text-gray-500">
-            <span class="sr-only">{{ item.name }}</span>
-            <Icon :name="item.icon" class="h-6 w-6" aria-hidden="true" />
-          </a>
-        </div>
-        <div class="mt-8 md:mt-0 md:order-1">
-          <p class="text-center text-base text-gray-500">
-            {{ getAssoName() }}
-          </p>
-        </div>
-      </div>
+<footer class="bg-white border-t border-gray-100">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+
+    <!-- LINKS -->
+    <nav
+      class="flex flex-wrap justify-center gap-x-8 gap-y-3 text-center"
+      aria-label="Footer"
+    >
+      <NuxtLink
+        v-for="item in links"
+        :key="item.name"
+        :to="item.path"
+        class="text-sm font-medium text-gray-500 hover:text-gray-900 transition"
+      >
+        {{ item.name }}
+      </NuxtLink>
+    </nav>
+
+    <!-- subtle separator -->
+    <div class="mt-8 flex justify-center">
+      <div class="h-px w-24 bg-gray-100"></div>
     </div>
-  </footer>
+
+    <!-- SOCIALS -->
+    <div class="mt-6 flex justify-center space-x-5">
+      <a
+        v-for="item in socials"
+        :key="item.name"
+        :href="item.href"
+        target="_blank"
+        class="text-gray-400 hover:text-gray-900 transition transform hover:scale-110"
+      >
+        <span class="sr-only">{{ item.name }}</span>
+        <Icon :name="item.icon" class="h-5 w-5" />
+      </a>
+    </div>
+
+    <!-- BRAND / SIGNATURE -->
+    <div class="mt-6 text-center">
+      <p class="text-sm text-gray-400">
+        {{ getAssoName() }}
+      </p>
+    </div>
+
+  </div>
+</footer>
 </template>
 
 <script setup lang="ts">
