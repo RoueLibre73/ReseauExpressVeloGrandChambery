@@ -78,9 +78,7 @@ credit: Roue Libre
 
 
 ::banner{type="unsecured"}
-Les traversées des carrefours et des sorties de commerces sont matérialisées par un simple marquage au sol. Des véhicules sont régulièrement stationnés sur la piste et déposent de la boue sur ce tronçon.
-
-Et le passage non sécurisé à contresens du rond point Landiers Sud (Carrefour, Boulanger...) reste un point noir pour les cyclistes.
+Au niveau du Leclerc drive, des véhicules sont régulièrement stationnés et déposent de la boue sur ce tronçon. Le passage non sécurisé à contresens du rond point Landiers Sud (Carrefour, Boulanger...) est un point noir pour les cyclistes.
 ::
 
 ::content-image
