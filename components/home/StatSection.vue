@@ -159,14 +159,14 @@
     >
       <img
         src="https://rouelibre.net/wp-content/uploads/2026/03/IMG_2603-768x576.jpg"
-        alt="Roue Libre ouvre un Hors Piste"
+        alt="Roue Libre sécurise un Hors Piste"
         class="w-full h-48 object-cover rounded-lg shadow-md group-hover:shadow-xl transition"
       />
       <p class="text-xs text-center text-gray-500">
         21 mai 2026
       </p>
       <p class="mt-2 text-sm text-center text-gray-700 font-medium">
-        Roue Libre ouvre un Hors Piste
+        Roue Libre sécurise un Hors Piste
       </p>
     </a>
 
