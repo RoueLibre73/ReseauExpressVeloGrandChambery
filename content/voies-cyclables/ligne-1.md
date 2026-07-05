@@ -12,9 +12,9 @@ cover: https://rouelibre.net/wp-content/uploads/2022/11/IMG_1555.jpg
 
 ## Les tronçons (du Sud au Nord)
 
-### Avenue des Ducs
+La piste bleue 1 débute sur l'avenue des Ducs, à hauteur de la place des Éléphants, à Chambéry. Elle emprunte la voie verte Belle Via (anciennement dénommée V63), qui relie Valence à Aix-les-Bains et Annecy. Sur le territoire de Grand Chambéry, cet itinéraire est numéroté :line-link{line=7} sur la portion de la voie verte Sud, depuis le lac Saint-André, puis piste bleue 1 sur la portion de la voie verte Nord, jusqu'au Bourget-du-Lac.
 
-<span style="color:blue;font-weight:bold">Satisfaisant</span> La Piste 1 débute sur l'avenue des Ducs, à la hauteur de la place des Eléphants de Chambéry.
+### Avenue des Ducs
 
 ::content-image
 ---
@@ -24,18 +24,14 @@ credit: Roue Libre
 ---
 ::
 
-::banner{type="modified"}
-En 2023, [l'aménagement d'une piste bidirectionnelle -largeur 3,5m- sur l'avenue des Ducs (https://www.chambery.fr/3672-amenagement-de-l-avenue-des-ducs-des-quais-ravet-et-borrel.htm)] a permis la jonction entre la Voie Verte Nord et la Voie Verte de la Leysse.
-::
+<span style="color:blue;font-weight:bold">Satisfaisant</span> 
+Le premier tronçon est une [piste cyclable bidirectionnelle de 3,5m de large créée en 2023](https://www.chambery.fr/3672-amenagement-de-l-avenue-des-ducs-des-quais-ravet-et-borrel.htm). 
 
 ::banner{type="wip"}
-Lors de cet aménagement, les carrefours n'ont pas été modifiés et les connexions avec le réseau secondaire n'ont pas été traitées.
+Lors de cet aménagement, les carrefours n'ont pas été traités, pas plus que les connexions avec le réseau secondaire. En 2026, Grand Chambéry a lancé des études afin d'améliorer ces aménagements..
 ::
 
-
-Elle est aménagé avec une piste cyclable bidirectionnelle de 3 à 3,5m de large. Elle croise le départ de la :line-link{line=2} Landiers au niveau du palais de Justice de Chambéry puis celui de la :line-link{line=9} La Motte Servolex au niveau du giratoire de la Poste.
-
-Ce compteur, le plus fréquenté de l'agglo, y a enregistré 4703 passages le jeudi 18 septembre 2025 et plus de 890 000 passages (cycles et trotinettes) sur l'année 2025. L'association Roue Libre célebre chaque année, le jour du dépassement lorsque 600 000 passages y sont comptabilisés (jauge de l'ancien compteur remplacé par un compteur 1 000 000 en 2024). [Communiqué. 600 000 passages au compteur du Verney le 6 septembre 2025. Nouveau record!](https://rouelibre.net/2025/09/16/600-000-passage-au-compteur-du-verney-le-6-septembre-2025-nouveau-record/)
+Elle croise le départ de la :line-link{line=2} qui relie Les Landiers au niveau du palais de Justice puis le compteur vélo du Vernay.
 
 ::content-image
 ---
@@ -44,8 +40,16 @@ caption: Roue Libre
 ---
 ::
 
+Ce compteur vélo, le plus fréquenté de l'agglo, a enregistré un nouveau record journalier le jeudi 11 juin 2026 avec 4718 passages et record mensuel avec 109 093 passages au mois de juin 2026 (premier mois supérieur à 100 000 passages). L'association Roue Libre célebre chaque année, le jour du dépassement lorsque 600 000 passages y sont comptabilisés (jauge de l'ancien compteur remplacé par un compteur 1 000 000 en 2024). [Communiqué. 600 000 passages au compteur du Verney le 6 septembre 2025. Nouveau record!](https://rouelibre.net/2025/09/16/600-000-passage-au-compteur-du-verney-le-6-septembre-2025-nouveau-record/). Le compteur a atteint plus de 890 000 passages cycles sur la totalité de l'année 2025.
 
-Il est possible de rejoindre via le giratoire de la Poste le Parc d'apprentissage vélo Annie Londonderry numeroté :line-link{line=O} dans cet observatoire, parc public situé au ventre de la résidence du Paradis. [Présentation, photos, vidéo en lien](https://bulletintransition73.fr/decouvrez-le-parc-dapprentissage-velo-de-chambery/)
+La piste croise au niveau du giratoire de la Poste la :line-link{line=9} qui relie La Motte Servolex. Il est aussi possible de rejoindre le Parc d'apprentissage vélo Annie Londonderry numeroté :line-link{line=O} dans cet observatoire, parc public situé au centre de la résidence du Paradis. [Présentation, photos, vidéo en lien](https://bulletintransition73.fr/decouvrez-le-parc-dapprentissage-velo-de-chambery/)
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/07/IMG_4806r.jpg
+caption: Traversée du giratoire de la poste rendue prioritaire pour les cycles en 2026
+credit: Roue Libre
+---
 
 La piste longe ensuite la rivière la Leysse via le Quai des Allobroges.
 
