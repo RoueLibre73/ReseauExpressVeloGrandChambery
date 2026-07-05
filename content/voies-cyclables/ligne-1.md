@@ -28,7 +28,7 @@ credit: Roue Libre
 Le premier tronçon est une [piste cyclable bidirectionnelle de 3,5m de large créée en 2023](https://www.chambery.fr/3672-amenagement-de-l-avenue-des-ducs-des-quais-ravet-et-borrel.htm). 
 
 ::banner{type="wip"}
-Lors de cet aménagement, les carrefours n'ont pas été traités, pas plus que les connexions avec le réseau secondaire. En 2026, Grand Chambéry a lancé des études afin d'améliorer ces aménagements..
+Lors de cet aménagement, les carrefours n'ont pas été traités, pas plus que les connexions avec le réseau secondaire. En 2026, Grand Chambéry a lancé des études afin d'améliorer ces aménagements.
 ::
 
 Elle croise le départ de la :line-link{line=2} qui relie Les Landiers au niveau du palais de Justice puis le compteur vélo du Vernay.
@@ -47,7 +47,7 @@ La piste croise au niveau du giratoire de la Poste la :line-link{line=9} qui rel
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2026/07/IMG_4806r.jpg
-caption: Traversée du giratoire de la poste rendue prioritaire pour les cycles en 2026
+caption: Traversée du giratoire de La Poste rendue prioritaire pour les cycles en 2026
 credit: Roue Libre
 ---
 

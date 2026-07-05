@@ -14,7 +14,7 @@ cover: https://rouelibre.net/wp-content/uploads/2026/04/REV7-IMG_3380r.jpg
 
 ### Quai Borrel
 
-<span style="color:blue;font-weight:bold">Satisfaisant</span> La Piste 7 débute de la :line-link{line=1} sur l'avenue des Ducs, à la hauteur de la place des Eléphants de Chambéry.
+<span style="color:blue;font-weight:bold">Satisfaisant</span> La Piste 7 débute sur l'avenue des Ducs au niveau de la place des Eléphants de Chambéry dans la continuité de la :line-link{line=1} avec une [piste bidirectionnelle de 3,5m de large réalisée en 2023](https://www.chambery.fr/3672-amenagement-de-l-avenue-des-ducs-des-quais-ravet-et-borrel.htm).
 
 ::content-image
 ---
@@ -24,16 +24,12 @@ credit: Roue Libre
 ---
 ::
 
-::banner{type="modified"}
-En 2023, [l'aménagement d'une piste bidirectionnelle -largeur 3,5m- sur l'avenue des Ducs] (https://www.chambery.fr/3672-amenagement-de-l-avenue-des-ducs-des-quais-ravet-et-borrel.htm) a permis la jonction entre la Voie Verte Nord et la Voie Verte de la Leysse.
-::
-
 ::banner{type="unsecured"}
-Lors de cet aménagement, les carrefours n'ont pas été modifiés et les connexions avec le réseau secondaire n'ont pas été traitées.
+Lors de cet aménagement, les carrefours n'ont pas été traités, pas plus que les connexions avec le réseau secondaire. En 2026, Grand Chambéry a lancé des études afin d'améliorer ces aménagements.
 ::
 
 ### Quai Borrel
-Elle dessert le quai Borrel par une piste cyclable bidirectionnelle de 3,5m de large.
+La piste emprunte le quai Borrel au moyen d'une piste cyclable bidirectionnelle de 3,5 m de largeur.
 
 ::content-image
 ---
@@ -43,6 +39,13 @@ credit: Roue Libre
 ---
 ::
 
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/07/IMG_4810r.jpg
+caption: Traversée du quai Borrel rendue prioritaire pour les cycles en 2026
+credit: Roue Libre
+---
+::
 
 ### Quai de la Rize
 
