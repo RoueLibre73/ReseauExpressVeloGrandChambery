@@ -50,6 +50,7 @@ imageUrl: https://rouelibre.net/wp-content/uploads/2026/07/IMG_4806r.jpg
 caption: Traversée du giratoire de La Poste rendue prioritaire pour les cycles en 2026
 credit: Roue Libre
 ---
+::
 
 La piste longe ensuite la rivière la Leysse via le Quai des Allobroges.
 
