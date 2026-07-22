@@ -3,12 +3,13 @@
 ## Qu'est-ce que Cyclopolis ?
 Il s'agit d'une plateforme web permettant la visualisation d'un projet de réseau cyclable structurant.
 
-Entièrement développée par des bénévoles de l'association lyonnaise "La Ville à Vélo", cette plateforme a pour objectif principal de suivre le développement du projet des "Voies Lyonnaises".
+Entièrement développée par des bénévoles de l'association lyonnaise "La Ville à Vélo", cette plateforme déclinée par l'association Roue Libre sur le territoire de Grand Chambéry a pour objectif principal de suivre le développement du projet des "Pistes Bleues".
 
 On y retrouve en particulier :
-- une carte intéractive permettant de visualiser les tracés des voies cyclables.
+- une carte intéractive permettant de visualiser les tracés des voies cyclables et leur qualité.
 - une page détaillée sur chacune des voies cyclables.
-- des analyses de traffic à partir des compteurs à vélo de la métropole lyonnaise.
+- un historique du développement d'un réseau vélo à Haut Niveau de Service sur Grand Chambéry
+- des actualités du réseau.
 
 ## Est-il possible de réutiliser Cyclopolis pour un autre projet ?
 

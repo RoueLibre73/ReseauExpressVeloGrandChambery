@@ -64,9 +64,9 @@ Lors de l'inauguration des Pistes Bleues en juin 2024, 9 lignes et 57 kilomètre
 Comme plusieurs secteurs de Grand Chambéry ne sont actuellement pas desservis par ce jalonnement, l'association Roue Libre demande l'ajout de 2 Pistes Bleues complémentaires : la :line-link{line=Y} pour connecter Chambéry à Jacob - Bellecombette et la :line-link{line=Z} pour relier Chambéry-Mérande à Barby via Bassens. Le suivi de la réalisation de ces deux nouvelles Pistes Bleues ajoute ainsi 7 kilomètres de pistes suivis par cet observatoire.
 
 ## Points noirs
-Quelques points noirs sont affichés sur la carte. Ce sont les points noirs les plus problématiques situés seulement sur le réseau stuctrant. 
-A noter que les tronçons "à améliorer" de couleur rouge ou non satisfaisants de couleur noir comportent déjà des points problématiques pour les cyclistes, ceux-ci ne sont donc pas dessinés sur la carte.
-Enfin, comme vous le voyez au quotidien ,il y a de nombreux autres points noirs relevés sur l'ensemble du réseau. La [carte de baromètre vélo 2025 de la FUB](https://www.barometre-velo.fr/2025/carte/#11.31/45.5615/5.9463) en donne une version assez complète, vous pouvez la retrouver en lien.
+Quelques points noirs sont affichés sur la carte. Ce sont les points noirs les plus problématiques situés seulement sur le réseau à Haut Niveau de Service (hors réseau secondaire et réseau de déserte locale). 
+Les points noirs sont des noeuds du réseau non sécurisé ou difficiles à franchir pour les cyclisyes, ils sont différents des tronçons satasfaisants, "à améliorer" ou non satisfaisants dessinés sur la carte.
+Enfin, comme vous le voyez au quotidien, il y a de nombreux autres points noirs relevés sur l'ensemble du réseau. La [carte de baromètre vélo 2025 de la FUB](https://www.barometre-velo.fr/2025/carte/#11.31/45.5615/5.9463) en donne une version assez complète, vous pouvez la retrouver en lien.
 
 ## Que signifie la typologie actuel de chaque ligne
 L'ensemble du linéaire des Pistes Bleues jalonnées par Grand Chambéry est intégré dans ce calcul en y ajoutant les 2 nouvelles pistes demandées par Roue Libre.
@@ -80,13 +80,11 @@ Enfin, si une des typologie représente moins de 0.5% du linéaire total, il est
 ## Précision des cartographies
 Nous nous sommes efforcés d’être le plus précis possible sur le positionnement de l’aménagement cyclable dans nos cartes interactives. Cependant, certains tronçons ont été dessinés à un moment où nous ignorions le côté d’insertion de la piste sur la rue. Ainsi, en zoomant beaucoup sur une rue en particulier, il est possible de retrouver des incohérences. C’est tout à fait normal, car la carte interactive a pour objectif principal de repérer les rues concernées par l’aménagement et pas son insertion précise. Nous travaillerons cependant à une amélioration de cette précision de manière à pouvoir intégrer les informations géographiques de l'observatoire au sein de la communauté d’OpenStreetMap.
 
-## Réseau 2026 et 2033
-L'observatoire des Pistes Bleues a pour objectif de suivre la réalisation du réseau cyclable structurant continu et sécurisé sur le territoire de Grand Chambéry.
-
-A l’occasion des campagnes pour les élections communautaires de 2026, l'observatoire des Pistes Bleues de Grand Chambéry évoluera pour comparer les programmes des différentes formations politiques candidates pour la mise en place d'un Système vélo et la réalisation d'un réseau cyclable complet sur Grand Chambéry à l’horizon 2033 (réseau structurant, réseau secondaire et réseau de desserte locale).
+## Réseau vélo à Haut Niveau de Service
+L'observatoire des Pistes Bleues a pour objectif de suivre la réalisation du réseau cyclable structurant continu et sécurisé complet sur le territoire de Grand Chambéry.
 
 ## Réutilisation du contenu du site
-Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme « Cyclopolis » (avec lien vers <a href="https://cyclopolis.fr" target="_blank">https://cyclopolis.fr</a>) et du nom de l’association contributrice « Roue Libre » (avec lien vers <a href="https://rouelibre.net/" target="_blank">https://rouelibre.net/</a>).
+Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme « Observatoire des Pistes Bleues » (avec lien vers <a href="https://observatoire.rouelibre.net/" target="_blank">https://observatoire.rouelibre.net/</a>) et si possible du nom de l’association contributrice « Roue Libre » avec le lien vers <a href="https://rouelibre.net/" target="_blank">https://rouelibre.net/</a>).
 
 ## Contribuer
 Pour contribuer et donner un coup de mail à ce travail de suivi, contactez nous via  [ce formulaire](https://framaforms.org/observatoire-pistes-bleues-roue-libre-1738778551)
