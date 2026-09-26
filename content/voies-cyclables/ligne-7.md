@@ -29,7 +29,7 @@ Lors de cet aménagement, les carrefours n'ont pas été traités, pas plus que 
 ::
 
 ### Quai Borrel
-La piste emprunte le quai Borrel au moyen d'une piste cyclable bidirectionnelle de 3,5 m de largeur.
+La piste emprunte le quai Borrel au moyen d'une piste cyclable bidirectionnelle de 3,5 m de largeur. [La traversée cycle prioritaire du quai Borrel mise en place fin juin 2026 a été supprimé sans concertation le 25 septembre 2026](https://rouelibre.net/2026/09/25/grand-chambery-non-a-la-suppression-de-la-priorite-cycle-quai-borrel/).
 
 ::content-image
 ---
@@ -42,7 +42,15 @@ credit: Roue Libre
 ::content-image
 ---
 imageUrl: https://rouelibre.net/wp-content/uploads/2026/07/IMG_4810r.jpg
-caption: Traversée du quai Borrel rendue prioritaire pour les cycles en 2026
+caption: Traversée du quai Borrel prioritaire cycles pendant seulement 2 mois de juillet à septembre 2026
+credit: Roue Libre
+---
+::
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/09/IMG_6259r.jpg
+caption: Suppression de la traversée du quai Borrel prioritaire cycles le 25 septembre 2026
 credit: Roue Libre
 ---
 ::
@@ -126,3 +134,19 @@ La voie verte se termine sur la commune de Saint Jeoire Prieuré, le jalonnement
 
 | ![Pont des Carmes](https://rouelibre.net/wp-content/uploads/2026/02/IMG_1955r.jpg) <br> ⚫ Aucun aménagement pour les cycles <br>  *Pont des Carmes - Chambéry* | ![Giratoire Paul Chevalier](https://rouelibre.net/wp-content/uploads/2024/11/REV7-IMG_4206.jpg) <br> ⚫ Giratoire non sécurisé <br> *Giratoire Paul Chevalier - Chambéry* |
 |---|---|
+
+## Fil d'actu
+
+
+### 25 septembre 2026. Suppression de la traversée prioritaire cycles quai Borrel
+Une nouvelle fois, ce 25 septembre 2026, l’association Roue Libre déroule symboliquement le tapis bleu aux cyclistes. Aujourd’hui, nous mettons en lumière la traversée du quai Borrel par la piste bleue n°7 – Veloroute Belle Via. Ce 23 septembre, sans aucune concertation, Grand Chambéry et la ville de Chambéry ont supprimé la priorité cycles installée cet été, et que nous avions saluée à l’époque. Alors que la pratique du vélo se développe et que les attentes des usagers sont de plus en plus fortes, Roue Libre dénonce une régression en matière de politique cyclable.
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/09/IMG_6236.jpg
+caption: Action Roue Libre du 25 septembre mai 2026
+credit: Roue Libre
+---
+::
+
+[Communiqué, revue de presse, photos](https://rouelibre.net/2026/09/25/grand-chambery-non-a-la-suppression-de-la-priorite-cycle-quai-borrel/){:target="_blank"}

@@ -16,6 +16,20 @@
         }
       },
       {
+        "type": "Feature",
+        "properties": {
+          "type": "danger",
+          "name": "Quai Borrel",
+          "danger": "Traversée Quai Borrel non prioritaire",
+          "line": "7",
+          "imgUrl": "https://rouelibre.net/wp-content/uploads/2026/09/IMG_6261-768x576.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [ 5.9280716, 45.5672516]
+        }
+      },
+      {
             "type": "Feature",
             "properties": {
               "type": "danger",
