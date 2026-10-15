@@ -57,9 +57,8 @@ Situé à l’entrée de Chambéry, le rond-point de l’étoile Marie Marvingt 
 [Lire la suite](https://rouelibre.net/2026/10/15/etoile-du-stade-comte-vert-jean-jaures/){:target="_blank"}
 ::
 
-| ![Action "Rond-point noir" le 15 octobre 2026](https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_2208.jpg) <br> Action "Rond-point noir" le 15 octobre 2026 <br> *Giratoire de l'étoile / du stade Marie Marvingt - Chambéry*| ![Etudes Grand Chambéry](![alt text](image.png)) <br> Scénario Unidirectionnel ou bidirectionnel. Grand Chambéry <br> *Giratoire de l'étoile / du stade Marie Marvingt - Chambéry* |
+| ![Action "Rond-point noir" le 15 octobre 2026](https://rouelibre.net/wp-content/uploads/2026/10/IMG_6502-300x225.jpg) <br> Action "Rond-point noir" le 15 octobre 2026 <br> *Giratoire de l'étoile / du stade Marie Marvingt - Chambéry*| ![Etudes Grand Chambéry](https://rouelibre.net/wp-content/uploads/2026/10/Scenario-1-Stade.png) <br> Scénario Unidirectionnel ou bidirectionnel. Grand Chambéry <br> *Giratoire de l'étoile / du stade Marie Marvingt - Chambéry* |
 |---|---|
-
 
 ### Avenue du Comte Vert Nord
 <span style="color:red;font-weight:bold">A améliorer</span> Trottoir partagé en voie verte dans le sens Sud Nord et bande cyclable le long de la voie de bus dans le sens Nord-Sud. Giratoire sécurisé pour les cyclistes créé en 2019.
