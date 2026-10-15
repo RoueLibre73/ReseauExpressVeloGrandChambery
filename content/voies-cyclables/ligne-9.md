@@ -51,6 +51,16 @@ credit: Roue Libre
 
 Une étude complète a été réalisée en 2025 par Grand Chambéry pour requalifier le secteur étpiole du stade comprenant Avenue du Comte Vert, Avenue Jean Jaurès et Rond point du stade avec la réalisation d'espaces piétons et de liaisons cycles sécurisées.
 
+::banner{type="wip"}
+
+Situé à l’entrée de Chambéry, le rond-point de l’étoile Marie Marvingt constitue depuis de nombreuses années un point noir dangereux pour les piétons et les cyclistes. Malgré des études engagées pour améliorer sa sécurité, aucune réalisation concrète n’a encore vu le jour. Face à cette situation, l’association Roue Libre a organisé une action de sensibilisation le jeudi 15 octobre 2026 pour alerter les collectivités sur l’urgence d’aménager dès 2027 ce carrefour et garantir la continuité des itinéraires cyclables entre Chambéry et La Motte-Servolex. 
+[Lire la suite](https://rouelibre.net/2026/10/15/etoile-du-stade-comte-vert-jean-jaures/){:target="_blank"}
+::
+
+| ![Action "Rond-point noir" le 15 octobre 2026](https://rouelibre.net/wp-content/uploads/2025/02/REV1-IMG_2208.jpg) <br> Action "Rond-point noir" le 15 octobre 2026 <br> *Giratoire de l'étoile / du stade Marie Marvingt - Chambéry*| ![Etudes Grand Chambéry](![alt text](image.png)) <br> Scénario Unidirectionnel ou bidirectionnel. Grand Chambéry <br> *Giratoire de l'étoile / du stade Marie Marvingt - Chambéry* |
+|---|---|
+
+
 ### Avenue du Comte Vert Nord
 <span style="color:red;font-weight:bold">A améliorer</span> Trottoir partagé en voie verte dans le sens Sud Nord et bande cyclable le long de la voie de bus dans le sens Nord-Sud. Giratoire sécurisé pour les cyclistes créé en 2019.
 
@@ -144,3 +154,19 @@ credit: Roue Libre
 
 | ![Rond Point du stade](https://rouelibre.net/wp-content/uploads/2024/06/IMG_1096.jpg) <br>  ⚫ Circulation non sécurisée des cycles sur l'anneau routier <br>  *Rond Point du stade - Chambéry* | ![Carrefour route de l'Epine](https://rouelibre.net/wp-content/uploads/2025/02/REV9-IMG_6301.jpg) <br> ⚫ Traversée non sécurisée <br> *Carrefour route de l'Epine- Chambéry* |
 |---|---|
+
+## Fil d'actu
+
+## Communiqué Roue Libre. Rond Point de l'étoile / du stade, il est urgent d’agir pour la sécurité des cyclistes et les piétons
+Situé à l’entrée de Chambéry, le rond-point de l’étoile Marie Marvingt constitue depuis de nombreuses années un point noir dangereux pour les piétons et les cyclistes. Malgré des études engagées pour améliorer sa sécurité, aucune réalisation concrète n’a encore vu le jour. Face à cette situation, l’association Roue Libre a organisé une action de sensibilisation le jeudi 15 octobre 2026 pour alerter les collectivités sur l’urgence d’aménager dès 2027 ce carrefour et garantir la continuité des itinéraires cyclables entre Chambéry et La Motte-Servolex. 
+[Lire la suite](https://rouelibre.net/2026/10/15/etoile-du-stade-comte-vert-jean-jaures/){:target="_blank"}
+
+::content-image
+---
+imageUrl: https://rouelibre.net/wp-content/uploads/2026/10/IMG_6502-300x225.jpg
+caption: Action Roue Libre du 15 octobre 2026
+credit: Roue Libre
+---
+::
+
+[Communiqué, revue de presse, photos](https://rouelibre.net/2026/10/15/etoile-du-stade-comte-vert-jean-jaures/){:target="_blank"}
