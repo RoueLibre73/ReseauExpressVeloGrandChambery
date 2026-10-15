@@ -51,12 +51,12 @@ credit: Roue Libre
 
 Une [étude complète](https://www.grandchambery.fr/toutes-les-actualites/concertation-publique-sur-les-amenagements-cyclables-du-secteur-de-letoile-du-stade){:target="_blank"} a été réalisée en 2025 par Grand Chambéry pour requalifier le secteur étoile du stade comprenant Avenue du Comte Vert, Avenue Jean Jaurès et Rond point du stade avec la réalisation d'espaces piétons et de liaisons cycles sécurisées.
 
-::banner{type="wip"}
+### Giratoire de l'étoile du stade
 
 Situé à l’entrée de Chambéry, le rond-point de l’étoile du stade Marie Marvingt constitue depuis de nombreuses années un point noir dangereux pour les piétons et les cyclistes. Malgré des études engagées pour améliorer sa sécurité, aucune réalisation concrète n’a encore vu le jour. Face à cette situation, l’association Roue Libre a organisé une action de sensibilisation le jeudi 15 octobre 2026 pour alerter les collectivités sur l’urgence d’aménager dès 2027 ce carrefour et garantir la continuité des itinéraires cyclables entre Chambéry et La Motte-Servolex.
 
 [Lire la suite](https://rouelibre.net/2026/10/15/etoile-du-stade-comte-vert-jean-jaures/){:target="_blank"}
-::
+
 
 | ![Action "Rond-point noir" le 15 octobre 2026](https://rouelibre.net/wp-content/uploads/2026/10/IMG_6502-300x225.jpg) <br> Action "Rond-point noir" le 15 octobre 2026 <br> *Giratoire de l'étoile / du stade Marie Marvingt - Chambéry*| ![Etudes Grand Chambéry](https://rouelibre.net/wp-content/uploads/2026/10/Scenario-1-Stade.png) <br> Scénario Unidirectionnel. Grand Chambéry <br> *Giratoire de l'étoile / du stade Marie Marvingt - Chambéry* |
 |---|---|
